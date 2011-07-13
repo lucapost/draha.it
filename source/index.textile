@@ -12,12 +12,12 @@ Il soggiorno è consigliato agli ospiti in cerca di relax e di aria fresca, per 
 
 Oasi di pace Draha è una realtà a conduzione familiare, gestita dalla signora Teresa, la quale si prende cura di ogni aspetto: dall'accoglienza degli ospiti, dalla cura del giardino alla organizzazione della casa, alla preparazione delle colazioni per gli ospiti del bed and breakfast.
 
-h2. "@draha_it":https://twitter.com/draha_it
+h2. "@bb_draha_it":https://twitter.com/bb_draha_it
 
 notextile. <div id="jTweetsAnywhereSample"></div>
 <script>
 $('#jTweetsAnywhereSample').jTweetsAnywhere({
-    username: 'draha_it',
+    username: 'bb_draha_it',
     count: 5
 });
 </script>
