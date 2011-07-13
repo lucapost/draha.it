@@ -1,0 +1,219 @@
+@import url(/css/reset.css);
+@import url(/css/text.css);
+@import url(/css/960.css);
+@import url(/css/hashgrid.css);
+@import url(http://fonts.googleapis.com/css?family=Nobile);
+@import url(/css/prettyPhoto.css);
+@import url(/css/jquery.jtweetsanywhere-1.2.1.css);
+
+html,
+body {
+	font-size: 16px;
+	line-height:20px;
+	color: #400020;
+	background-color: #402020;
+	font-family: 'Nobile', arial, serif;
+	padding: 0px; 
+	margin: 0px; 
+	width: 100%;
+	height: 100%;
+}
+
+h1 ,h2 {
+	text-transform: capitalize;
+        color: #202020;
+}
+
+h1 {
+	font-size: 32px;
+	line-height: 40px;
+}
+
+h2 {	
+	font-size: 24px;
+	line-height: 40px;
+}
+
+blockquote {
+	padding-left: 40px;
+}
+
+a {
+	color: #400020;
+	text-decoration: none;
+	transition: #400020;
+	transition-duration: 4000ms;
+	-webkit-transition: color; 
+	-webkit-transition-duration: 4000ms;
+	-moz-transition: color; 
+	-moz-transition-duration: 4000ms;
+	-o-transition: color; 
+	-o-transition-duration: 4000ms;
+}
+
+a:hover {
+	color: #202020;
+	transition: color;
+	transition-duration: 400ms;
+	-webkit-transition: color;
+	-webkit-transition-duration: 400ms;
+	-moz-transition: color;
+	-moz-transition-duration: 400ms;
+	-o-transition: color;
+	-o-transition-duration: 400ms;
+}
+
+#container {
+	padding-top: 20px;
+	background:url(/images/cornice.png) no-repeat right top; 
+	background-color: #a0a080;
+	border: 1px solid #000000;
+	border-top: 0px solid #000000;
+}
+
+.image {
+	height: 318px;
+	-webkit-border-radius: 10px 10px; 
+	-moz-border-radius: 10px 10px; 
+	margin-bottom:20px;
+	border: 1px solid #000000;
+}
+
+#benv div[class="image"] {
+	background:url(/images/benv.jpg);
+}
+
+#allo div[class="image"] {
+	background:url(/images/allo.jpg);
+}
+
+#gall div[class="image"] {
+	background:url(/images/gall.jpg);
+}
+
+#pers div[class="image"] {
+	background:url(/images/pers.jpg);
+}
+
+#cont div[class="image"] {
+	background:url(/images/cont.jpg);
+}
+
+#info div[class="image"] {
+	background:url(/images/info.jpg);
+}
+
+.main a {
+	color: #202020;
+}
+
+.main a:hover {
+	color: #202020;
+	text-decoration: underline;
+}
+
+.main img {
+	background-color: #402020;
+	height: 58px;
+	width: 58px;
+	margin-right: 20px;
+	margin-bottom: 20px;
+	border: 1px solid black;
+	border-radius: 5px;
+	padding:0;
+}
+
+.main img.last {
+	margin-right: 0;
+}
+
+#boxrx {
+	margin-top: 160px;
+}
+
+#logo {
+	width: 138px;
+	height: 138px;
+	border: 1px solid #000000;
+	background-color: #402020;
+	color: #e0e0e0;
+	-webkit-border-radius: 10px 10px; 
+	-moz-border-radius: 10px 10px; 
+	text-align: center;
+}
+
+#logo h1 {
+	color: #e0e0e0;
+	padding: 0px;
+	margin: 0px;
+	font-size: 16px;
+	line-height: 20px;
+	padding-top: 2px;
+}
+
+#logo h2 {
+	color: #e0e0e0;
+	padding: 0px;
+	margin: 0px;
+	font-size: 16px;
+	line-height: 20px;
+}
+
+#logo p {
+	padding: 8px 0 8px 0;
+	margin: 0px;
+}
+
+#menu {
+	height: 140px;
+	font-size: 16px;
+	line-height: 28px;
+	text-transform: capitalize;
+}
+
+#menu a {
+	text-decoration: none;
+}
+
+#menu a:hover {
+	padding-left: 4px;
+	-webkit-transition: all .5s ease-in-out;
+}
+
+ul.tabs {
+	list-style:none;
+	height: 100%;
+}
+
+ul.tabs li {
+	margin: 0;
+	padding:0;
+	}
+
+#footer {
+	color: #330033;
+	margin-bottom: 20px;
+	text-align:center;
+	font-size: 12px;
+}
+
+#footer a {
+	color: #330033;
+}
+
+#lang {
+	position:absolute;
+	top: 20px;
+	right: 20px;
+}
+
+.jta-tweet-body {
+	text-transform: lowercase;
+}
+.jta-tweet-retweeter {
+	display: none;
+}
+
+.jta-tweet-timestamp {
+	display: none;
+}
