@@ -20,8 +20,8 @@ body {
 }
 
 h1 ,h2 {
-	text-transform: capitalize;
         color: #202020;
+	text-transform: capitalize;
 }
 
 h1 {
@@ -207,9 +207,10 @@ ul.tabs li {
 	right: 20px;
 }
 
-.jta-tweet-body {
+h2.lowercase {
 	text-transform: lowercase;
 }
+
 .jta-tweet-retweeter {
 	display: none;
 }
