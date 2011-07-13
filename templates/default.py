@@ -31,7 +31,7 @@ def header(node):
 		<script type="text/javascript" src="/js/jquery.prettyPhoto.js" ></script>
 		<script type="text/javascript" src="/js/pretty-init.js" ></script>
 		<script type="text/javascript" src="/js/jquery.jtweetsanywhere-1.2.1.min.js" ></script>
-<!--		<script type="text/javascript" src="/js/google-analytics.js"></script> -->
+		<script type="text/javascript" src="/js/google-analytics.js"></script> 
 		<title>Draha Oasi di Pace - b&copy;b e basa vacenze</title>
 	</head>
 	<body>
