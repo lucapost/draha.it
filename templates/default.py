@@ -7,7 +7,7 @@ src_dir = "source"
 dst_dir = "."
 src_ext = {"markdown": "md", "textile": "textile"}
 dst_ext = "html"
-hidden = set(["404.textile", "500.textile", "index.textile"])
+hidden = set(["404.textile"])
 home = " "
 path_separator = " "
 current_time = datetime.datetime.now()
@@ -31,8 +31,8 @@ def header(node):
 		<script type="text/javascript" src="/js/jquery.prettyPhoto.js" ></script>
 		<script type="text/javascript" src="/js/pretty-init.js" ></script>
 		<script type="text/javascript" src="/js/jquery.jtweetsanywhere-1.2.1.min.js" ></script>
-		<script type="text/javascript" src="/js/google-analytics.js"></script>
-		<title>Oasi di pace - Draha</title>
+<!--		<script type="text/javascript" src="/js/google-analytics.js"></script> -->
+		<title>Draha Oasi di Pace - b&copy;b e basa vacenze</title>
 	</head>
 	<body>
 		<div id="container" class="container_12">
