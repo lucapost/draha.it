@@ -1,4 +1,4 @@
 h1. readme
 
-"http://www.draha.it":http://www.draha.it
+"http://bb.draha.it":http://bb.draha.it
 
