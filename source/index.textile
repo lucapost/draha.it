@@ -18,7 +18,7 @@ notextile. <div id="jTweetsAnywhereSample"></div>
 <script>
 $('#jTweetsAnywhereSample').jTweetsAnywhere({
     username: 'bb_draha_it',
-    count: 5
+    count: 3
 });
 </script>
 </div><div id="allo" class="blocco-tab main">
