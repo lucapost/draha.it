@@ -148,7 +148,16 @@ a:hover {
 	margin: 0px;
 	font-size: 16px;
 	line-height: 20px;
-	padding-top: 2px;
+}
+
+#logo img {
+	padding: 12px 0 12px 0;
+	margin:0;
+}
+
+#logo p {
+	margin:0;
+	padding:0;
 }
 
 #menu {
