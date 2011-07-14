@@ -4,11 +4,11 @@ notextile. <div id="boxsx" class="grid_6 prefix_1">
 
 h1. benvenuti
 
-Oasi di pace Draha è una struttura ricettiva situata nei pressi della frazione di Postregna, in una splendida cornice del comune di Stregna, nelle Valli del Natisone in provincia di Udine.
+Oasi di pace Draha è una struttura ricettiva situata nei pressi della frazione di Postregna, in una splendida cornice del "comune di Stregna":www.comune.stregna.ud.it/ , nelle "Valli del Natisone":http://www.cividale.com/dintorni/valli.asp in provincia di Udine.
 
 Offre servizi di bed and breakfast e casa vacanze in un angolo immerso nel verde.
 
-Il soggiorno è consigliato agli ospiti in cerca di relax e di aria fresca, per gli amanti delle passeggiate a piedi o in bicicletta, oltre che come base d’appoggio per visitare le bellezze del Friuli orientale.
+Il soggiorno è consigliato agli ospiti in cerca di relax e di aria fresca, per gli amanti delle passeggiate a piedi o in "bicicletta":http://www.natisoneinbici.it/ , oltre che come base d’appoggio per visitare le bellezze del Friuli orientale.
 
 Oasi di pace Draha è una realtà a conduzione familiare, gestita dalla signora Teresa, la quale si prende cura di ogni aspetto: dall'accoglienza degli ospiti, dalla cura del giardino alla organizzazione della casa, alla preparazione delle colazioni per gli ospiti del bed and breakfast.
 
@@ -21,8 +21,8 @@ $('#jTweetsAnywhereSample').jTweetsAnywhere({
     count: 5
 });
 </script>
-	</div><div id="allo" class="blocco-tab main">
-	<div class="image"></div>
+</div><div id="allo" class="blocco-tab main">
+<div class="image"></div>
 
 h1. alloggi
 
