@@ -23,7 +23,7 @@ def header(node):
 		<link rel="stylesheet" type="text/css" media="all" href="/css/style.css" /> 
 		<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
 		<meta name="author" content="Luca Postregna" />
-		<meta name="keywords" content="teresa, postregna, stregna, valli, natisone, bed, breakfast, b&amp;b, casa, vacanze, dormire, cividale, friuli" />
+		<meta name="keywords" content="teresa, postregna, bed, breakfast, b&amp;b, casa, vacanze, dormire, stregna, valli, natisone, cividale, friuli" />
 		<meta name="description" content="bed and breakfast e casa vacanze di Teresa Postregna, dormire a Stregna nelle Valli del Natisone in provincia di Udine " />
 		<script type="text/javascript" src="/js/jquery.js" ></script>
 		<script type="text/javascript" src="/js/hashgrid.js" ></script> 
@@ -58,9 +58,9 @@ def footer(node):
 		</div>
 		<div id="lang">
 		   <a href="/it/"><img src="/images/it.jpg" alt="it" /></a><br/>
-<!--		   <a href="/en/"><img src="/images/en.jpg" alt="en" /></a><br/>
-		   <a href="/de/"><img src="/images/de.jpg" alt="de" /></a><br/>
-		   <a href="/fr/"><img src="/images/fr.jpg" alt="fr" /></a>
+		   <a href="/de/"><img src="/images/de.jpg" alt="en" /></a><br/>
+<!--		   <a href="/fr/"><img src="/images/fr.jpg" alt="de" /></a><br/>
+		   <a href="/en/"><img src="/images/en.jpg" alt="fr" /></a>
 -->		</div>
 	</body>
 </html>'''
