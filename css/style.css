@@ -203,6 +203,10 @@ ul.tabs li {
 	right: 20px;
 }
 
+#lang img {
+	margin-bottom: 20px;
+}
+
 h2.lowercase {
 	text-transform: lowercase;
 }

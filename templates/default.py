@@ -17,7 +17,7 @@ def header(node):
 
 	return '''
 	<!DOCTYPE HTML>
-	<html lang="it">
+	<html>
 	<head>
 		<link rel="shortcut icon" href="/images/fav.ico" />
 		<link rel="stylesheet" type="text/css" media="all" href="/css/style.css" /> 
@@ -58,9 +58,9 @@ def footer(node):
 		</div>
 		<div id="lang">
 		   <a href="/it/"><img src="/images/it.jpg" alt="it" /></a><br/>
-		   <a href="/de/"><img src="/images/de.jpg" alt="en" /></a><br/>
-<!--		   <a href="/fr/"><img src="/images/fr.jpg" alt="de" /></a><br/>
-		   <a href="/en/"><img src="/images/en.jpg" alt="fr" /></a>
+		   <a href="/de/"><img src="/images/de.jpg" alt="de" /></a><br/>
+<!--		   <a href="/fr/"><img src="/images/fr.jpg" alt="fr" /></a><br/>
+		   <a href="/en/"><img src="/images/en.jpg" alt="en" /></a>
 -->		</div>
 	</body>
 </html>'''

@@ -1,6 +1,6 @@
 
 	<!DOCTYPE HTML>
-	<html lang="it">
+	<html>
 	<head>
 		<link rel="shortcut icon" href="/images/fav.ico" />
 		<link rel="stylesheet" type="text/css" media="all" href="/css/style.css" /> 
@@ -28,11 +28,18 @@
 	</head>
 	<body>
 		<div id="container" class="container_12">
-<SCRIPT language="JavaScript">
-<!--
-window.location="/it/";
-//-->
-</SCRIPT>
+<script language="javascript"> 
+<!-- Begin 
+if (navigator.appName == 'Netscape') 
+var language = navigator.language; 
+else 
+var language = navigator.browserLanguage; 
+if (language.indexOf('it') > -1) document.location.href = '/it'; 
+else if (language.indexOf('de') > -1) document.location.href = '/de'; 
+else 
+document.location.href = '/it'; 
+// End --> 
+</script>
 			<div id="footer" class="grid_8 prefix_2">
 				&copy; 2011 <a href="http://luca.postregna.name">Luca Postregna</a> ::
 				update: 20110714 ::
@@ -42,9 +49,9 @@ window.location="/it/";
 		</div>
 		<div id="lang">
 		   <a href="/it/"><img src="/images/it.jpg" alt="it" /></a><br/>
-		   <a href="/de/"><img src="/images/de.jpg" alt="en" /></a><br/>
-<!--		   <a href="/fr/"><img src="/images/fr.jpg" alt="de" /></a><br/>
-		   <a href="/en/"><img src="/images/en.jpg" alt="fr" /></a>
+		   <a href="/de/"><img src="/images/de.jpg" alt="de" /></a><br/>
+<!--		   <a href="/fr/"><img src="/images/fr.jpg" alt="fr" /></a><br/>
+		   <a href="/en/"><img src="/images/en.jpg" alt="en" /></a>
 -->		</div>
 	</body>
 </html>

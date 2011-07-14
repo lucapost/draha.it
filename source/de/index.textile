@@ -6,12 +6,12 @@ h1. Herzlich willkomm
 
 Die Friedens Oase Draha ist eine Struktur in der Naehe des Dorfes Postregna in einer wunderschoenen Umgebung der "Gemeinde von Stregna":www.comune.stregna.ud.it/in den "Taelern des Natisone":http://www.cividale.com/dintorni/valli.asp in der Provinz von Udin.
 
-Die Struktur bietet in dieser gruenen Ecke  Unterkunfte  im Bed&Breakfast oder  im Ferienhaus
+Die Struktur bietet in dieser gruenen Ecke Unterkunfte im Bed and Breakfast oder im Ferienhaus.
 
 Der ideale Aufenthalt fuer Menschen die Enspannung und frische gute Luft geniessen moechten, wanderungen zu Fuss oder mit dem Rad lieben oder eine Basis fuer dieErkundungen der Schoenheiten von der orientalischen Seite Friauls suchen.
 
-Die Friedens Oase Draha ist ein Familienbetrieb der liebevoll von  Frau Teresa gefuehrt wird.
-Sie kuemmert sich um den Empfang ihrer Gaeste, um die Pflege des wunderschoenen Gartens, um die gesamte Organisation des Hauses und um die Vorbereitung des reichen Fruehstuecks  der Gaeste des B&B.
+Die Friedens Oase Draha ist ein Familienbetrieb der liebevoll von Frau Teresa gefuehrt wird.
+Sie kuemmert sich um den Empfang ihrer Gaeste, um die Pflege des wunderschoenen Gartens, um die gesamte Organisation des Hauses und um die Vorbereitung des reichen Fruehstuecks der Gaeste des B&B.
 
 h2. Informationen
 
@@ -27,13 +27,13 @@ $('#jTweetsAnywhereSample').jTweetsAnywhere({
 
 h1. Unterkuenfte
 
-Die Struktur erfuellt  die unterschiedlichen  Beduerfnisse und bietet je nach Kundenwunsch das passende  Angebot  im Bed & Breakfast oder  im Ferienhaus.
+Die Struktur erfuellt die unterschiedlichen Beduerfnisse und bietet je nach Kundenwunsch das passende Angebot im Bed & Breakfast oder im Ferienhaus.
 
 Die Preise sind von 20-27 € pro Tag pro Person, fuer laengere Aufenthalte koennen die Preise vereinbart werden.
 
-Unsere Struktur ist geeignet  fuer  Einzelpersonen, Paare und Familien mit Kinder.
+Unsere Struktur ist geeignet fuer Einzelpersonen, Paare und Familien mit Kinder.
 
-Zur Verfuegung des Kundens steht ein grosser Garten der mit bequemen Sitzmoebel, wie Gondeln, Haengematten, Fahrraeder und  Kinderspielzeug ausgestattet ist.  Darueberhinaus steht  ein  grosser Parkplatz zur Verfuegung.
+Zur Verfuegung des Kundens steht ein grosser Garten der mit bequemen Sitzmoebel, wie Gondeln, Haengematten, Fahrraeder und Kinderspielzeug ausgestattet ist. Darueberhinaus steht ein grosser Parkplatz zur Verfuegung.
 
 h2. bed and breakfast
 
@@ -44,28 +44,27 @@ h2. bed and breakfast
 
 Das Badezimmer bedient die beiden Zimmer.
 
-Das gemeinsame Esszimmer  ist mit Kamin und TV ausgestattet.
+Das gemeinsame Esszimmer ist mit Kamin und TV ausgestattet.
 
 Das Fruehstueck basiert zum groessten Teil aus Produkte lokaler Herkunft ist reich und ausreichend.
 
 h2. Ferienhaus
 
-4 Betten  in  Formel Ferienhaus,
+4 Betten in Formel Ferienhaus,
 
-* Ein Doppelzimmer (mit Moeglichkeit ein drittes Einzelbett  hineinzustellen)mit TV
+* Ein Doppelzimmer (mit Moeglichkeit ein drittes Einzelbett hineinzustellen)
 * Ein Schlafsofa fuer eine Person
 
-Kueche mit gemuetlichen Esstisch, Badezimmer mit Jacuzzi  Wanne .
+Kueche mit gemuetlichen Esstisch, Badezimmer mit Jacuzzi Wanne.
 
-Fuer den Tag nach der Ankunft stellt das Haus alles notwendige fuer das Fruehstueck zur Verfuegung
+Fuer den Tag nach der Ankunft stellt das Haus alles notwendige fuer das Fruehstueck zur Verfuegung.
 
 notextile. </div><div id="gall" class="blocco-tab main">
 	<div class="image"></div>
 
 h1. Gallerie
 
-notextile. 
-<a title=" Il Bed and Breakfast visto dal giardino." href="/images/fullscreen/01.jpg" rel="prettyPhoto[pp_gal]" > <img src="/images/thumbnails/01.png" alt="Oasi di Pace Draha" /></a><a title=" Il Bed and Breakfast visto dal giardino." href="/images/fullscreen/02.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/02.png" alt="Oasi di Pace Draha" /></a><a title=" Il Bed and Breakfast visto dal giardino." href="/images/fullscreen/03.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/03.png" alt="Oasi di Pace Draha" /></a><a title=" Il Bed and Breakfast visto dal giardino." href="/images/fullscreen/04.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/04.png" alt="Oasi di Pace Draha" /></a><a title=" Il tavolo per le colazioni all'aperto." href="/images/fullscreen/05.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/05.png" alt="Oasi di Pace Draha" /></a><a title=" L'ingresso del Bed and Breakfast" href="/images/fullscreen/06.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/06.png" alt="Oasi di Pace Draha" class="last" /></a>
+notextile. <a title=" Il Bed and Breakfast visto dal giardino." href="/images/fullscreen/01.jpg" rel="prettyPhoto[pp_gal]" > <img src="/images/thumbnails/01.png" alt="Oasi di Pace Draha" /></a><a title=" Il Bed and Breakfast visto dal giardino." href="/images/fullscreen/02.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/02.png" alt="Oasi di Pace Draha" /></a><a title=" Il Bed and Breakfast visto dal giardino." href="/images/fullscreen/03.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/03.png" alt="Oasi di Pace Draha" /></a><a title=" Il Bed and Breakfast visto dal giardino." href="/images/fullscreen/04.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/04.png" alt="Oasi di Pace Draha" /></a><a title=" Il tavolo per le colazioni all'aperto." href="/images/fullscreen/05.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/05.png" alt="Oasi di Pace Draha" /></a><a title=" L'ingresso del Bed and Breakfast" href="/images/fullscreen/06.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/06.png" alt="Oasi di Pace Draha" class="last" /></a>
 
 notextile. <a title=" L'ingresso del Bed and Breakfast" href="/images/fullscreen/07.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/07.png" alt="Oasi di Pace Draha" /></a><a title=" L'ingresso del Bed and Breakfast" href="/images/fullscreen/08.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/08.png" alt="Oasi di Pace Draha" /></a><a title=" Il salotto del Bed and Breakfast" href="/images/fullscreen/09.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/09.png" alt="Oasi di Pace Draha" /></a><a title=" Il salotto del Bed and Breakfast" href="/images/fullscreen/10.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/10.png" alt="Oasi di Pace Draha" /></a><a title=" Il salotto del Bed and Breakfast" href="/images/fullscreen/11.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/11.png" alt="Oasi di Pace Draha" /></a><a title=" Il salotto del Bed and Breakfast" href="/images/fullscreen/12.jpg" rel="prettyPhoto[pp_gal]" ><img class="last" src="/images/thumbnails/12.png" alt="Oasi di Pace Draha" /></a>
 
@@ -86,7 +85,7 @@ notextile. </div><div id="cont" class="blocco-tab main">
 
 h1. Kontakte
 
-Weitere Informationen, bezueglich  Angebote und Reservierungen erhalten Sie ueber,
+Weitere Informationen, bezueglich Angebote und Reservierungen erhalten Sie ueber,
 
 h2. telefono, email
 
@@ -103,21 +102,15 @@ Via Postregna, 17
 33040 Stregna, Udine
 Italia - ["maps(Oasi di Pace Draha su GoogleMaps)":http://goo.gl/maps/Z38D]
 
-h2. come raggiungerci
-
-La struttura è raggiungibile da Udine seguendo la strada statale 54 in direzione Cividale del Friuli, proseguendo per la slovenia fino alla località Ponte San Quirino, quindi a destra lungo la strada provinciale 19, ed ancora a destra lungo la strada provinciale 45 fino al centro della frazione di Scrutto (San Leonardo). Imboccare a destra la strada provinciale 47 in direzione di Stregna fino alla frazione Zamir, quindi ancora a destra verso la frazione di Postregna.
-
-La struttura si trova nella parte alta della frazione di Postregna, la stradina privata che conduce alla casa si collega alla strada comunale nelle immediate vicinanze del cartello di uscita dal paese.
-
 notextile. </div>
 		<div id="info" class="blocco-tab main">
 		<div class="image"></div>
 
 h1. Informationen
 
-h2. Restaurants und Agriturismi ( Bauernhoefe die Eigenprodukte servieren)
+h2. Restaurants und Agriturismi (Bauernhoefe die Eigenprodukte servieren)
 
-Die folgenden Restaurants im  Gebiet sind leicht zu erreichen ,
+Die folgenden Restaurants im Gebiet sind leicht zu erreichen,
 
 * Ristorante Sale e Pepe, Stregna
 * Ristorante Alla Posta, fraz. Clodig, Grimacco
@@ -126,7 +119,7 @@ Die folgenden Restaurants im  Gebiet sind leicht zu erreichen ,
 
 h2. Sehenswuerdigkeiten
 
-Innerhalb von  wenigen  Minuten kann man mit dem Auto  die folgenden historischen Orte
+Innerhalb von wenigen Minuten kann man mit dem Auto die folgenden historischen Orte
 
 * "Cividale del Friuli":http://www.comune.cividale-del-friuli.ud.it, "cividale.com":http://cividale.com/ (~15km)
 * "Gemona del Friuli":http://www.gemonaweb.it/ (~40km)
@@ -137,9 +130,9 @@ den Religioesen,
 
 und die naturalistischen Staetten,
 
-* "Catena montuosa del Kolovrat":http://it.wikipedia.org/wiki/Monte_Colovrat
-* "Monte Matajur":http://it.wikipedia.org/wiki/Matajur
-* "Regione del Collio":http://it.wikipedia.org/wiki/Collio_(regione_fisica)
+* "Bergkette Kolovrat Kolovrat":http://it.wikipedia.org/wiki/Monte_Colovrat
+* "Berg Matajur":http://it.wikipedia.org/wiki/Matajur
+* "Region Collio":http://it.wikipedia.org/wiki/Collio_(regione_fisica)
 
 besuchen und besichtigen.
 
@@ -162,17 +155,17 @@ sind wie folgt aufgefuehrt:
 
 h2. Referenzen
 
-Die Oasi di pace Draha ist unter anderem  present on-line an folgenden Adressen,
+Die Oasi di pace Draha ist unter anderem present on-line an folgenden Adressen,
 
 * alpiprealpigiulie "[1]":http://www.alpiprealpigiulie.eu/Oasi-di-Pace-Stregna.325.0.html "[2]":http://www.bedandbreakfastfvg.com/scheda.php?id=181
 * bedandbreakfastfvg "[1]":http://www.bedandbreakfastfvg.com/scheda.php?id=174
 
 notextile. </div></div><!-- chiuso boxsx -->
 <div id="boxrx" class="grid_4">
-	<a href="/it/">
+	<a href="/de">
 	<div id="logo" class="alpha grid_2 pull_1">
 
-h1.  Draha <br/>Casa Vacanze
+h1.  Draha <br/> Ferienhaus
 
 !/images/logo.png!
 

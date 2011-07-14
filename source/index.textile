@@ -1,5 +1,12 @@
-notextile. <SCRIPT language="JavaScript">
-<!--
-window.location="/it/";
-//-->
-</SCRIPT> 
+notextile. <script language="javascript"> 
+<!-- Begin 
+if (navigator.appName == 'Netscape') 
+var language = navigator.language; 
+else 
+var language = navigator.browserLanguage; 
+if (language.indexOf('it') > -1) document.location.href = '/it'; 
+else if (language.indexOf('de') > -1) document.location.href = '/de'; 
+else 
+document.location.href = '/it'; 
+// End --> 
+</script>
