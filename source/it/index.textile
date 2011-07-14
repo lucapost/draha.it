@@ -45,6 +45,10 @@ L'utilizzo del bagno è condiviso tra le stanze.
 
 Le stanze da letto ed il soggiorno dispongono di televisione a colori.
 
+A disposizione dei clienti è accessibile un ampio soggiorno con caminetto.
+
+Le colazioni sono ricche ed abbondanti anche a base di prodotti locali.
+
 h2. casa vacanze
 
 La struttura rende disponibili fino a 4 posti nelle formula casa vacanze, 
@@ -78,13 +82,6 @@ notextile. <a title=" Gli ospiti" href="/images/fullscreen/37.jpg" rel="prettyPh
 
 notextile. <a title=" Il panorama" href="/images/fullscreen/43.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/43.png" alt="Oasi di Pace Draha" /></a><a title=" Il panorama" href="/images/fullscreen/44.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/44.png" alt="Oasi di Pace Draha" /></a><a title=" Il panorama" href="/images/fullscreen/45.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/45.png" alt="Oasi di Pace Draha" /></a><a title=" Il panorama" href="/images/fullscreen/46.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/46.png" alt="Oasi di Pace Draha" /></a>
 
-notextile. </div><!-- <div id="pers" class="blocco-tab main">
-	<div class="image"></div>
-
-h1. persone
-
-Oasi di pace Draha è una realtà a conduzione familiare, gestita dalla signora Teresa, la quale si prende cura di ogni aspetto: dall'accoglienza degli ospiti, dalla cura del giardino alla organizzazione della casa, alla preparazione delle colazioni per gli ospiti del bed and breakfast.
- 
 notextile. </div>--><div id="cont" class="blocco-tab main">
 	<div class="image"></div>
 
@@ -132,8 +129,8 @@ h2. luoghi da visitare
 
 Entro pochi minuti di automobile dalla struttura è possibile visitare i seguenti luoghi di interesse storico,
 
-* "Cividale del Friuli":http://www.comune.cividale-del-friuli.ud.it, "cividale.com":http://cividale.com/
-* "Gemona del Friuli":http://www.gemonaweb.it/
+* "Cividale del Friuli":http://www.comune.cividale-del-friuli.ud.it, "cividale.com":http://cividale.com/ (~15km)
+* "Gemona del Friuli":http://www.gemonaweb.it/ (~40km)
 
 religioso, 
 
@@ -141,9 +138,9 @@ religioso,
 
 e naturalistico, 
 
-* "Catena del Kolovrat":http://it.wikipedia.org/wiki/Monte_Colovrat
+* "Catena montuosa del Kolovrat":http://it.wikipedia.org/wiki/Monte_Colovrat
 * "Monte Matajur":http://it.wikipedia.org/wiki/Matajur
-* "Collio":http://it.wikipedia.org/wiki/Collio_(regione_fisica)
+* "Regione del Collio":http://it.wikipedia.org/wiki/Collio_(regione_fisica)
 
 h2. appuntamenti
 
