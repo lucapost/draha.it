@@ -170,11 +170,11 @@ notextile. </div></div><!-- chiuso boxsx -->
 	<a href="/it/">
 	<div id="logo" class="alpha grid_2 pull_1">
 
-h1. Draha <br/> Oasi di Pace
+h1.  Draha <br/>Casa Vacanze
 
 !/images/logo.png!
 
-h2. Casa Vacanze <br/> B&amp;B
+h1. Oasi di Pace <br/> B&amp;B
 
 notextile. </div></a>
 	<div id="menu" class="omega grid_2 pull_1 clearfix">
