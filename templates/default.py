@@ -53,6 +53,9 @@ def header(node):
 					data-text="@bb_draha_it #bb #casavacenze #stregna #vallidelnatisone"
 					data-count="none">
 				Tweet</a> 
+				<iframe src="https://www.facebook.com/plugins/like.php?href=https://www.facebook.com/pages/Casa-Vacanze-Draha-BB-Oasi-di-Pace/171844799548891?sk=wall"
+				        scrolling="no" frameborder="0"
+				        style="border:none; width:50px; height:20px"></iframe>
 			</div>
 			<div id="lang" class="prefix_4 grid_3 clearfix">
 				<a href="/it"><div id="flag" class="it"></div></a><a href="/de"><div id="flag" class="de"></div></a>
