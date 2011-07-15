@@ -30,7 +30,9 @@ def header(node):
 		<script type="text/javascript" src="/js/block.js" ></script> 
 		<script type="text/javascript" src="/js/jquery.prettyPhoto.js" ></script>
 		<script type="text/javascript" src="/js/pretty-init.js" ></script>
-		<script type="text/javascript" src="/js/jquery.jtweetsanywhere-1.2.1.min.js" ></script>
+<!--		<script type="text/javascript" src="/js/jquery.jtweetsanywhere-1.2.1.min.js" ></script> -->
+		<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+		<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 		<script type="text/javascript">
   	        	var _gaq = _gaq || [];
 			_gaq.push(['_setAccount', 'UA-6164762-7']);
@@ -45,7 +47,21 @@ def header(node):
 	</head>
 	<body>
 		<div id="container" class="container_12">
-'''
+ 			<div id="boxsx" class="grid_6 prefix_1">
+				<div id="top">
+<!--	 				<div id="social">
+						<g:plusone size="medium" count="false" href="http://bb.draha.it"></g:plusone>
+						<a href="http://twitter.com/share" class="twitter-share-button"a
+							data-url="http://bb.draha.it"
+							data-text="#bnb #cividale #friuli #udine #vallidelnatisone"
+							data-count="none">
+						Tweet</a>
+					</div> -->
+					<div id="lang">
+						<a href="/it">it</a> - <a href="/de">de</a>
+					</div> 
+				</div>
+	'''
 def footer(node):
 	"""Builds the footer and returns it to a string."""
 	return '''
@@ -56,11 +72,5 @@ def footer(node):
 			</div><!-- chiuso footer -->
 			<div class="clear"></div>
 		</div>
-		<div id="lang">
-		   <a href="/it/"><img src="/images/it.jpg" alt="it" /></a><br/>
-		   <a href="/de/"><img src="/images/de.jpg" alt="de" /></a><br/>
-<!--		   <a href="/fr/"><img src="/images/fr.jpg" alt="fr" /></a><br/>
-		   <a href="/en/"><img src="/images/en.jpg" alt="en" /></a>
--->		</div>
 	</body>
 </html>'''

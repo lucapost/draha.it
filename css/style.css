@@ -71,6 +71,14 @@ a:hover {
 	border-top: 0px solid #000000;
 }
 
+#top {
+	margin-bottom: 20px;
+}
+
+#lang {
+	text-align: right;
+}
+
 .image {
 	height: 318px;
 	-webkit-border-radius: 10px 10px; 
@@ -89,10 +97,6 @@ a:hover {
 
 #gall div[class="image"] {
 	background:url(/images/gall.jpg);
-}
-
-#pers div[class="image"] {
-	background:url(/images/pers.jpg);
 }
 
 #cont div[class="image"] {
@@ -195,16 +199,6 @@ ul.tabs li {
 
 #footer a {
 	color: #330033;
-}
-
-#lang {
-	position:absolute;
-	top: 20px;
-	right: 20px;
-}
-
-#lang img {
-	margin-bottom: 20px;
 }
 
 h2.lowercase {
