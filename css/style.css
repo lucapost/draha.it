@@ -82,18 +82,18 @@ a:hover {
 	text-align: right;
 }
 
-#flag {
+.flag {
 	width: 30px;
 	height: 20px;
 	margin-left: 5px;
 }
 
-#flag.it {
+.flag.it {
 	background:url(/images/it.png) no-repeat;
 	float: right;
 }
 
-#flag.de {
+.flag.de {
 	background:url(/images/de.png) no-repeat;
 	float: right;
 }
