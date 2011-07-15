@@ -23,7 +23,7 @@ def header(node):
 		<link rel="stylesheet" type="text/css" media="all" href="/css/style.css" /> 
 		<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
 		<meta name="author" content="Luca Postregna" />
-		<meta name="keywords" content="teresa, postregna, bed, breakfast, b&amp;b, casa, vacanze, ferienhaus, dormire, stregna, valli, natisone, cividale, friuli" />
+		<meta name="keywords" content="teresa, postregna, bed, breakfast, b&amp;b, casa, vacanze, ferienhaus, dormire, camere, zimmer, stregna, valli, natisone, cividale, friuli" />
 		<meta name="description" content="bed and breakfast e casa vacanze di Teresa Postregna, dormire a Stregna nelle Valli del Natisone in provincia di Udine " />
 		<script type="text/javascript" src="/js/jquery.js" ></script>
 		<script type="text/javascript" src="/js/hashgrid.js" ></script> 
