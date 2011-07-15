@@ -75,8 +75,14 @@ a:hover {
 	margin-bottom: 20px;
 }
 
+#social {
+	height: 20px;
+	float: left;
+}
+
 #lang {
 	text-align: right;
+	height: 20px;
 }
 
 .image {

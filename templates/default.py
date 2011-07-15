@@ -49,16 +49,17 @@ def header(node):
 		<div id="container" class="container_12">
  			<div id="boxsx" class="grid_6 prefix_1">
 				<div id="top">
-<!--	 				<div id="social">
+	 				<div id="social">
 						<g:plusone size="medium" count="false" href="http://bb.draha.it"></g:plusone>
 						<a href="http://twitter.com/share" class="twitter-share-button"a
 							data-url="http://bb.draha.it"
 							data-text="#bnb #cividale #friuli #udine #vallidelnatisone"
 							data-count="none">
 						Tweet</a>
-					</div> -->
+					</div> 
 					<div id="lang">
-						<a href="/it">it</a> - <a href="/de">de</a>
+						<a href="/it"><img src="/images/it.png" title="it"></a>
+						<a href="/de"><img src="/images/de.png" title="de"></a> 
 					</div> 
 				</div>
 	'''
