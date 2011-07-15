@@ -30,7 +30,6 @@ def header(node):
 		<script type="text/javascript" src="/js/block.js" ></script> 
 		<script type="text/javascript" src="/js/jquery.prettyPhoto.js" ></script>
 		<script type="text/javascript" src="/js/pretty-init.js" ></script>
-<!--		<script type="text/javascript" src="/js/jquery.jtweetsanywhere-1.2.1.min.js" ></script> -->
 		<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 		<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
 		<script type="text/javascript">
@@ -46,27 +45,26 @@ def header(node):
 		<title>Draha Oasi di Pace - b&amp;b</title>
 	</head>
 	<body>
+		<div id="top" class="container_12">
+			<div id="social" class="grid_3 prefix_1">	
+				<g:plusone size="medium" count="false" href="http://bb.draha.it"></g:plusone>
+				<a href="http://twitter.com/share" class="twitter-share-button"
+					data-url="http://bb.draha.it"
+					data-text="@bb_draha_it #bb #casavacenze #stregna #vallidelnatisone"
+					data-count="none">
+				Tweet</a> 
+			</div>
+			<div id="lang" class="prefix_4 grid_3 clearfix">
+				<a href="/it"><div id="flag" class="it"></div></a><a href="/de"><div id="flag" class="de"></div></a>
+			</div> 
+			<div class="clear"></div>
+		</div>
 		<div id="container" class="container_12">
- 			<div id="boxsx" class="grid_6 prefix_1">
-				<div id="top">
-	 				<div id="social">
-						<g:plusone size="medium" count="false" href="http://bb.draha.it"></g:plusone>
-						<a href="http://twitter.com/share" class="twitter-share-button"a
-							data-url="http://bb.draha.it"
-							data-text="#bnb #cividale #friuli #udine #vallidelnatisone"
-							data-count="none">
-						Tweet</a>
-					</div> 
-					<div id="lang">
-						<a href="/it"><img src="/images/it.png" title="it"></a>
-						<a href="/de"><img src="/images/de.png" title="de"></a> 
-					</div> 
-				</div>
 	'''
 def footer(node):
 	"""Builds the footer and returns it to a string."""
 	return '''
-			<div id="footer" class="grid_8 prefix_2">
+		<div id="footer" class="grid_8 prefix_2">
 				&copy; ''' + str(current_time.year) + ''' <a href="http://luca.postregna.name">Luca Postregna</a> ::
 				update: ''' + str(current_time.strftime("%Y%m%d")) + ''' ::
 				<a href="http://validator.w3.org/check?uri=referer">xhtml</a> <a href="http://jigsaw.w3.org/css-validator/check/referer">css</a>

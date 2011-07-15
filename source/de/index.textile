@@ -1,4 +1,5 @@
-notextile. <div id="benv" class="blocco-tab main">
+notextile. <div id="boxsx" class="grid_6 prefix_1"> 
+<div id="benv" class="blocco-tab main">
 	<div class="image"></div>
 
 h1. Herzlich willkomm
