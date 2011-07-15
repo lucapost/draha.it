@@ -58,14 +58,36 @@
 
 	<p>Oasi di pace Draha è una realtà a conduzione familiare, gestita dalla signora Teresa, la quale si prende cura di ogni aspetto: dall&#8217;accoglienza degli ospiti, dalla cura del giardino alla organizzazione della casa, alla preparazione delle colazioni per gli ospiti del bed and breakfast.</p>
 
-	<h2>News</h2>
-
-<div id="jTweetsAnywhereSample"></div>
+<script src="http://widgets.twimg.com/j/2/widget.js"></script>
 <script>
-$('#jTweetsAnywhereSample').jTweetsAnywhere({
-    username: 'bb_draha_it',
-    count: 3
-});
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 5,
+  interval: 6000,
+  width: 460,
+  height: 300,
+  theme: {
+    shell: {
+      background: '#402020',
+      color: '#ffffff'
+    },
+    tweets: {
+      background: '#202020',
+      color: '#a0a080',
+      links: '#fff'
+    }
+  },
+  features: {
+    scrollbar: false,
+    loop: false,
+    live: false,
+    hashtags: false,
+    timestamp: false,
+    avatars: false,
+    behavior: 'all'
+  }
+}).render().setUser('bb_draha_it').start();
 </script>
 </div><div id="allo" class="blocco-tab main">
 <div class="image"></div>

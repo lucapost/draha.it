@@ -211,10 +211,10 @@ h2.lowercase {
 	text-transform: lowercase;
 }
 
-.jta-tweet-retweeter {
-	display: none;
+.twtr-widget {
+	margin-bottom: 20px;
 }
 
-.jta-tweet-timestamp {
-	display: none;
+.twtr-ft img {
+	height: 16px;
 }
