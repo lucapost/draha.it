@@ -64,14 +64,13 @@ a:hover {
 }
 
 #top {
-	height: 20px;
 	background-color: #a0a080;
 	border:0;
 	border-left: 1px solid #000000;
 	border-right: 1px solid #000000;
+	line-height: 20px;
 	padding-top: 20px;
 	padding-bottom: 20px;
-	line-height: 20px;
 }
 
 #social {
@@ -89,12 +88,12 @@ a:hover {
 }
 
 .flag.it {
-	background:url(/images/it.png) no-repeat;
+	background:url(/images/it.png) no-repeat center center;
 	float: right;
 }
 
 .flag.de {
-	background:url(/images/de.png) no-repeat;
+	background:url(/images/de.png) no-repeat center center;
 	float: right;
 }
 
