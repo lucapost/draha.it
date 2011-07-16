@@ -46,15 +46,23 @@ def header(node):
 	</head>
 	<body>
 		<div id="top" class="container_12">
-			<div id="social" class="grid_6 prefix_1">
-				<a href="http://twitter.com/share" data-url="http://bb.draha.it"  data-text="#vallidelnatisone #stregna #bb" class="twitter-share-button">Tweet</a>
-				<g:plusone size="medium" href="http://bb.draha.it"></g:plusone>
+			<div id="button" class="grid_1 prefix_1">
+				<a href="http://twitter.com/share" data-url="http://bb.draha.it" data-count="none" data-text="#vallidelnatisone #stregna #bb" class="twitter-share-button">Tweet</a>
+				<g:plusone size="medium" count="false" href="http://bb.draha.it"></g:plusone> 
 			</div> 
-			<div id="lang" class="grid_4">
-				<a href="/it"><div class="flag it"></div></a><a href="/de"><div class="flag de"></div></a> 
+			<div id="facebook" class="grid_7">
+				<div id="fb-root"></div>
+				<script src="http://connect.facebook.net/en_US/all.js#xfbml=1"></script>
+				<fb:like-box href="https://www.facebook.com/pages/Casa-Vacanze-Draha-BB-Oasi-di-Pace/171844799548891" width="400" show_faces="false" border_color="" stream="false" header="true"></fb:like-box>
 			</div>
-				<div class="clear"></div>
-		</div>
+			<a href="/it" title="switch to italian language">
+				<div class="flag it grid_1"></div>
+			</a>
+			<a href="/de" title="switch to deutsh language">
+				<div class="flag de grid_1"></div>
+			</a>
+			<div id="clear"></div>
+		</div><!-- end top -->
 		<div id="container" class="container_12">
 	'''
 def footer(node):

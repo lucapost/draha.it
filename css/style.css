@@ -68,37 +68,33 @@ a:hover {
 	border:0;
 	border-left: 1px solid #000000;
 	border-right: 1px solid #000000;
-	line-height: 20px;
-	padding-top: 20px;
-	padding-bottom: 20px;
 }
 
-#social {
-	height: 20px;
+#button {
+	margin-top: 8px;
+	text-align: center;
 }
 
-#lang {
-	text-align: right;
+#facebook {
+	height: 60px;
 }
 
 .flag {
 	width: 30px;
 	height: 20px;
-	margin-left: 5px;
+	margin-top: 20px;
 }
 
 .flag.it {
-	background:url(/images/it.png) no-repeat center center;
-	float: right;
+	background:url(/images/it.png) no-repeat right center;
 }
 
 .flag.de {
-	background:url(/images/de.png) no-repeat center center;
-	float: right;
+	background:url(/images/de.png) no-repeat left center;
 }
 
 #container {
-	background:url(/images/cornice.png) no-repeat 730px top; 
+	background:url(/images/cornice.png) no-repeat 730px 60px; 
 	background-color: #a0a080;
 	border: 1px solid #000000;
 	border-top: 0;
