@@ -10,3 +10,5 @@ else
 document.location.href = '/it'; 
 // End --> 
 </script>
+
+"it":/it "de":/de
