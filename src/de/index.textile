@@ -13,7 +13,6 @@ Der ideale Aufenthalt fuer Menschen die Enspannung und frische gute Luft geniess
 Die Friedens Oase Draha ist ein Familienbetrieb der liebevoll von Frau Teresa gefuehrt wird.
 Sie kuemmert sich um den Empfang ihrer Gaeste, um die Pflege des wunderschoenen Gartens, um die gesamte Organisation des Hauses und um die Vorbereitung des reichen Fruehstuecks der Gaeste des B&B.
 
-h2. Informationen
 notextile. <script src="http://widgets.twimg.com/j/2/widget.js"></script>
 <script>
 new TWTR.Widget({
