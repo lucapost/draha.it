@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:ror="http://rorweb.com/0.1/" >
+<channel>
+  <title>ROR Sitemap for http://bb.draha.it/</title>
+  <link>http://bb.draha.it/</link>
+
+<item>
+     <link>http://bb.draha.it/</link>
+     <title>Draha Oasi di Pace - b&amp;amp;b</title>
+     <description>bed and breakfast oasi di pace, casa vacanze draha di Teresa Postregna a Stregna nelle Valli del Natisone</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>0</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://bb.draha.it/it/</link>
+     <title>Draha Oasi di Pace - b&amp;amp;b</title>
+     <description>bed and breakfast oasi di pace, casa vacanze draha di Teresa Postregna a Stregna nelle Valli del Natisone</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://bb.draha.it/de/</link>
+     <title>Draha Oasi di Pace - b&amp;amp;b</title>
+     <description>bed and breakfast oasi di pace, casa vacanze draha di Teresa Postregna a Stregna nelle Valli del Natisone</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+</channel>
+</rss>
+  
