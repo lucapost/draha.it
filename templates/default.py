@@ -47,10 +47,10 @@ def header(node):
 	<body>
 		<div id="top" class="container_12">
 			<div id="googleplus" class="grid_1 prefix_1">
-				<g:plusone size="medium" href="http://bb.draha.it"></g:plusone> 
+				<g:plusone size="medium"></g:plusone> 
 			</div>
 			<div id="twitter" class="grid_2">
-				<a href="http://twitter.com/share" data-url="http://bb.draha.it" data-text="#vallidelnatisone #stregna #bb" class="twitter-share-button">Tweet</a>
+				<a title="share on twitter" href="http://twitter.com/share" data-url="http://bb.draha.it" data-text="#vallidelnatisone #stregna #bb" class="twitter-share-button">Tweet</a>
 			</div>
 			<div class="grid_1 prefix_5">
 				<a href="/it" title="switch to italian language">
@@ -70,9 +70,9 @@ def footer(node):
 	"""Builds the footer and returns it to a string."""
 	return '''
 		<div id="footer" class="grid_8 prefix_2">
-				&copy; ''' + str(current_time.year) + ''' <a href="http://luca.postregna.name">Luca Postregna</a> ::
+				&copy; ''' + str(current_time.year) + ''' <a title="il blog di Luca Postregna" href="http://luca.postregna.name">Luca Postregna</a> ::
 				update: ''' + str(current_time.strftime("%Y%m%d")) + ''' ::
-				<a href="http://validator.w3.org/check?uri=referer">xhtml</a> <a href="http://jigsaw.w3.org/css-validator/check/referer">css</a>
+				<a title="xhtml validator" href="http://validator.w3.org/check?uri=referer">xhtml</a> <a title="css validator" href="http://jigsaw.w3.org/css-validator/check/referer">css</a>
 			</div><!-- chiuso footer -->
 			<div class="clear"></div>
 		</div>

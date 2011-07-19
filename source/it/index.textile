@@ -88,7 +88,7 @@ notextile. </div><div id="gall" class="blocco-tab main">
 h1. galleria
 
 notextile. 
-<a title=" Il Bed and Breakfast visto dal giardino." href="/images/fullscreen/01.jpg" rel="prettyPhoto[pp_gal]" > <img src="/images/thumbnails/01.png" alt="Oasi di Pace Draha" /></a><a title=" Il Bed and Breakfast visto dal giardino." href="/images/fullscreen/02.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/02.png" alt="Oasi di Pace Draha" /></a><a title=" Il Bed and Breakfast visto dal giardino." href="/images/fullscreen/03.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/03.png" alt="Oasi di Pace Draha" /></a><a title=" Il Bed and Breakfast visto dal giardino." href="/images/fullscreen/04.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/04.png" alt="Oasi di Pace Draha" /></a><a title=" Il tavolo per le colazioni all'aperto." href="/images/fullscreen/05.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/05.png" alt="Oasi di Pace Draha" /></a><a title=" L'ingresso del Bed and Breakfast" href="/images/fullscreen/06.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/06.png" alt="Oasi di Pace Draha" class="last" /></a>
+<a title=" Il Bed and Breakfast visto dal giardino." href="/images/fullscreen/01.jpg" rel="prettyPhoto[pp_gal]" > <img src="/images/thumbnails/01.png" alt="la casa dal giardino" title="i fiori" /></a><a title="vista dal giardino." href="/images/fullscreen/02.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/02.png" alt="la scalinata d'ingresso" title="i fiori all'ingresso" /></a><a title="la facciata principale" href="/images/fullscreen/03.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/03.png" alt="la facciata principale" title="l'ingresso principale" /></a><a title="vista laterale" href="/images/fullscreen/04.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/04.png" alt="vista laterale" title="vista dal lato della casa" /></a><a title="le colazioni in terrazza" href="/images/fullscreen/05.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/05.png" alt="le colazione in terrazza" title="il tavole delle colazioni all'aperto" /></a><a title="la sala d'ingresso" href="/images/fullscreen/06.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/06.png" alt="la sala d'ingresso" title="l'acccesso principale" class="last" /></a>
 
 notextile. <a title=" L'ingresso del Bed and Breakfast" href="/images/fullscreen/07.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/07.png" alt="Oasi di Pace Draha" /></a><a title=" L'ingresso del Bed and Breakfast" href="/images/fullscreen/08.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/08.png" alt="Oasi di Pace Draha" /></a><a title=" Il salotto del Bed and Breakfast" href="/images/fullscreen/09.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/09.png" alt="Oasi di Pace Draha" /></a><a title=" Il salotto del Bed and Breakfast" href="/images/fullscreen/10.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/10.png" alt="Oasi di Pace Draha" /></a><a title=" Il salotto del Bed and Breakfast" href="/images/fullscreen/11.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/11.png" alt="Oasi di Pace Draha" /></a><a title=" Il salotto del Bed and Breakfast" href="/images/fullscreen/12.jpg" rel="prettyPhoto[pp_gal]" ><img class="last" src="/images/thumbnails/12.png" alt="Oasi di Pace Draha" /></a>
 
@@ -124,7 +124,7 @@ Oasi di pace Draha
 di Teresa Postregna,
 Via Postregna, 17 
 33040 Stregna, Udine
-Italia - ["mappa(Oasi di Pace Draha su GoogleMaps)":http://goo.gl/maps/Z38D]
+Italia - ["mappa(google maps)":http://goo.gl/maps/Z38D]
 
 h2. come raggiungerci
 
@@ -184,12 +184,12 @@ h2. riferimenti
 
 Oasi di pace Draha è presente on-line anche ai seguenti indirizzi,
 
-* alpiprealpigiulie "[1](oasi di pace b&amp;b su alpiprealpigiulie.eu)":http://www.alpiprealpigiulie.eu/Oasi-di-Pace-Stregna.325.0.html
-* bedandbreakfastfvg "[1](oasi di pace b&amp;b su bedandbreakfastfvg.com)":http://www.bedandbreakfastfvg.com/scheda.php?id=174 "[2](case vacanze draha su bedandbreakfastfvg.com)":http://www.bedandbreakfastfvg.com/scheda.php?id=181
+* alpiprealpigiulie "[1](profilo su alpiprealpigiulie.eu)":http://www.alpiprealpigiulie.eu/Oasi-di-Pace-Stregna.325.0.html
+* bedandbreakfastfvg "[1](profilo su bedandbreakfastfvg.com)":http://www.bedandbreakfastfvg.com/scheda.php?id=174 "[2](case vacanze draha su bedandbreakfastfvg.com)":http://www.bedandbreakfastfvg.com/scheda.php?id=181
 
 notextile. </div></div><!-- chiuso boxsx -->
 <div id="boxrx" class="grid_4">
-	<a href="/it/">
+	<a title="homepage italiana" href="/it/">
 	<div id="logo" class="alpha grid_2 pull_1">
 
 h1.  Draha <br/>Casa Vacanze
