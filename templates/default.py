@@ -1,15 +1,10 @@
-# Author:      Luca Postregna <luca.postregna@gmail.com>
-# License:     CC, see LICENSE for details
-
-import datetime
-
-src_dir = "source"
-dst_dir = "."
-src_ext = {"markdown": "md", "textile": "textile"}
+author = "Luca Postregna"
+path_separator = "/"
+prefix = "/"
+home = "/"
+src_ext = {"textile": "textile"}
 dst_ext = "html"
-hidden = set(["404.textile"])
-home = " "
-path_separator = " "
+hidden = set(["404.textile", "500.textile"])
 current_time = datetime.datetime.now()
 
 def header(node):
@@ -17,15 +12,15 @@ def header(node):
 
 	return '''
 	<!DOCTYPE HTML>
-	<html>
+	<html lang="''' + language + '''">
 	<head>
-		<title>Draha Oasi di Pace - b&amp;b</title>
+		<title>''' + site_name + ' | ' + node.name + '''</title>
+		<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
+		<meta name="author" content="''' + author + '''" />
+		<meta name="keywords" content="''' + keywords + '''" />
+		<meta name="description" content="''' + description + '''" />
 		<link rel="shortcut icon" href="/images/fav.ico" />
 		<link rel="stylesheet" type="text/css" media="all" href="/css/style.css" /> 
-		<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
-		<meta name="author" content="Luca Postregna" />
-		<meta name="keywords" content="bed and breakfast, b&amp;b, casa vacanze, ferienhaus, dormire, camere, zimmer, stregna, valli, natisone, cividale, friuli" />
-		<meta name="description" content="bed and breakfast oasi di pace, casa vacanze draha di Teresa Postregna a Stregna nelle Valli del Natisone" />
 		<script type="text/javascript" src="/js/jquery.js" ></script>
 		<script type="text/javascript" src="/js/hashgrid.js" ></script> 
 		<script type="text/javascript" src="/js/block.js" ></script> 
