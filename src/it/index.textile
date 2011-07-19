@@ -189,7 +189,7 @@ Oasi di pace Draha è presente on-line anche ai seguenti indirizzi,
 
 notextile. </div></div><!-- chiuso boxsx -->
 <div id="boxrx" class="grid_4">
-	<a title="homepage italiana" href="/it/">
+	<a title="homepage italiana" href="/">
 	<div id="logo" class="alpha grid_2 pull_1">
 
 h1.  Draha <br/>Casa Vacanze
