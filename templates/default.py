@@ -19,6 +19,7 @@ def header(node):
 	<!DOCTYPE HTML>
 	<html>
 	<head>
+		<title>Draha Oasi di Pace - b&amp;b</title>
 		<link rel="shortcut icon" href="/images/fav.ico" />
 		<link rel="stylesheet" type="text/css" media="all" href="/css/style.css" /> 
 		<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
@@ -42,7 +43,6 @@ def header(node):
 			    	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
 			})();
 		</script>
-		<title>Draha Oasi di Pace - b&amp;b</title>
 	</head>
 	<body>
 		<div id="top" class="container_12">
