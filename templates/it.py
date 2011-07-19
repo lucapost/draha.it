@@ -5,5 +5,5 @@ keywords = "b&amp;b, bed and breakfast, casa vacanze, draha, oasi di pace, postr
 description = "Draha Casa Vacanze e B&amp;B Oasi di Pace di Teresa Postregna a Stregna nelle Valli del Natisone"
 site_name = "Draha Casa Vacanze - Oasi di Pace B&amp;B"
 src_dir = "src/it"
-dst_dir = "it"
+dst_dir = "."
 execfile('templates/default.py')
