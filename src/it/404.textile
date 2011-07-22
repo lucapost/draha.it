@@ -1,1 +1,19 @@
-This Page is not available, please go to "home":/
+notextile. <div id="boxsx" class="grid_6 prefix_1">
+	<div main">
+
+h2. 404 Error
+
+"go back to home":/
+
+notextile. </div></div><!-- chiuso boxsx -->
+<div id="boxrx" class="grid_4">
+	<a title="homepage italiana" href="/">
+	<div id="logo" class="alpha grid_2 pull_1">
+
+h1.  Draha <br/>Casa Vacanze
+
+!/images/logo.png!
+
+h1. Oasi di Pace <br/> B&amp;B
+
+notextile. </div></a><div class="clear"></div></div><!-- chiuso boxrx-->
