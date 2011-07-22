@@ -15,10 +15,10 @@ def header(node):
 	<html lang="''' + language + '''">
 	<head>
 		<title>''' + site_name + ' | ' + node.name + '''</title>
-		<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
 		<meta name="author" content="''' + author + '''" />
 		<meta name="keywords" content="''' + keywords + '''" />
 		<meta name="description" content="''' + description + '''" />
+		<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
 		<link rel="shortcut icon" href="/images/fav.ico" />
 		<link rel="stylesheet" type="text/css" media="all" href="/css/style.css" /> 
 		<script type="text/javascript" src="/js/jquery.js" ></script>
@@ -64,7 +64,7 @@ def header(node):
 def footer(node):
 	"""Builds the footer and returns it to a string."""
 	return '''
-		<div id="footer" class="grid_8 prefix_2">
+			<div id="footer" class="grid_8 prefix_2">
 				&copy; ''' + str(current_time.year) + ''' <a title="il blog di Luca Postregna" href="http://luca.postregna.name">Luca Postregna</a> ::
 				update: ''' + str(current_time.strftime("%Y%m%d")) + ''' ::
 				<a title="xhtml validator" href="http://validator.w3.org/check?uri=referer">xhtml</a> <a title="css validator" href="http://jigsaw.w3.org/css-validator/check/referer">css</a>
