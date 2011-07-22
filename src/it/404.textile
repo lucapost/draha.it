@@ -1,9 +1,9 @@
 notextile. <div id="boxsx" class="grid_6 prefix_1">
 	<div main">
 
-h2. 404 Error
+h2. Page not found
 
-"go back to home":/
+"home":/
 
 notextile. </div></div><!-- chiuso boxsx -->
 <div id="boxrx" class="grid_4">

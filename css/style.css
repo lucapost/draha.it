@@ -40,7 +40,6 @@ blockquote {
 
 a {
 	color: #400020;
-	text-decoration: none;
 	transition: #400020;
 	transition-duration: 4000ms;
 	-webkit-transition: color; 
