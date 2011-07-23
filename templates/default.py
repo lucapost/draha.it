@@ -21,7 +21,7 @@ def header(node):
 		<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
 		<link rel="shortcut icon" href="/images/fav.ico" />
 		<link rel="stylesheet" type="text/css" media="all" href="/css/style.css" /> 
-		<script type="text/javascript" src="/js/jquery.js" ></script>
+		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 		<script type="text/javascript" src="/js/hashgrid.js" ></script> 
 		<script type="text/javascript" src="/js/block.js" ></script> 
 		<script type="text/javascript" src="/js/jquery.prettyPhoto.js" ></script>
