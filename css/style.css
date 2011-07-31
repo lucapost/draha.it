@@ -165,12 +165,14 @@ a:hover {
 	-webkit-border-radius: 10px 10px; 
 	-moz-border-radius: 10px 10px; 
 	text-align: center;
+	margin:0;
+	padding:0;
 }
 
 #logo h1 {
 	color: #e0e0e0;
-	padding: 0px;
-	margin: 0px;
+	padding: 0;
+	margin: 0;
 	font-size: 16px;
 	line-height: 20px;
 }
@@ -178,6 +180,10 @@ a:hover {
 #logo img {
 	padding: 12px 0 12px 0;
 	margin:0;
+}
+
+#logo a {
+	text-decoration:none;
 }
 
 #logo p {
