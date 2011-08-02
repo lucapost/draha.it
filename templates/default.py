@@ -47,7 +47,7 @@ def header(node):
 			<div id="twitter" class="grid_2">
 				<a title="share on twitter" href="http://twitter.com/share" data-url="http://bb.draha.it" data-text="#vallidelnatisone #stregna #bb" class="twitter-share-button">Tweet</a>
 			</div>
-			<div id="select" class="grid_5"><p class="hide">select language</p></div>
+			<div class="grid_5"><p class="hide">select language</p></div>
 			<div class="grid_1" id="flagit">
 				<a href="/" title="switch to italian language"><p class="hide">it</p></a> 
 			</div>
