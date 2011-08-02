@@ -62,34 +62,46 @@ a:hover {
 	-o-transition-duration: 400ms;
 }
 
+.hide {
+	visibility: hidden;
+}
+
 #top {
 	background-color: #a0a080;
 	border:0;
 	border-left: 1px solid #000000;
 	border-right: 1px solid #000000;
-	height: 40px;
+	height: 60px;
 }
 
+#twitter,
 #googleplus {
-	margin-top: 8px;
+	margin-top: 20px;
 }
 
-#twitter {
-	margin-top: 8px;
+#select {
+	text-align: right;
 }
 
-.flagit {
-	width: 30px;
-	height: 20px;
-	margin-top: 8px;
-	margin-left: 30px;
+#flagit,
+#flagde {
+	margin-top: 20px;
+}
+
+#flagit a,
+#flagde a {
+	display: block;
+	height: 18px;
+	width: 58px;
+	border: 1px solid black;
+	border-radius: 10px;
+}
+
+#flagit a {
 	background:url(/images/it.png) no-repeat center;
 }
 
-.flagde {
-	width: 30px;
-	height: 20px;
-	margin-top: 8px;
+#flagde a {
 	background:url(/images/de.png) no-repeat center;
 }
 
