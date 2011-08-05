@@ -39,9 +39,12 @@ def header(node):
 			$('#main').fadeIn(2000);
 			});
 		</script>
-		<script type="text/javascript" src="/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
-		<script type="text/javascript" src="/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
-		<link rel="stylesheet" type="text/css" href="/fancybox/jquery.fancybox-1.3.4.css" media="screen" />
+		<script type="text/javascript" src="/js/jquery.lightbox-0.5.min.js"></script>
+		<script type="text/javascript">
+		$(function() {
+			$('#gallery a').lightBox({fixedNavigation:true});
+			});
+		</script>
 	</head>
 	<body>
 		<div id="top" class="container_12">

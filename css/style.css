@@ -2,9 +2,8 @@
 @import url(/css/text.css);
 @import url(/css/960.css);
 @import url(/css/hashgrid.css);
+@import url(/css/jquery.lightbox-0.5.css);
 @import url(http://fonts.googleapis.com/css?family=Nobile);
-@import url(/css/prettyPhoto.css);
-@import url(/css/jquery.jtweetsanywhere-1.2.1.css);
 
 html,
 body {
@@ -133,6 +132,48 @@ section a:hover {
 	height: 298px;
 	border-radius: 10px;
 }
+
+#gallery {
+	width: 460px;
+}
+
+#gallery a {
+	width: 60px;
+	height: 60px;
+	padding: 0;
+	margin:0;
+}
+
+#gallery ul { 
+	list-style: none;
+	padding: 0;
+	margin:0;
+}
+
+#gallery ul li {
+	display: inline;
+	padding: 0;
+	margin:0;
+	margin-right: 16px;
+}
+
+#gallery ul li:nth-child(6),
+#gallery ul li:nth-child(12),
+#gallery ul li:nth-child(18) {
+	margin-right: 0;
+}
+
+#gallery ul img {
+	width: 60px;
+	height: 60px;
+	margin-bottom: 20px;
+}
+
+#gallery ul a:hover img {
+}
+
+#gallery ul a:hover { 
+	}
 
 nav {
 	margin-top: 80px;
