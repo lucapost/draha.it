@@ -1,4 +1,4 @@
-<div class="boximg"> !/images/gall.jpg(foto gallerie! </div>
+<div class="boximg"> !/images/gall.jpg(foto gallerie)! </div>
 
 h1. foto gallerie
 
