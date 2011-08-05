@@ -1,0 +1,203 @@
+notextile. <div id="boxsx" class="grid_6 prefix_1"> 
+<div id="benv" class="blocco-tab main">
+	<div class="image"></div>
+
+h1. Herzlich willkomm
+
+Die Friedens Oase Draha ist eine Struktur in der Naehe des Dorfes Postregna in einer wunderschoenen Umgebung der "Gemeinde von Stregna":http://www.comune.stregna.ud.it/in den "Taelern des Natisone":http://www.cividale.com/dintorni/valli.asp in der Provinz von Udin.
+
+Die Struktur bietet in dieser gruenen Ecke Unterkunfte im Bed and Breakfast oder im Ferienhaus.
+
+Der ideale Aufenthalt fuer Menschen die Enspannung und frische gute Luft geniessen moechten, wanderungen zu Fuss oder mit dem Rad lieben oder eine Basis fuer dieErkundungen der Schoenheiten von der orientalischen Seite Friauls suchen.
+
+Die Friedens Oase Draha ist ein Familienbetrieb der liebevoll von Frau Teresa gefuehrt wird.
+Sie kuemmert sich um den Empfang ihrer Gaeste, um die Pflege des wunderschoenen Gartens, um die gesamte Organisation des Hauses und um die Vorbereitung des reichen Fruehstuecks der Gaeste des B&B.
+
+notextile. <script src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 5,
+  interval: 6000,
+  width: 460,
+  height: 300,
+  theme: {
+    shell: {
+      background: '#402020',
+      color: '#ffffff'
+    },
+    tweets: {
+      background: '#202020',
+      color: '#a0a080',
+      links: '#fff'
+    }
+  },
+  features: {
+    scrollbar: false,
+    loop: false,
+    live: false,
+    hashtags: false,
+    timestamp: false,
+    avatars: false,
+    behavior: 'all'
+  }
+}).render().setUser('bb_draha_it').start();
+</script>
+</div><div id="allo" class="blocco-tab main">
+<div class="image"></div>
+
+h1. Unterkuenfte
+
+Die Struktur erfuellt die unterschiedlichen Beduerfnisse und bietet je nach Kundenwunsch das passende Angebot im Bed & Breakfast oder im Ferienhaus.
+
+Die Preise sind von 20-27 € pro Tag pro Person, fuer laengere Aufenthalte koennen die Preise vereinbart werden.
+
+Unsere Struktur ist geeignet fuer Einzelpersonen, Paare und Familien mit Kinder.
+
+Zur Verfuegung des Kundens steht ein grosser Garten der mit bequemen Sitzmoebel, wie Gondeln, Haengematten, Fahrraeder und Kinderspielzeug ausgestattet ist. Darueberhinaus steht ein grosser Parkplatz zur Verfuegung.
+
+h2. bed and breakfast
+
+4 Betten in Formel B&B,
+
+* Ein Doppelzimmer (mit Moeglichkeit ein drittes  Einzelbett hineinzustellen) mit TV
+* Ein Einzelzimmer mit TV
+
+Das Badezimmer bedient die beiden Zimmer.
+
+Das gemeinsame Esszimmer ist mit Kamin und TV ausgestattet.
+
+Das Fruehstueck basiert zum groessten Teil aus Produkte lokaler Herkunft ist reich und ausreichend.
+
+h2. Ferienhaus
+
+4 Betten in Formel Ferienhaus,
+
+* Ein Doppelzimmer (mit Moeglichkeit ein drittes Einzelbett hineinzustellen)
+* Ein Schlafsofa fuer eine Person
+
+Kueche mit gemuetlichen Esstisch, Badezimmer mit Jacuzzi Wanne.
+
+Fuer den Tag nach der Ankunft stellt das Haus alles notwendige fuer das Fruehstueck zur Verfuegung.
+
+notextile. </div><div id="gall" class="blocco-tab main">
+	<div class="image"></div>
+
+h1. Gallerie
+
+notextile. <a title=" Il Bed and Breakfast visto dal giardino." href="/images/fullscreen/01.jpg" rel="prettyPhoto[pp_gal]" > <img src="/images/thumbnails/01.png" alt="Oasi di Pace Draha" /></a><a title=" Il Bed and Breakfast visto dal giardino." href="/images/fullscreen/02.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/02.png" alt="Oasi di Pace Draha" /></a><a title=" Il Bed and Breakfast visto dal giardino." href="/images/fullscreen/03.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/03.png" alt="Oasi di Pace Draha" /></a><a title=" Il Bed and Breakfast visto dal giardino." href="/images/fullscreen/04.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/04.png" alt="Oasi di Pace Draha" /></a><a title=" Il tavolo per le colazioni all'aperto." href="/images/fullscreen/05.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/05.png" alt="Oasi di Pace Draha" /></a><a title=" L'ingresso del Bed and Breakfast" href="/images/fullscreen/06.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/06.png" alt="Oasi di Pace Draha" class="last" /></a>
+
+notextile. <a title=" L'ingresso del Bed and Breakfast" href="/images/fullscreen/07.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/07.png" alt="Oasi di Pace Draha" /></a><a title=" L'ingresso del Bed and Breakfast" href="/images/fullscreen/08.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/08.png" alt="Oasi di Pace Draha" /></a><a title=" Il salotto del Bed and Breakfast" href="/images/fullscreen/09.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/09.png" alt="Oasi di Pace Draha" /></a><a title=" Il salotto del Bed and Breakfast" href="/images/fullscreen/10.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/10.png" alt="Oasi di Pace Draha" /></a><a title=" Il salotto del Bed and Breakfast" href="/images/fullscreen/11.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/11.png" alt="Oasi di Pace Draha" /></a><a title=" Il salotto del Bed and Breakfast" href="/images/fullscreen/12.jpg" rel="prettyPhoto[pp_gal]" ><img class="last" src="/images/thumbnails/12.png" alt="Oasi di Pace Draha" /></a>
+
+notextile. <a title=" La cucina del Bed and Breakfast" href="/images/fullscreen/13.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/13.png" alt="Oasi di Pace Draha" /></a><a title=" La cucina del Bed and Breakfast" href="/images/fullscreen/14.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/14.png" alt="Oasi di Pace Draha" /></a><a title=" L'anticamera del Bed and Breakfast" href="/images/fullscreen/15.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/15.png" alt="Oasi di Pace Draha" /></a><a title=" Il bagno del Bed and Breakfast" href="/images/fullscreen/16.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/16.png" alt="Oasi di Pace Draha" /></a><a title=" La camera matrimoniale del Bed and Breakfast" href="/images/fullscreen/17.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/17.png" alt="Oasi di Pace Draha" /></a><a title=" La camera matrimoniale del Bed and Breakfast" href="/images/fullscreen/18.jpg" rel="prettyPhoto[pp_gal]" ><img class="last" src="/images/thumbnails/18.png" alt="Oasi di Pace Draha" /></a>
+
+notextile. <a title=" La cameretta singola del Bed and Breakfast" href="/images/fullscreen/19.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/19.png" alt="Oasi di Pace Draha" /></a><a title=" La cameretta singola del Bed and Breakfast" href="/images/fullscreen/20.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/20.png" alt="Oasi di Pace Draha" /></a><a title=" La cameretta singola del Bed and Breakfast" href="/images/fullscreen/21.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/21.png" alt="Oasi di Pace Draha" /></a><a title=" La cucina della casa vacanze" href="/images/fullscreen/22.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/22.png" alt="Oasi di Pace Draha" /></a><a title=" L'ingresso della casa vacanze" href="/images/fullscreen/23.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/23.png" alt="Oasi di Pace Draha" /></a><a title=" La camera matrimoniale della casa vacanze" href="/images/fullscreen/24.jpg" rel="prettyPhoto[pp_gal]" ><img class="last" src="/images/thumbnails/24.png" alt="Oasi di Pace Draha" /></a>
+
+notextile. <a title=" Il bagno della casa vacanze" href="/images/fullscreen/25.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/25.png" alt="Oasi di Pace Draha" /></a><a title=" Il bagno della casa vacanze" href="/images/fullscreen/26.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/26.png" alt="Oasi di Pace Draha" /></a><a title=" La cucina della casa vacanze" href="/images/fullscreen/27.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/27.png" alt="Oasi di Pace Draha" /></a><a title=" La cucina della casa vacanze" href="/images/fullscreen/28.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/28.png" alt="Oasi di Pace Draha" /></a><a title=" La cucina della casa vacanze" href="/images/fullscreen/29.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/29.png" alt="Oasi di Pace Draha" /></a><a title=" Il giardino" href="/images/fullscreen/30.jpg" rel="prettyPhoto[pp_gal]" ><img class="last" src="/images/thumbnails/30.png" alt="Oasi di Pace Draha" /></a>
+
+notextile. <a title=" Il giardino" href="/images/fullscreen/31.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/31.png" alt="Oasi di Pace Draha" /></a><a title=" Il giardino" href="/images/fullscreen/32.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/32.png" alt="Oasi di Pace Draha" /></a><a title=" Il giardino" href="/images/fullscreen/33.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/33.png" alt="Oasi di Pace Draha" /></a><a title=" Il giardino" href="/images/fullscreen/34.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/34.png" alt="Oasi di Pace Draha" /></a><a title=" Il giardino" href="/images/fullscreen/35.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/35.png" alt="Oasi di Pace Draha" /></a><a title=" Il giardino" href="/images/fullscreen/36.jpg" rel="prettyPhoto[pp_gal]" ><img class="last" src="/images/thumbnails/36.png" alt="Oasi di Pace Draha" /></a>
+
+notextile. <a title=" Gli ospiti" href="/images/fullscreen/37.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/37.png" alt="Oasi di Pace Draha" /></a><a title=" Gli ospiti" href="/images/fullscreen/38.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/38.png" alt="Oasi di Pace Draha" /></a><a title=" Gli ospiti" href="/images/fullscreen/39.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/39.png" alt="Oasi di Pace Draha" /></a><a title=" Gli ospiti" href="/images/fullscreen/40.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/40.png" alt="Oasi di Pace Draha" /></a><a title=" Il panorama" href="/images/fullscreen/41.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/41.png" alt="Oasi di Pace Draha" /></a><a title=" Il panorama" href="/images/fullscreen/42.jpg" rel="prettyPhoto[pp_gal]" ><img class="last" src="/images/thumbnails/42.png" alt="Oasi di Pace Draha" /></a>
+
+notextile. <a title=" Il panorama" href="/images/fullscreen/43.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/43.png" alt="Oasi di Pace Draha" /></a><a title=" Il panorama" href="/images/fullscreen/44.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/44.png" alt="Oasi di Pace Draha" /></a><a title=" Il panorama" href="/images/fullscreen/45.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/45.png" alt="Oasi di Pace Draha" /></a><a title=" Il panorama" href="/images/fullscreen/46.jpg" rel="prettyPhoto[pp_gal]" ><img src="/images/thumbnails/46.png" alt="Oasi di Pace Draha" /></a>
+
+notextile. </div><div id="cont" class="blocco-tab main">
+	<div class="image"></div>
+
+h1. Kontakte
+
+Weitere Informationen, bezueglich Angebote und Reservierungen erhalten Sie ueber,
+
+h2. telefono, email
+
+Telefono:  +39 0432724192 
+Cellulare: +39 3337600975
+
+Email: "teresa.postregna@gmail.com(email)":mailto:teresa.postregna@gmail.com
+
+h2. Anschrift,
+
+Oasi di pace Draha
+di Teresa Postregna,
+Via Postregna, 17 
+33040 Stregna, Udine
+Italia - ["maps(Oasi di Pace Draha su GoogleMaps)":http://goo.gl/maps/Z38D]
+
+h2. So erreichen Sie uns
+
+Die Struktur ist erreichbar ueber Udine bitte die Hauptstrasse SS54 in Richtung Cividale del Friuli folgen und weiterfahren in Richtung Slovenien bis zum Ort San Quirino dann rechts die SP19 entlang fahren und wieder rechts der SP45 folgen bis zur Ortsmitte von Scrutto (San Leonardo). Rechts  die SP47 einschlagen und in Richtung Stregna weiterfahren bis zum Ort Zamir. Hier rechts fahren in Richtung Postregna. Die Struktur befindet sich oberhalb von Postregna. Die private Strasse die zum Haus fuehrt verbindet sich mit der Ortsstrasse in unmittelbarer Naehe des Ortsausgangsschildes.  
+
+notextile. </div>
+		<div id="info" class="blocco-tab main">
+		<div class="image"></div>
+
+h1. Informationen
+
+h2. Restaurants und Agriturismi (Bauernhoefe die Eigenprodukte servieren)
+
+Die folgenden Restaurants im Gebiet sind leicht zu erreichen,
+
+* Ristorante Sale e Pepe, Stregna
+* Ristorante Alla Posta, fraz. Clodig, Grimacco
+* Agriturismo Nido delle Rondini, fraz. Dughe, Stregna
+* "Locanda al Trivio":http://locandaaltrivio.com/, fraz. Jainich, San Leonardo 
+
+h2. Sehenswuerdigkeiten
+
+Innerhalb von wenigen Minuten kann man mit dem Auto die folgenden historischen Orte
+
+* "Cividale del Friuli":http://www.comune.cividale-del-friuli.ud.it, "cividale.com":http://cividale.com/ (~15km)
+* "Gemona del Friuli":http://www.gemonaweb.it/ (~40km)
+
+den Religioesen,
+
+* "Heiligtum della Beata Vergine di Castelmonte":http://www.santuariocastelmonte.it/
+
+und die naturalistischen Staetten,
+
+* "Bergkette Kolovrat Kolovrat":http://it.wikipedia.org/wiki/Monte_Colovrat
+* "Berg Matajur":http://it.wikipedia.org/wiki/Matajur
+* "Region Collio":http://it.wikipedia.org/wiki/Collio_(regione_fisica)
+
+besuchen und besichtigen.
+
+h2. Termine
+
+Die wichtigsten Ereignisse die im laufe des Jahres in den benachbarten Gebieten organisiert werden
+sind wie folgt aufgefuehrt:
+
+* juni 2011
+** 23/06 Feuerwerke (kries) in San Giovanni, in zahlreichen Doerfern der Taeler des Natisone
+* juli 2011
+** "Mittelfest":http://www.mittelfest.org/
+** "Stazione di Topolò":http://www.stazioneditopolo.it/
+* august 2011
+** "Festa di Vernasso":http://www.festadivernasso.it
+** "Palio di Cividale":http://www.paliodicividale.it/
+* september 2011
+** "Rally der orientalische Alpen":http://www.rallyalpiorientali.it/
+* ottobre 2011
+** Fest der Kastanien (burnjak) in Tribil Superiore, Stregna
+
+notextile. </div></div><!-- chiuso boxsx -->
+<div id="boxrx" class="grid_4">
+	<a href="/de">
+	<div id="logo" class="alpha grid_2 pull_1">
+
+h1.  Draha <br/> Ferienhaus
+
+!/images/logo.png!
+
+h1. Oasi di Pace <br/> B&amp;B
+
+notextile. </div></a>
+	<div id="menu" class="omega grid_2 pull_1 clearfix">
+
+*(tabs) "Willkommen":#benv
+* "Unterkuenfte":#allo
+* "Foto Gallerie":#gall
+* "Kontakte":#cont
+* "Informationen":#info
+
+notextile. </div><div class="clear"></div></div><!-- chiuso boxrx-->
