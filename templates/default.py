@@ -56,10 +56,10 @@ def header(node):
 			</div>
 			<div class="grid_5"><p class="hide">select language</p></div>
 			<div class="grid_1" id="flagit">
-				<a href="/" title="switch to italian language"><p class="hide">it</p></a> 
+				<a href="/benvenuti.html" title="switch to italian language"><p class="hide">it</p></a> 
 			</div>
 			<div class="grid_1" id="flagde">
-				<a href="/de" title="switch to deutsch language"><p class="hide">de</p></a> 
+				<a href="/de/willcomm.html" title="switch to deutsch language"><p class="hide">de</p></a> 
 			</div>
 			<div id="clear"></div>
 		</div><!-- end top -->

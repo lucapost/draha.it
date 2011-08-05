@@ -263,9 +263,9 @@ Options:
 		sys.stderr.write('"' + template.dst_dir + '" is not a directory, aborting\n')
 		sys.exit(2)
 	# check if src dir includes an index file
-	if not hasindex(template.src_dir):
-		sys.stderr.write('"' + template.src_dir + '" does not include a valid index file, aborting\n')
-		sys.exit(2)
+#	if not hasindex(template.src_dir):
+#		sys.stderr.write('"' + template.src_dir + '" does not include a valid index file, aborting\n')
+#		sys.exit(2)
 	# start writing pages
 	print('Processing files in "' + template.src_dir + '":\n')
 	root = Node(template.src_dir, 0)
