@@ -1,3 +1,5 @@
+<div class="boximg"> !/images/gall.jpg(Casa Vacanze Draha - Oasi di pace B&B)! </div>
+
 h1. galleria
 
 notextile. 

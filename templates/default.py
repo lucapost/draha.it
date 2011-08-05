@@ -1,6 +1,5 @@
 author = "Luca Postregna"
 path_separator = "/"
-prefix = "/"
 home = "/"
 src_ext = {"textile": "textile"}
 dst_ext = "html"
@@ -37,9 +36,12 @@ def header(node):
 		</script>
 		<script type="text/javascript">
 			$(document).ready(function(){
-			$('#box').fadeIn(2000);
+			$('#main').fadeIn(2000);
 			});
 		</script>
+		<script type="text/javascript" src="/fancybox/jquery.mousewheel-3.0.4.pack.js"></script>
+		<script type="text/javascript" src="/fancybox/jquery.fancybox-1.3.4.pack.js"></script>
+		<link rel="stylesheet" type="text/css" href="/fancybox/jquery.fancybox-1.3.4.css" media="screen" />
 	</head>
 	<body>
 		<div id="top" class="container_12">
@@ -59,14 +61,14 @@ def header(node):
 			<div id="clear"></div>
 		</div><!-- end top -->
 		<div id="container" class="container_12">
-			<section class="grid_6 prefix_1">
+			<section id="main" class="grid_6 prefix_1">
 	'''
 def footer(node):
 	"""Builds the footer and returns it to a string."""
 	return '''
 			</section>
 			<nav class="grid_4"> 
-				<a title="home" href="/"> 
+				<a title="home" href="''' + prefix + '''"> 
 					<div id="logo" class="alpha grid_2 pull_1"> 
 						<h1> Draha <br/>Casa Vacanze</h1> 
 						<img src="/images/logo.png" alt="" />
