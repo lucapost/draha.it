@@ -27,16 +27,16 @@
 27.jpg:la cucina della cv:la sala della cucina della cv
 28.jpg:la cucina abitabile: il tavolo della cucina
 29.jpg:scorcio della cucina:la cucina
-30.jpg:la fontana:la fonatana del giardino
+30.jpg:la fontana:la fontana del giardino
 31.jpg:la fontana ed il dondolo:il dondolo e la fontana
 32.jpg:relax in giardino:il giardino
-33.jpg:particolare del giardino:relax in giardino
-34.jpg:la panca del giardino:la panca
-35.jpg:il vialetto sul retro:il vialetto
-36.jpg:particolare del giardino:la scaletta del giardino
-37.jpg:gli ospiti:i vivitatori
-38.jpg:gli ospiti al tavolo in giardino:il tavolo in giardino con gli ospiti
-39.jpg:una coppia di ospiti:coppia di ospiti
-40.jpg:una famiglia di ospiti:gli ospiti
-41.jpg:il panorama dal giardino:vista del panorama
+33.jpg:la panca del giardino:la panca
+34.jpg:gli ospiti:i vivitatori
+35.jpg:gli ospiti al tavolo in giardino:il tavolo in giardino con gli ospiti
+36.jpg:una coppia di ospiti:coppia di ospiti
+37.jpg:una famiglia di ospiti:gli ospiti
+38.jpg:il panorama dal giardino:vista del panorama
+39.jpg:la chiesa di san leonardo:chiesa in lontananza
+40.jpg:casetta sui colli:la casetta nella valle
+41.jpg:il tramonto dal giardino:il tramonto del sole
 42.jpg:teresa e gianni:teresa e gianni
