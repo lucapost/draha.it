@@ -15,8 +15,8 @@ def header(node):
 	<head>
 		<title>''' + site_name + ' | ' + node.name + '''</title>
 		<meta name="author" content="''' + author + '''" />
-		<meta name="keywords" content="''' + keywords + '''" />
-		<meta name="description" content="''' + description + '''" />
+		<meta name="keywords" content="''' + keywords + ',' + node.name + '''" />
+		<meta name="description" content="''' + description + ',' + node.name + '''" />
 		<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
 		<link rel="shortcut icon" href="/images/fav.ico" />
 		<link rel="stylesheet" type="text/css" media="all" href="/css/style.css" /> 
