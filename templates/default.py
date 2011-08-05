@@ -37,7 +37,7 @@ def header(node):
 		</script>
 		<script type="text/javascript">
 			$(document).ready(function(){
-			$('#boxsx').fadeIn(2000);
+			$('#box').fadeIn(2000);
 			});
 		</script>
 	</head>
@@ -59,13 +59,13 @@ def header(node):
 			<div id="clear"></div>
 		</div><!-- end top -->
 		<div id="container" class="container_12">
-			<div id="boxsx" class="grid_6 prefix_1">
+			<section class="grid_6 prefix_1">
 	'''
 def footer(node):
 	"""Builds the footer and returns it to a string."""
 	return '''
-			</div><!-- chiuso boxsx-->
-			<div id="boxrx" class="grid_4"> 
+			</section>
+			<nav class="grid_4"> 
 				<a title="home" href="/"> 
 					<div id="logo" class="alpha grid_2 pull_1"> 
 						<h1> Draha <br/>Casa Vacanze</h1> 
@@ -73,16 +73,16 @@ def footer(node):
 						<h1>Oasi di Pace <br/> B&amp;B</h1> 
 					</div>
 				</a> 
-				<div id="menu" class="omega grid_2 pull_1 clearfix"> 
+				<menu class="omega grid_2 pull_1 clearfix"> 
 					%%%MENU%%%
-				</div>
+				</menu>
 				<div class="clear"></div>
-			</div><!-- chiuso boxrx--> 
-			<div id="footer" class="grid_8 prefix_2">
+			</nav>
+			<footer class="grid_8 prefix_2">
 				&copy; ''' + str(current_time.year) + ''' <a title="il blog di Luca Postregna" href="http://luca.postregna.name">Luca Postregna</a> ::
 				update: ''' + str(current_time.strftime("%Y%m%d")) + ''' ::
 				<a title="xhtml validator" href="http://validator.w3.org/check?uri=referer">xhtml</a> <a title="css validator" href="http://jigsaw.w3.org/css-validator/check/referer">css</a>
-			</div><!-- chiuso footer -->
+			</footer>
 			<div class="clear"></div>
 		</div>
 	</body>

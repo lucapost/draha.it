@@ -105,8 +105,17 @@ a:hover {
 	border-top: 0;
 }
 
-#boxsx {
+#box {
 	display:none;
+}
+
+section a {
+	color: #202020;
+}
+
+section a:hover {
+	color: #202020;
+	text-decoration: underline;
 }
 
 .boximg {
@@ -125,16 +134,7 @@ a:hover {
 	border-radius: 10px;
 }
 
-.main a {
-	color: #202020;
-}
-
-.main a:hover {
-	color: #202020;
-	text-decoration: underline;
-}
-
-#boxrx {
+nav {
 	margin-top: 80px;
 }
 
@@ -174,51 +174,43 @@ a:hover {
 	padding:0;
 }
 
-#menu {
+menu {
 	height: 140px;
 	font-size: 16px;
 	line-height: 35px;
 	text-transform: capitalize;
 }
 
-#menu a {
+menu a {
 	text-decoration: none;
 }
 
-#menu a:hover {
+menu a:hover {
 	padding-left: 4px;
 	-webkit-transition: all .5s ease-in-out;
 }
 
-ul.tabs {
+menu ul {
 	list-style:none;
 	height: 100%;
 }
 
-ul.tabs li {
+menu ul li {
 	margin: 0;
 	padding:0;
 	}
 
-#footer {
+footer {
 	color: #330033;
-	margin-bottom: 20px;
+	margin: 20px 0 20px 0;
 	text-align:center;
 	font-size: 12px;
 }
 
-#footer a {
+footer a {
 	color: #330033;
 }
 
 h2.lowercase {
 	text-transform: lowercase;
-}
-
-.twtr-widget {
-	margin-bottom: 20px;
-}
-
-.twtr-ft img {
-	height: 16px;
 }
