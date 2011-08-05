@@ -4,13 +4,13 @@ notextile. <div id="boxsx" class="grid_6 prefix_1">
 
 h1. benvenuti
 
-Oasi di pace Draha è una struttura ricettiva situata nei pressi della frazione di Postregna, in una splendida cornice del "Comune di Stregna(sito internet del comune di stregna)":http://www.comune.stregna.ud.it , nelle "Valli del Natisone(valli del natisone)":http://www.cividale.com/dintorni/valli.asp in provincia di Udine.
+*Draha Casa Vacanze - Oasi di Pace B&B* offre delle camere per il tuo soggiorno nelle Valli del Natisone, in "Comune di Stregna(sito internet del comune di stregna)":http://www.comune.stregna.ud.it, nelle vicinanze del paese di Postregna.
 
-Offre servizi di bed and breakfast e casa vacanze in un angolo immerso nel verde.
+Tra gli ospiti della struttura ci sono gli amanti della natura delle Valli del Natisone oltre che viaggiatori alla ricerca di un angolo di tranquillità in un piccolo angolo di Friuli.
 
-Il soggiorno è consigliato agli ospiti in cerca di relax e di aria fresca, per gli amanti delle passeggiate a piedi o in "bicicletta(natisone in bici)":http://www.natisoneinbici.it/ , oltre che come base d’appoggio per visitare le bellezze del Friuli orientale.
+A partire dall'accoglienza degli ospiti, la signora Teresa si prende cura di tutti gli aspetti dalle colazioni alla cura della casa e dello splendidi giardino.
 
-Oasi di pace Draha è una realtà a conduzione familiare, gestita dalla signora Teresa, la quale si prende cura di ogni aspetto: dall'accoglienza degli ospiti, dalla cura del giardino alla organizzazione della casa, alla preparazione delle colazioni per gli ospiti del bed and breakfast.
+h2. notizie
 
 notextile. <script src="http://widgets.twimg.com/j/2/widget.js"></script>
 <script>
@@ -48,39 +48,35 @@ new TWTR.Widget({
 
 h1. alloggi
 
-La struttura può soddisfare diversi tipi di necessità e differenzia le offerte secondo le esigenze del cliente. Offre sia servizi di bed and breakfast che di casa vacanze.
+*Draha Casa Vacanze - Oasi di Pace B&B* viene incontro alle esigenze del cliente offrendo posti letto a partire da 20-27€ al giorno.
 
-I prezzi sono di 20-27€ al giorno a persona, per soggiorni più lunghi eventuali offerte possono essere concordate.
+Tutte le stanze sono provviste di televisione a colori.
 
-E' adatta ad accogliere single, coppie e famiglie con bambini. 
+La struttura mette a disposizione degli ospiti un ampio giardino all'aperto che comprende giochi per bambini, dondolo, amaca e biciclette.
 
-A disposizione del cliente è presente un ampio giardino dotato di comode strutture di relax: dondolo, amaca, biciclette e giochi per bambini. Inoltre è possibile usufruire di un ampio parcheggio.
-
-h2. bed and breakfast
-
-La struttura rende disponibili 4 posti letto nella formula bed and breakfast,
-
-* una camera doppia (con possibilità di aggiunta di un letto singolo)
-* una singola. 
-
-L'utilizzo del bagno è condiviso tra le stanze.
-
-Le stanze da letto ed il soggiorno dispongono di televisione a colori.
-
-A disposizione dei clienti è accessibile un ampio soggiorno con caminetto.
-
-Le colazioni sono ricche ed abbondanti anche a base di prodotti locali.
+E' inoltre disponibile un ampio parcheggio.
 
 h2. casa vacanze
 
-La struttura rende disponibili fino a 4 posti nelle formula casa vacanze, 
+*Draha Casa Vacanze* ha a disposizione dei clienti fino a 4 posti, 
 
-* una camera doppia (con possibilità di aggiunta di un letto singolo)
-* un divano letto per un posto.
+* una camera doppia (più un letto);
+* un posto in divano letto.
 
-L'alloggio è provvisto di cucina abitabile e bagno con idromassaggio. Sono presenti anche due televisioni a colori.
+E' disponibile una cucina abitabile e doccia con idromassaggio. 
 
-La struttura mette a disposizione il necessario per la prima colazione del giorno seguente all'arrivo.
+Il giorno sucessivo all'arrivo la colazione è compresa.
+
+h2. bed and breakfast
+
+*Oasi di Pace B&B* comprende 4 posti letto,
+
+* una camera doppia (più un letto);
+* una camera singola. 
+
+Il bagno e la doccia sono condivisi tra gli ospiti del B&B.
+
+Uno splendido soggiorno con caminetto è disponibile per gli ospiti.
 
 notextile. </div><div id="gall" class="blocco-tab main">
 	<div class="image"></div>
@@ -109,8 +105,6 @@ notextile. </div><div id="cont" class="blocco-tab main">
 
 h1. contatti
 
-Per informazioni, preventivi o prenotazioni il cliente può contattarci presso,
-
 h2. telefono, email
 
 Telefono:  +39 0432724192 
@@ -123,14 +117,10 @@ h2. indirizzo
 Oasi di pace Draha
 di Teresa Postregna,
 Via Postregna, 17 
-33040 Stregna, Udine
-Italia - ["mappa(google maps)":http://goo.gl/maps/Z38D]
+33040 Stregna, Udine (IT)
 
-h2. come raggiungerci
 
-La struttura è raggiungibile da Udine seguendo la strada statale 54 in direzione Cividale del Friuli, proseguendo per la slovenia fino alla località Ponte San Quirino, quindi a destra lungo la strada provinciale 19, ed ancora a destra lungo la strada provinciale 45 fino al centro della frazione di Scrutto (San Leonardo). Imboccare a destra la strada provinciale 47 in direzione di Stregna fino alla frazione Zamir, quindi ancora a destra verso la frazione di Postregna.
-
-La struttura si trova nella parte alta della frazione di Postregna, la stradina privata che conduce alla casa si collega alla strada comunale nelle immediate vicinanze del cartello di uscita dal paese.
+notextile. <iframe width="460" height="300" src="http://maps.google.it/maps?q=46.125976,13.570819&amp;num=1&amp;t=h&amp;sll=46.126593,13.56929&amp;sspn=0.006295,0.006295&amp;hl=it&amp;ie=UTF8&amp;ll=46.125902,13.570948&amp;spn=0.017846,0.039396&amp;z=14&amp;output=embed"></iframe><br /><small><a href="http://maps.google.it/maps?q=46.125976,13.570819&amp;num=1&amp;t=h&amp;sll=46.126593,13.56929&amp;sspn=0.006295,0.006295&amp;hl=it&amp;ie=UTF8&amp;ll=46.125902,13.570948&amp;spn=0.017846,0.039396&amp;z=14&amp;source=embed" style="color:#0000FF;text-align:left">Visualizzazione ingrandita della mappa</a></small>
 
 notextile. </div>
 		<div id="info" class="blocco-tab main">
@@ -138,9 +128,9 @@ notextile. </div>
 
 h1. info
 
-h2. ristoranti ed agriturismi
+*Draha Casa Vacanze - Oasi di Pace B&B* consigli ai suoi ospiti,
 
-Nella zona sono facilmente raggiungibili i seguenti locali di ristoro,
+h2. ristoranti ed agriturismi
 
 * Ristorante Sale e Pepe, Stregna
 * Ristorante Alla Posta, fraz. Clodig, Grimacco
@@ -149,24 +139,14 @@ Nella zona sono facilmente raggiungibili i seguenti locali di ristoro,
 
 h2. luoghi da visitare
 
-Entro pochi minuti di automobile dalla struttura è possibile visitare i seguenti luoghi di interesse storico,
-
 * "Cividale del Friuli(cividale del friuli)":http://www.comune.cividale-del-friuli.ud.it, "cividale.com":http://cividale.com/ (~15km)
 * "Gemona del Friuli(gemona del friuli)":http://www.gemonaweb.it/ (~40km)
-
-religioso, 
-
 * "Santuario della Beata Vergine di Castelmonte(santuario di castelmonte)":http://www.santuariocastelmonte.it/
-
-e naturalistico, 
-
 * "Catena montuosa del Kolovrati(catena del colovrat)":http://it.wikipedia.org/wiki/Monte_Colovrat
 * "Monte Matajur(monte matajur)":http://it.wikipedia.org/wiki/Matajur
 * "Regione del Collio(collio)":http://it.wikipedia.org/wiki/Collio_(regione_fisica)
 
-h2. Manifestazioni
-
-I principali avvenimenti organizzati in vari periodi dell'anno  nelle zone limitrofe alla struttura sono di seguito raccolti,
+h2. manifestazioni annuali
 
 * giugno 2011
 ** 23/06 fuochi (kries) di San Giovanni, in numerose frazioni delle Valli del Natisone
