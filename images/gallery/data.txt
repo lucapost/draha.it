@@ -1,42 +1,42 @@
 01.jpg:il vialetto di ghiaia:il vialetto d'ingresso
-02.jpg:il giardino nei pressi dell'ingresso:nei pressi dell'ingresso
+02.jpg:il giardino all'ingresso:il giardino all'ingresso
 03.jpg:la facciata principale:la casa
 04.jpg:la casa vista dal giardino:vista della casa
 05.jpg:le colazioni all'aperto:il tavolo delle colazioni in giardino
-06.jpg:l'ingresso:l'accesso principale
+06.jpg:l'ingresso:l'ingresso principale
 07.jpg:l'ingresso dalla cucina:particolare dell'ingresso
-08.jpg:l'orologio dell'ingresso:l'orologio vertiale dell'ingresso
+08.jpg:l'orologio dell'ingresso:l'orologio verticale dell'ingresso
 09.jpg:il soggiorno:la sala del soggiorno
 10.jpg:il divano del soggiorno:il soggiorno
-11.jpg:il tavolo del soggiorno:la tavolata principale
-12.jpg:la tavolata:il tavolo princiaple
+11.jpg:il tavolo del soggiorno:sala da pranzo 
+12.jpg:la tavolata:il tavolo del soggiorno
 13.jpg:la cucina:vista della cucina
 14.jpg:particolare della cucina:la cucina
-15.jpg:l'anticamera del bed and breakfast:la stanza d'accesso alle camere
+15.jpg:l'anticamera del bed and breakfast:disimpegno delle camere
 16.jpg:i servizi del bb: il bagno del bb
 17.jpg:la stanza per due del bb:la camera matrimoniale del bb
-18.jpg:la scrivania della stanza per due:la scrivania della stanza matrimoniale
-19.jpg:la cameretta del bb:la stanza singola del bb
-20.jpg:la cameretta:la stanza singola
-21.jpg:l'ingresso della cameretta:l'ingresso della stanza singola
-22.jpg:la cucina della casa vacanze dal giardino:la casa vacanze e la sua cucina
-23.jpg:l'ingresso della casa vacanze:l'accesso alla casa vacanze
-24.jpg:la camera della cv:la stanza matrimoniale della cv
+18.jpg:la scrivania della stanza per due:la scrivania della matrimoniale
+19.jpg:la cameretta del bb:singola del bb
+20.jpg:la cameretta:la singola
+21.jpg:l'ingresso della cameretta:l'ingresso della singola
+22.jpg:la cucina della casa vacanze dal giardino:cucina della casa vacanze
+23.jpg:l'ingresso della casa vacanze:l'ingresso alla casa vacanze
+24.jpg:la camera della cv:la matrimoniale della cv
 25.jpg:il bagno della cv:i servizi della cv
 26.jpg:la doccia idromassaggio della cv:la doccia della cv con idromassaggio
-27.jpg:la cucina della cv:la sala della cucina della cv
+27.jpg:la cucina della cv:la cucina della cv
 28.jpg:la cucina abitabile: il tavolo della cucina
 29.jpg:scorcio della cucina:la cucina
-30.jpg:la fontana:la fontana del giardino
+30.jpg:la fontana:la fontana nel giardino
 31.jpg:la fontana ed il dondolo:il dondolo e la fontana
 32.jpg:relax in giardino:il giardino
 33.jpg:la panca del giardino:la panca
-34.jpg:gli ospiti:i vivitatori
+34.jpg:i visitatori:gli ospiti
 35.jpg:gli ospiti al tavolo in giardino:il tavolo in giardino con gli ospiti
 36.jpg:una coppia di ospiti:coppia di ospiti
 37.jpg:una famiglia di ospiti:gli ospiti
-38.jpg:il panorama dal giardino:vista del panorama
+38.jpg:il panorama dal giardino:il panorama
 39.jpg:la chiesa di san leonardo:chiesa in lontananza
 40.jpg:casetta sui colli:la casetta nella valle
-41.jpg:il tramonto dal giardino:il tramonto del sole
+41.jpg:il tramonto dal giardino:il tramonto delle valli del natisone
 42.jpg:teresa e gianni:teresa e gianni

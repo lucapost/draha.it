@@ -5,46 +5,46 @@ h1. foto gallerie
 notextile. <div id="gallery"> 
     <ul>
 <li><a href="/images/gallery/full/01.jpg" title="il vialetto d'ingresso"><img src="/images/gallery/thumbs/01.jpg" alt="il vialetto di ghiaia" title="il vialetto d'ingresso" /></a></li>
-<li><a href="/images/gallery/full/02.jpg" title="nei pressi dell'ingresso"><img src="/images/gallery/thumbs/02.jpg" alt="il giardino nei pressi dell'ingresso" title="nei pressi dell'ingresso" /></a></li>
+<li><a href="/images/gallery/full/02.jpg" title="il giardino all'ingresso"><img src="/images/gallery/thumbs/02.jpg" alt="il giardino all'ingresso" title="il giardino all'ingresso" /></a></li>
 <li><a href="/images/gallery/full/03.jpg" title="la casa"><img src="/images/gallery/thumbs/03.jpg" alt="la facciata principale" title="la casa" /></a></li>
 <li><a href="/images/gallery/full/04.jpg" title="vista della casa"><img src="/images/gallery/thumbs/04.jpg" alt="la casa vista dal giardino" title="vista della casa" /></a></li>
 <li><a href="/images/gallery/full/05.jpg" title="il tavolo delle colazioni in giardino"><img src="/images/gallery/thumbs/05.jpg" alt="le colazioni all'aperto" title="il tavolo delle colazioni in giardino" /></a></li>
-<li><a href="/images/gallery/full/06.jpg" title="l'accesso principale"><img src="/images/gallery/thumbs/06.jpg" alt="l'ingresso" title="l'accesso principale" /></a></li>
+<li><a href="/images/gallery/full/06.jpg" title="l'ingresso principale"><img src="/images/gallery/thumbs/06.jpg" alt="l'ingresso" title="l'ingresso principale" /></a></li>
 <li><a href="/images/gallery/full/07.jpg" title="particolare dell'ingresso"><img src="/images/gallery/thumbs/07.jpg" alt="l'ingresso dalla cucina" title="particolare dell'ingresso" /></a></li>
-<li><a href="/images/gallery/full/08.jpg" title="l'orologio vertiale dell'ingresso"><img src="/images/gallery/thumbs/08.jpg" alt="l'orologio dell'ingresso" title="l'orologio vertiale dell'ingresso" /></a></li>
+<li><a href="/images/gallery/full/08.jpg" title="l'orologio verticale dell'ingresso"><img src="/images/gallery/thumbs/08.jpg" alt="l'orologio dell'ingresso" title="l'orologio verticale dell'ingresso" /></a></li>
 <li><a href="/images/gallery/full/09.jpg" title="la sala del soggiorno"><img src="/images/gallery/thumbs/09.jpg" alt="il soggiorno" title="la sala del soggiorno" /></a></li>
 <li><a href="/images/gallery/full/10.jpg" title="il soggiorno"><img src="/images/gallery/thumbs/10.jpg" alt="il divano del soggiorno" title="il soggiorno" /></a></li>
-<li><a href="/images/gallery/full/11.jpg" title="la tavolata principale"><img src="/images/gallery/thumbs/11.jpg" alt="il tavolo del soggiorno" title="la tavolata principale" /></a></li>
-<li><a href="/images/gallery/full/12.jpg" title="il tavolo princiaple"><img src="/images/gallery/thumbs/12.jpg" alt="la tavolata" title="il tavolo princiaple" /></a></li>
+<li><a href="/images/gallery/full/11.jpg" title="sala da pranzo"><img src="/images/gallery/thumbs/11.jpg" alt="il tavolo del soggiorno" title="sala da pranzo" /></a></li>
+<li><a href="/images/gallery/full/12.jpg" title="il tavolo del soggiorno"><img src="/images/gallery/thumbs/12.jpg" alt="la tavolata" title="il tavolo del soggiorno" /></a></li>
 <li><a href="/images/gallery/full/13.jpg" title="vista della cucina"><img src="/images/gallery/thumbs/13.jpg" alt="la cucina" title="vista della cucina" /></a></li>
 <li><a href="/images/gallery/full/14.jpg" title="la cucina"><img src="/images/gallery/thumbs/14.jpg" alt="particolare della cucina" title="la cucina" /></a></li>
-<li><a href="/images/gallery/full/15.jpg" title="la stanza d'accesso alle camere"><img src="/images/gallery/thumbs/15.jpg" alt="l'anticamera del bed and breakfast" title="la stanza d'accesso alle camere" /></a></li>
+<li><a href="/images/gallery/full/15.jpg" title="disimpegno delle camere"><img src="/images/gallery/thumbs/15.jpg" alt="l'anticamera del bed and breakfast" title="disimpegno delle camere" /></a></li>
 <li><a href="/images/gallery/full/16.jpg" title=" il bagno del bb"><img src="/images/gallery/thumbs/16.jpg" alt="i servizi del bb" title=" il bagno del bb" /></a></li>
 <li><a href="/images/gallery/full/17.jpg" title="la camera matrimoniale del bb"><img src="/images/gallery/thumbs/17.jpg" alt="la stanza per due del bb" title="la camera matrimoniale del bb" /></a></li>
-<li><a href="/images/gallery/full/18.jpg" title="la scrivania della stanza matrimoniale"><img src="/images/gallery/thumbs/18.jpg" alt="la scrivania della stanza per due" title="la scrivania della stanza matrimoniale" /></a></li>
-<li><a href="/images/gallery/full/19.jpg" title="la stanza singola del bb"><img src="/images/gallery/thumbs/19.jpg" alt="la cameretta del bb" title="la stanza singola del bb" /></a></li>
-<li><a href="/images/gallery/full/20.jpg" title="la stanza singola"><img src="/images/gallery/thumbs/20.jpg" alt="la cameretta" title="la stanza singola" /></a></li>
-<li><a href="/images/gallery/full/21.jpg" title="l'ingresso della stanza singola"><img src="/images/gallery/thumbs/21.jpg" alt="l'ingresso della cameretta" title="l'ingresso della stanza singola" /></a></li>
-<li><a href="/images/gallery/full/22.jpg" title="la casa vacanze e la sua cucina"><img src="/images/gallery/thumbs/22.jpg" alt="la cucina della casa vacanze dal giardino" title="la casa vacanze e la sua cucina" /></a></li>
-<li><a href="/images/gallery/full/23.jpg" title="l'accesso alla casa vacanze"><img src="/images/gallery/thumbs/23.jpg" alt="l'ingresso della casa vacanze" title="l'accesso alla casa vacanze" /></a></li>
-<li><a href="/images/gallery/full/24.jpg" title="la stanza matrimoniale della cv"><img src="/images/gallery/thumbs/24.jpg" alt="la camera della cv" title="la stanza matrimoniale della cv" /></a></li>
+<li><a href="/images/gallery/full/18.jpg" title="la scrivania della matrimoniale"><img src="/images/gallery/thumbs/18.jpg" alt="la scrivania della stanza per due" title="la scrivania della matrimoniale" /></a></li>
+<li><a href="/images/gallery/full/19.jpg" title="singola del bb"><img src="/images/gallery/thumbs/19.jpg" alt="la cameretta del bb" title="singola del bb" /></a></li>
+<li><a href="/images/gallery/full/20.jpg" title="la singola"><img src="/images/gallery/thumbs/20.jpg" alt="la cameretta" title="la singola" /></a></li>
+<li><a href="/images/gallery/full/21.jpg" title="l'ingresso della singola"><img src="/images/gallery/thumbs/21.jpg" alt="l'ingresso della cameretta" title="l'ingresso della singola" /></a></li>
+<li><a href="/images/gallery/full/22.jpg" title="cucina della casa vacanze"><img src="/images/gallery/thumbs/22.jpg" alt="la cucina della casa vacanze dal giardino" title="cucina della casa vacanze" /></a></li>
+<li><a href="/images/gallery/full/23.jpg" title="l'ingresso alla casa vacanze"><img src="/images/gallery/thumbs/23.jpg" alt="l'ingresso della casa vacanze" title="l'ingresso alla casa vacanze" /></a></li>
+<li><a href="/images/gallery/full/24.jpg" title="la matrimoniale della cv"><img src="/images/gallery/thumbs/24.jpg" alt="la camera della cv" title="la matrimoniale della cv" /></a></li>
 <li><a href="/images/gallery/full/25.jpg" title="i servizi della cv"><img src="/images/gallery/thumbs/25.jpg" alt="il bagno della cv" title="i servizi della cv" /></a></li>
 <li><a href="/images/gallery/full/26.jpg" title="la doccia della cv con idromassaggio"><img src="/images/gallery/thumbs/26.jpg" alt="la doccia idromassaggio della cv" title="la doccia della cv con idromassaggio" /></a></li>
-<li><a href="/images/gallery/full/27.jpg" title="la sala della cucina della cv"><img src="/images/gallery/thumbs/27.jpg" alt="la cucina della cv" title="la sala della cucina della cv" /></a></li>
+<li><a href="/images/gallery/full/27.jpg" title="la cucina della cv"><img src="/images/gallery/thumbs/27.jpg" alt="la cucina della cv" title="la cucina della cv" /></a></li>
 <li><a href="/images/gallery/full/28.jpg" title=" il tavolo della cucina"><img src="/images/gallery/thumbs/28.jpg" alt="la cucina abitabile" title=" il tavolo della cucina" /></a></li>
 <li><a href="/images/gallery/full/29.jpg" title="la cucina"><img src="/images/gallery/thumbs/29.jpg" alt="scorcio della cucina" title="la cucina" /></a></li>
-<li><a href="/images/gallery/full/30.jpg" title="la fontana del giardino"><img src="/images/gallery/thumbs/30.jpg" alt="la fontana" title="la fontana del giardino" /></a></li>
+<li><a href="/images/gallery/full/30.jpg" title="la fontana nel giardino"><img src="/images/gallery/thumbs/30.jpg" alt="la fontana" title="la fontana nel giardino" /></a></li>
 <li><a href="/images/gallery/full/31.jpg" title="il dondolo e la fontana"><img src="/images/gallery/thumbs/31.jpg" alt="la fontana ed il dondolo" title="il dondolo e la fontana" /></a></li>
 <li><a href="/images/gallery/full/32.jpg" title="il giardino"><img src="/images/gallery/thumbs/32.jpg" alt="relax in giardino" title="il giardino" /></a></li>
 <li><a href="/images/gallery/full/33.jpg" title="la panca"><img src="/images/gallery/thumbs/33.jpg" alt="la panca del giardino" title="la panca" /></a></li>
-<li><a href="/images/gallery/full/34.jpg" title="i vivitatori"><img src="/images/gallery/thumbs/34.jpg" alt="gli ospiti" title="i vivitatori" /></a></li>
+<li><a href="/images/gallery/full/34.jpg" title="gli ospiti"><img src="/images/gallery/thumbs/34.jpg" alt="i visitatori" title="gli ospiti" /></a></li>
 <li><a href="/images/gallery/full/35.jpg" title="il tavolo in giardino con gli ospiti"><img src="/images/gallery/thumbs/35.jpg" alt="gli ospiti al tavolo in giardino" title="il tavolo in giardino con gli ospiti" /></a></li>
 <li><a href="/images/gallery/full/36.jpg" title="coppia di ospiti"><img src="/images/gallery/thumbs/36.jpg" alt="una coppia di ospiti" title="coppia di ospiti" /></a></li>
 <li><a href="/images/gallery/full/37.jpg" title="gli ospiti"><img src="/images/gallery/thumbs/37.jpg" alt="una famiglia di ospiti" title="gli ospiti" /></a></li>
-<li><a href="/images/gallery/full/38.jpg" title="vista del panorama"><img src="/images/gallery/thumbs/38.jpg" alt="il panorama dal giardino" title="vista del panorama" /></a></li>
+<li><a href="/images/gallery/full/38.jpg" title="il panorama"><img src="/images/gallery/thumbs/38.jpg" alt="il panorama dal giardino" title="il panorama" /></a></li>
 <li><a href="/images/gallery/full/39.jpg" title="chiesa in lontananza"><img src="/images/gallery/thumbs/39.jpg" alt="la chiesa di san leonardo" title="chiesa in lontananza" /></a></li>
 <li><a href="/images/gallery/full/40.jpg" title="la casetta nella valle"><img src="/images/gallery/thumbs/40.jpg" alt="casetta sui colli" title="la casetta nella valle" /></a></li>
-<li><a href="/images/gallery/full/41.jpg" title="il tramonto del sole"><img src="/images/gallery/thumbs/41.jpg" alt="il tramonto dal giardino" title="il tramonto del sole" /></a></li>
+<li><a href="/images/gallery/full/41.jpg" title="il tramonto delle valli del natisone"><img src="/images/gallery/thumbs/41.jpg" alt="il tramonto dal giardino" title="il tramonto delle valli del natisone" /></a></li>
 <li><a href="/images/gallery/full/42.jpg" title="teresa e gianni"><img src="/images/gallery/thumbs/42.jpg" alt="teresa e gianni" title="teresa e gianni" /></a></li>
     </ul>
 </div>
