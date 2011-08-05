@@ -1,4 +1,4 @@
-<div class="boximg"> !/images/allo.jpg(camere ed alloggi)! </div>
+<div class="boximg"> !/images/benv.jpg(herzlich willkomm)! </div>
 
 h1. Herzlich willkomm
 

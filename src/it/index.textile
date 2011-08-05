@@ -1,4 +1,4 @@
-<div class="boximg"> !/images/benv.jpg(Casa Vacanze Draha - Oasi di pace B&B)! </div>
+<div class="boximg"> !/images/benv.jpg(Casa Vacanze Draha - Oasi di pace BnB)! </div>
 
 h1. benvenuti
 
