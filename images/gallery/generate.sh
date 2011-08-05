@@ -2,11 +2,13 @@
 
 mkdir thumbs
 
-for a in $1/*.jpg  ; do
-	name=`echo $a |sed s'/.jpg//'`
-	echo $name
-        convert -thumbnail !60 -unsharp 0x.5 $a -path thumbs $name.jpg 
+for a in full/*.jpg  ; do
+	echo $a
+	name=`echo $a |sed -e 's/.jpg//i;s/full\///'`
+        convert -thumbnail !60x60 -unsharp 0x.5 $a thumbs/$name.jpg 
 done
+
+
 exec 3<&0
 exec 0<data.txt
 
