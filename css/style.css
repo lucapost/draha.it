@@ -235,6 +235,10 @@ menu a:hover {
 	-webkit-transition: all .5s ease-in-out;
 }
 
+menu a.current {
+	text-decoration:underline;
+}
+
 menu ul {
 	list-style:none;
 	height: 100%;
