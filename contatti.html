@@ -1,23 +1,11 @@
-author = "Luca Postregna"
-path_separator = "/"
-prefix = "/"
-home = "/"
-src_ext = {"textile": "textile"}
-dst_ext = "html"
-hidden = set(["404.textile", "500.textile"])
-current_time = datetime.datetime.now()
 
-def header(node):
-	"""Builds the header and returns it to a string."""
-
-	return '''
 	<!DOCTYPE HTML>
-	<html lang="''' + language + '''">
+	<html lang="it">
 	<head>
-		<title>''' + site_name + ' | ' + node.name + '''</title>
-		<meta name="author" content="''' + author + '''" />
-		<meta name="keywords" content="''' + keywords + '''" />
-		<meta name="description" content="''' + description + '''" />
+		<title>Draha Casa Vacanze - Oasi di Pace Bed and Breakfast | contatti</title>
+		<meta name="author" content="Luca Postregna" />
+		<meta name="keywords" content="b&amp;b, bed and breakfast, casa vacanze, draha, oasi di pace, postregna, teresa, cividale, friuli venezia giulia, fvg, valli del natisone, dormire, soggiornare, stregna, udine" />
+		<meta name="description" content="B&amp;B e casa vacanze, dormire e soggiornare a Stregna e nelle Valli del Natisone" />
 		<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
 		<link rel="shortcut icon" href="/images/fav.ico" />
 		<link rel="stylesheet" type="text/css" media="all" href="/css/style.css" /> 
@@ -60,10 +48,21 @@ def header(node):
 		</div><!-- end top -->
 		<div id="container" class="container_12">
 			<div id="boxsx" class="grid_6 prefix_1">
-	'''
-def footer(node):
-	"""Builds the footer and returns it to a string."""
-	return '''
+	<div class="boximg"> <img src="/images/cont.jpg" title="contatti" alt="contatti" /> </div>
+
+	<h1>contatti</h1>
+
+	<h2>telefono, email</h2>
+
+	<p>Telefono:  +39 0432724192 <br />Cellulare: +39 3337600975</p>
+
+	<p>Email: <a href="mailto:teresa.postregna@gmail.com" title="email">teresa.postregna@gmail.com</a></p>
+
+	<h2>indirizzo</h2>
+
+	<p>Oasi di pace Draha<br />di Teresa Postregna,<br />Via Postregna, 17 <br />33040 Stregna, Udine (IT)</p>
+
+<iframe width="460" height="300" src="http://maps.google.it/maps?q=46.125976,13.570819&amp;num=1&amp;t=h&amp;sll=46.126593,13.56929&amp;sspn=0.006295,0.006295&amp;hl=it&amp;ie=UTF8&amp;ll=46.125902,13.570948&amp;spn=0.017846,0.039396&amp;z=14&amp;output=embed"></iframe><br /><small><a href="http://maps.google.it/maps?q=46.125976,13.570819&amp;num=1&amp;t=h&amp;sll=46.126593,13.56929&amp;sspn=0.006295,0.006295&amp;hl=it&amp;ie=UTF8&amp;ll=46.125902,13.570948&amp;spn=0.017846,0.039396&amp;z=14&amp;source=embed" style="color:#0000FF;text-align:left">Visualizzazione ingrandita della mappa</a></small>
 			</div><!-- chiuso boxsx-->
 			<div id="boxrx" class="grid_4"> 
 				<a title="home" href="/"> 
@@ -74,16 +73,21 @@ def footer(node):
 					</div>
 				</a> 
 				<div id="menu" class="omega grid_2 pull_1 clearfix"> 
-					%%%MENU%%%
+					<ul>
+	<li><a href="alloggi.html">alloggi</a></li>
+	<li><a href="contatti.html" class="current">contatti</a></li>
+	<li><a href="galleria.html">galleria</a></li>
+	<li><a href="info.html">info</a></li>
+</ul>
 				</div>
 				<div class="clear"></div>
 			</div><!-- chiuso boxrx--> 
 			<div id="footer" class="grid_8 prefix_2">
-				&copy; ''' + str(current_time.year) + ''' <a title="il blog di Luca Postregna" href="http://luca.postregna.name">Luca Postregna</a> ::
-				update: ''' + str(current_time.strftime("%Y%m%d")) + ''' ::
+				&copy; 2011 <a title="il blog di Luca Postregna" href="http://luca.postregna.name">Luca Postregna</a> ::
+				update: 20110805 ::
 				<a title="xhtml validator" href="http://validator.w3.org/check?uri=referer">xhtml</a> <a title="css validator" href="http://jigsaw.w3.org/css-validator/check/referer">css</a>
 			</div><!-- chiuso footer -->
 			<div class="clear"></div>
 		</div>
 	</body>
-</html>'''
+</html>

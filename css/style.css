@@ -105,32 +105,24 @@ a:hover {
 	border-top: 0;
 }
 
-.image {
+#boxsx {
+	display:none;
+}
+
+.boximg {
+	width: 458px;
 	height: 298px;
-	-webkit-border-radius: 10px 10px; 
-	-moz-border-radius: 10px 10px; 
-	margin-bottom:20px;
 	border: 1px solid #000000;
+	-webkit-border-radius: 10px; 
+	-moz-border-radius: 10px; 
+	border-radius: 10px;
+	margin-bottom:20px;
 }
 
-#benv div[class="image"] {
-	background:url(/images/benv.jpg);
-}
-
-#allo div[class="image"] {
-	background:url(/images/allo.jpg);
-}
-
-#gall div[class="image"] {
-	background:url(/images/gall.jpg);
-}
-
-#cont div[class="image"] {
-	background:url(/images/cont.jpg);
-}
-
-#info div[class="image"] {
-	background:url(/images/info.jpg);
+.boximg img {
+	width: 458px;
+	height: 298px;
+	border-radius: 10px;
 }
 
 .main a {
@@ -140,21 +132,6 @@ a:hover {
 .main a:hover {
 	color: #202020;
 	text-decoration: underline;
-}
-
-.main img {
-	background-color: #402020;
-	height: 58px;
-	width: 58px;
-	margin-right: 20px;
-	margin-bottom: 20px;
-	border: 1px solid black;
-	border-radius: 5px;
-	padding:0;
-}
-
-.main img.last {
-	margin-right: 0;
 }
 
 #boxrx {
@@ -167,8 +144,9 @@ a:hover {
 	border: 1px solid #000000;
 	background-color: #402020;
 	color: #e0e0e0;
-	-webkit-border-radius: 10px 10px; 
-	-moz-border-radius: 10px 10px; 
+	-webkit-border-radius: 10px; 
+	-moz-border-radius: 10px; 
+	border-radius: 10px;
 	text-align: center;
 	margin:0;
 	padding:0;
@@ -199,7 +177,7 @@ a:hover {
 #menu {
 	height: 140px;
 	font-size: 16px;
-	line-height: 28px;
+	line-height: 35px;
 	text-transform: capitalize;
 }
 
