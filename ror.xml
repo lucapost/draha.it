@@ -6,15 +6,23 @@
 
 <item>
      <link>http://bb.draha.it/</link>
-     <title>Draha Casa Vacanze - Oasi di Pace Bed and Breakfast | index</title>
-     <description>B&amp;amp;B e casa vacanze, dormire e soggiornare a Stregna e nelle Valli del Natisone</description>
+     <title>Draha Casa Vacanze - Oasi di Pace draha</title>
+     <description>Draha Casa Vacanze - Oasi di Pace draha</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>0</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
-     <link>http://bb.draha.it/de/</link>
-     <title>Draha Ferienhaus, Die Friedens Oase Bed and Breakfast | index</title>
+     <link>http://bb.draha.it/benvenuti.html</link>
+     <title>Draha Casa Vacanze - Oasi di Pace Bed and Breakfast | benvenuti</title>
+     <description>B&amp;amp;B e casa vacanze, dormire e soggiornare a Stregna e nelle Valli del Natisone</description>
+     <ror:updatePeriod></ror:updatePeriod>
+     <ror:sortOrder>1</ror:sortOrder>
+     <ror:resourceOf>sitemap</ror:resourceOf>
+</item>
+<item>
+     <link>http://bb.draha.it/de/willcomm.html</link>
+     <title>Draha Ferienhaus, Die Friedens Oase Bed and Breakfast | willcomm</title>
      <description>Ferienhaus und Bed and Breakfast in Stregna in den Talern des Natisone</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>1</ror:sortOrder>
@@ -22,10 +30,10 @@
 </item>
 <item>
      <link>http://bb.draha.it/index.html</link>
-     <title>Draha Casa Vacanze - Oasi di Pace Bed and Breakfast | index</title>
-     <description>B&amp;amp;B e casa vacanze, dormire e soggiornare a Stregna e nelle Valli del Natisone</description>
+     <title>Draha Casa Vacanze - Oasi di Pace draha</title>
+     <description>Draha Casa Vacanze - Oasi di Pace draha</description>
      <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>1</ror:sortOrder>
+     <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
@@ -33,7 +41,7 @@
      <title>Draha Casa Vacanze - Oasi di Pace Bed and Breakfast | alloggi</title>
      <description>B&amp;amp;B e casa vacanze, dormire e soggiornare a Stregna e nelle Valli del Natisone</description>
      <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>1</ror:sortOrder>
+     <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
@@ -41,7 +49,7 @@
      <title>Draha Casa Vacanze - Oasi di Pace Bed and Breakfast | galleria</title>
      <description>B&amp;amp;B e casa vacanze, dormire e soggiornare a Stregna e nelle Valli del Natisone</description>
      <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>1</ror:sortOrder>
+     <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
@@ -49,7 +57,7 @@
      <title>Draha Casa Vacanze - Oasi di Pace Bed and Breakfast | info</title>
      <description>B&amp;amp;B e casa vacanze, dormire e soggiornare a Stregna e nelle Valli del Natisone</description>
      <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>1</ror:sortOrder>
+     <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
@@ -57,13 +65,13 @@
      <title>Draha Casa Vacanze - Oasi di Pace Bed and Breakfast | contatti</title>
      <description>B&amp;amp;B e casa vacanze, dormire e soggiornare a Stregna e nelle Valli del Natisone</description>
      <ror:updatePeriod></ror:updatePeriod>
-     <ror:sortOrder>1</ror:sortOrder>
+     <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
 </item>
 <item>
      <link>http://bb.draha.it/de/index.html</link>
-     <title>Draha Ferienhaus, Die Friedens Oase Bed and Breakfast | index</title>
-     <description>Ferienhaus und Bed and Breakfast in Stregna in den Talern des Natisone</description>
+     <title>Draha Casa Vacanze - Oasi di Pace draha</title>
+     <description>Draha Casa Vacanze - Oasi di Pace draha</description>
      <ror:updatePeriod></ror:updatePeriod>
      <ror:sortOrder>2</ror:sortOrder>
      <ror:resourceOf>sitemap</ror:resourceOf>
