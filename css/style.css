@@ -159,7 +159,11 @@ section a:hover {
 
 #gallery ul li:nth-child(6),
 #gallery ul li:nth-child(12),
-#gallery ul li:nth-child(18) {
+#gallery ul li:nth-child(18),
+#gallery ul li:nth-child(24),
+#gallery ul li:nth-child(30),
+#gallery ul li:nth-child(36),
+#gallery ul li:nth-child(42) {
 	margin-right: 0;
 }
 

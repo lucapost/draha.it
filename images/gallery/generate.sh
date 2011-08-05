@@ -7,8 +7,6 @@
 
 #while read line; do
 
-echo "" > it.txt
-
 for i in *.jpg ; do
 
 	name=$i
@@ -17,10 +15,10 @@ for i in *.jpg ; do
 	altit=`echo $line | cut -d: -f2`
 	titleit=`echo $line | cut -d: -f3`
 
-	echo "<li><a href=\"/images/gallery/full/$i\" title=\"$titleit\"><img src=\"/images/gallery/thumbs/$i\" alt=\"$altit\" title=\"$titleit\" /></a></li>"  >> it.txt
+	echo "<li><a href=\"/images/gallery/full/$name\" title=\"$titleit\"><img src=\"/images/gallery/thumbs/$name\" alt=\"$altit\" title=\"$titleit\" /></a></li>"  >> tmp/it.txt
 
 done
 
 #exec 0<&3
 
-cat it.txt
+cat tmp/it.txt
