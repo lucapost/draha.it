@@ -133,13 +133,7 @@ section a:hover {
 	border-radius: 10px;
 }
 
-#gallery {
-	width: 460px;
-}
-
 #gallery a {
-	width: 60px;
-	height: 60px;
 	padding: 0;
 	margin:0;
 }
@@ -168,9 +162,11 @@ section a:hover {
 }
 
 #gallery ul img {
-	width: 60px;
-	height: 60px;
+	width: 58px;
+	height: 58px;
 	margin-bottom: 20px;
+	border: 1px solid black;
+	border-radius:10px;
 }
 
 #gallery ul a:hover img {
