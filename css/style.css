@@ -97,14 +97,14 @@ a:hover {
 	background:url(/images/de.png) no-repeat center;
 }
 
-#container {
+article {
 	background:url(/images/cornice.png) no-repeat 730px 0px; 
 	background-color: #a0a080;
 	border: 1px solid #000000;
 	border-top: 0;
 }
 
-#box {
+section#main {
 	display:none;
 }
 
@@ -184,8 +184,7 @@ nav {
 }
 
 #logo:hover {
-	background-color: #9ac2f6;
-	-webkit-transition: all .5s ease-in-out;
+	text-decoration:underline;
 }
 
 #logo h1 {
@@ -218,13 +217,18 @@ menu a {
 }
 
 menu a:hover {
-	padding-left: 4px;
+	padding-left: 8px;
+	text-decoration:underline;
 	-webkit-transition: all .5s ease-in-out;
-	color: #9ac2f6;
 }
 
 menu a.current {
+        color: #202020;
 	text-decoration:underline;
+}
+
+menu a.current:hover {
+	text-decoration:none;
 }
 
 menu ul {

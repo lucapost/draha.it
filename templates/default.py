@@ -22,8 +22,8 @@ def header(node):
 		<link rel="stylesheet" type="text/css" media="all" href="/css/style.css" /> 
 		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
 		<script type="text/javascript" src="/js/hashgrid.js" ></script> 
-		<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 		<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+		<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
 		<script type="text/javascript">
   	        	var _gaq = _gaq || [];
 			_gaq.push(['_setAccount', 'UA-6164762-7']);
@@ -63,7 +63,7 @@ def header(node):
 			</div>
 			<div id="clear"></div>
 		</div><!-- end top -->
-		<div id="container" class="container_12">
+		<article class="container_12">
 			<section id="main" class="grid_6 prefix_1">
 	'''
 def footer(node):
@@ -90,6 +90,6 @@ def footer(node):
 				<a title="xhtml validator" href="http://validator.w3.org/check?uri=referer">xhtml</a> <a title="css validator" href="http://jigsaw.w3.org/css-validator/check/referer">css</a>
 			</footer>
 			<div class="clear"></div>
-		</div>
+		</article>
 	</body>
 </html>'''
