@@ -1,9 +1,5 @@
-notextile. <div id="boxsx" class="grid_6 prefix_1">
-
 h1.  Draha Casa Vacanze - Oasi di Pace B&amp;B
 
 h2. Page not found
 
-"go to home":/
-
-notextile. </div><!-- chiuso boxsx -->
+"back to home":/

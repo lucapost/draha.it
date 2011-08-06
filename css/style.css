@@ -108,13 +108,9 @@ a:hover {
 	display:none;
 }
 
-section a {
-	color: #202020;
-}
-
 section a:hover {
-	color: #202020;
-	text-decoration: underline;
+	color: #9ac2f6;
+	-webkit-transition: all .5s ease-in-out;
 }
 
 .boximg {
@@ -169,12 +165,6 @@ section a:hover {
 	border-radius:10px;
 }
 
-#gallery ul a:hover img {
-}
-
-#gallery ul a:hover { 
-	}
-
 nav {
 	margin-top: 80px;
 }
@@ -201,6 +191,11 @@ nav {
 	line-height: 20px;
 }
 
+#logo h1:hover {
+	color: #9ac2f6;
+	-webkit-transition: all .5s ease-in-out;
+}
+
 #logo img {
 	padding: 12px 0 12px 0;
 	margin:0;
@@ -208,11 +203,6 @@ nav {
 
 #logo a {
 	text-decoration:none;
-}
-
-#logo p {
-	margin:0;
-	padding:0;
 }
 
 menu {
@@ -229,6 +219,7 @@ menu a {
 menu a:hover {
 	padding-left: 4px;
 	-webkit-transition: all .5s ease-in-out;
+	color: #9ac2f6;
 }
 
 menu a.current {
