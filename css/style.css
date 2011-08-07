@@ -228,7 +228,8 @@ menu a.current {
 }
 
 menu a.current:hover {
-	text-decoration:none;
+	text-decoration:underline;
+	padding-left: 0;
 }
 
 menu ul {
