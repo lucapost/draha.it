@@ -10,7 +10,8 @@ Dall'accoglienza degli ospiti, la signora Teresa si prende cura di tutti gli asp
 
 h2. notizie
 
-notextile. <script>
+notextile. <script src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
 new TWTR.Widget({
   version: 2,
   type: 'profile',
@@ -40,5 +41,3 @@ new TWTR.Widget({
   }
 }).render().setUser('bb_draha_it').start();
 </script>
-<script src="http://widgets.twimg.com/j/2/widget.js"></script>
-
