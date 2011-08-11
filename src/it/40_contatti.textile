@@ -16,4 +16,4 @@ di Teresa Postregna,
 Via Postregna, 17 
 33040 Stregna, Udine (IT)
 
-notextile. <iframe width="460" height="300" src="http://www.google.it/maps?f=q&amp;source=s_q&amp;hl=it&amp;geocode=&amp;q=postregna+draha&amp;sll=41.442726,12.392578&amp;sspn=19.442225,39.506836&amp;ie=UTF8&amp;hq=postregna+draha&amp;hnear=&amp;t=h&amp;ll=41.442726,12.392578&amp;spn=19.442225,39.506836&amp;output=embed"></iframe><br /><small><a href="http://www.google.it/maps?f=q&amp;source=embed&amp;hl=it&amp;geocode=&amp;q=postregna+draha&amp;sll=41.442726,12.392578&amp;sspn=19.442225,39.506836&amp;ie=UTF8&amp;hq=postregna+draha&amp;hnear=&amp;t=h&amp;ll=41.442726,12.392578&amp;spn=19.442225,39.506836" style="color:#0000FF;text-align:left">Visualizzazione ingrandita della mappa</a></small>
+notextile. <iframe width="460" height="300" src="http://maps.google.it/maps/ms?msa=0&amp;msid=217100378617540676471.0004a29a2fc1418cefdf5&amp;ie=UTF8&amp;ll=46.125932,13.570787&amp;spn=0,0&amp;t=h&amp;output=embed"></iframe>
