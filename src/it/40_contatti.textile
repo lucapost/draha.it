@@ -16,4 +16,4 @@ di Teresa Postregna,
 Via Postregna, 17 
 33040 Stregna, Udine (IT)
 
-notextile. <iframe width="460" height="300" src="http://maps.google.it/maps/ms?msa=0&amp;msid=217100378617540676471.0004a29a2fc1418cefdf5&amp;ie=UTF8&amp;ll=46.125932,13.570787&amp;spn=0,0&amp;t=h&amp;output=embed"></iframe>
+notextile. <iframe width="460px" height="300px" src="http://maps.google.it/maps/ms?msa=0&amp;msid=217100378617540676471.0004a29a2fc1418cefdf5&amp;ie=UTF8&amp;ll=46.125932,13.570787&amp;spn=0,0&amp;t=h&amp;output=embed"></iframe>
