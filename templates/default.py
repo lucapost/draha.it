@@ -59,7 +59,7 @@ def header(node):
 				<a href="/benvenuti.html" title="switch to italian language"><p class="hide">it</p></a> 
 			</div>
 			<div class="grid_1" id="flagde">
-				<a href="/de/willcomm.html" title="switch to deutsch language"><p class="hide">de</p></a> 
+				<a href="/de/willkommen.html" title="switch to deutsch language"><p class="hide">de</p></a> 
 			</div>
 			<div id="clear"></div>
 		</div><!-- end top -->
