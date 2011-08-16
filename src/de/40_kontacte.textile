@@ -4,12 +4,12 @@ h1. Kontakte
 
 Weitere Informationen, bezueglich Angebote und Reservierungen erhalten Sie ueber,
 
-h2. telefono, email
+h2. telefon, e-mail
 
-Telefono:  +39 0432724192 
-Cellulare: +39 3337600975
+Telefon:  +39 0432724192 
+Handy: +39 3337600975
 
-Email: "teresa.postregna@gmail.com(email)":mailto:teresa.postregna@gmail.com
+E-mail: "teresa.postregna@gmail.com(email)":mailto:teresa.postregna@gmail.com
 
 h2. Anschrift,
 
