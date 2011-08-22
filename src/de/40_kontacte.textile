@@ -19,4 +19,4 @@ Via Postregna, 17
 33040 Stregna, Udine
 Italia
 
-notextile. <iframe width="460" height="300" src="http://maps.google.com/maps/ms?f=q&amp;source=s_q&amp;geocode=&amp;aq=&amp;ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;msid=217100378617540676471.0004a29a2fc1418cefdf5&amp;t=h&amp;ll=46.125932,13.570787&amp;spn=0,0&amp;output=embed"></iframe><br /><small>View <a href="http://maps.google.com/maps/ms?f=q&amp;source=embed&amp;geocode=&amp;aq=&amp;ie=UTF8&amp;oe=UTF8&amp;msa=0&amp;msid=217100378617540676471.0004a29a2fc1418cefdf5&amp;t=h&amp;ll=46.125932,13.570787&amp;spn=0,0" style="color:#0000FF;text-align:left">Oasi di Pace - Draha</a> in a larger map</small>
+notextile. <iframe width="460" height="300" src="http://maps.google.it/maps?f=q&amp;source=s_q&amp;hl=it&amp;geocode=&amp;q=draha+casa+vacanze&amp;aq=&amp;g=Via+Postregna,+17,+33040+Stregna&amp;ie=UTF8&amp;t=h&amp;vpsrc=6&amp;ll=46.125932,13.570755&amp;spn=0.007585,0.01929&amp;output=embed"></iframe>
