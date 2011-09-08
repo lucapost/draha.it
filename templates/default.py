@@ -3,7 +3,7 @@ path_separator = "/"
 home = "/"
 src_ext = {"textile": "textile"}
 dst_ext = "html"
-hidden = set(["404.textile", "500.textile"])
+hidden = set(["404.textile", "500.textile", "privacy.textile"])
 current_time = datetime.datetime.now()
 
 def header(node):
@@ -86,6 +86,7 @@ def footer(node):
 			<footer class="grid_8 prefix_2">
 				&copy; ''' + str(current_time.year) + ''' <a title="il blog di Luca Postregna" href="http://luca.postregna.name">Luca Postregna</a> ::
 				<a title="Creative Commons licenes" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">license</a> ::
+				<a title="Privacy" href="/privacy.html">privacy</a> ::
 				update: ''' + str(current_time.strftime("%Y%m%d")) + ''' ::
 				<a title="xhtml validator" href="http://validator.w3.org/check?uri=referer">xhtml</a> <a title="css validator" href="http://jigsaw.w3.org/css-validator/check/referer">css</a>
 			</footer>
