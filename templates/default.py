@@ -10,41 +10,38 @@ def header(node):
 	"""Builds the header and returns it to a string."""
 
 	return '''
-	<!DOCTYPE HTML>
-	<html lang="''' + language + '''">
+
+	<!doctype html>
+	<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
+	<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="''' + language + '''"> <![endif]-->
+	<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="''' + language + '''"> <![endif]-->
+	<!--[if IE 8]>    <html class="no-js ie8 oldie" lang="''' + language + '''"> <![endif]-->
+	<!-- Consider adding a manifest.appcache: h5bp.com/d/Offline -->
+	<!--[if gt IE 8]><!--> <html class="no-js" lang="''' + language + '''"> <!--<![endif]-->
 	<head>
+		<meta charset="utf-8">
+		<!-- Use the .htaccess and remove these lines to avoid edge case issues.
+		     More info: h5bp.com/b/378 -->
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
 		<title>''' + site_name + ' | ' + node.name + '''</title>
 		<meta name="author" content="''' + author + '''" />
 		<meta name="keywords" content="''' + keywords + ',' + node.name + '''" />
 		<meta name="description" content="''' + description + ',' + node.name + '''" />
-		<meta content="text/html; charset=UTF-8" http-equiv="content-type" />
-		<link rel="shortcut icon" href="/images/fav.ico" />
-		<link rel="stylesheet" type="text/css" media="all" href="/css/style.css" /> 
-		<script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1/jquery.min.js"></script>
-		<script type="text/javascript" src="/js/hashgrid.js" ></script> 
-		<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
-		<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
-		<script type="text/javascript">
-  	        	var _gaq = _gaq || [];
-			_gaq.push(['_setAccount', 'UA-6164762-7']);
-			_gaq.push(['_trackPageview']);
-			(function() {
-				var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
-			    	ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
-			    	var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
-			})();
-		</script>
-		<script type="text/javascript">
-			$(document).ready(function(){
-			$('#main').fadeIn(2000);
-			});
-		</script>
-		<script type="text/javascript" src="/js/jquery.lightbox-0.5.min.js"></script>
-		<script type="text/javascript">
-		$(function() {
-			$('#gallery a').lightBox({fixedNavigation:true});
-			});
-		</script>
+
+		<!-- Mobile viewport optimized: j.mp/bplateviewport -->
+	  	<meta name="viewport" content="width=device-width,initial-scale=1">
+
+	  	<!-- Place favicon.ico and apple-touch-icon.png in the root directory: mathiasbynens.be/notes/touch-icons -->
+
+	  	<link rel="stylesheet" href="css/style.css">
+  
+	  	<!-- More ideas for your <head> here: h5bp.com/d/head-Tips -->
+		<link rel="stylesheet" type="text/css" media="all" href="/css/custom.css" /> 
+
+	  	<!-- All JavaScript at the bottom, except this Modernizr build incl. Respond.js
+		      	Respond is a polyfill for min/max-width media queries. Modernizr enables HTML5 elements & feature detects; 
+       			for optimal performance, create your own custom Modernizr build: www.modernizr.com/download/ -->
+  		<script src="js/libs/modernizr-2.0.6.min.js"></script>
 	</head>
 	<body>
 		<div id="top" class="container_12">
@@ -92,5 +89,47 @@ def footer(node):
 			</footer>
 			<div class="clear"></div>
 		</article>
+
+  		<!-- JavaScript at the bottom for fast page loading -->
+
+  		<!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
+  		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js"></script>
+  		<script>window.jQuery || document.write('<script src="js/libs/jquery-1.6.3.min.js"><\/script>')</script>
+
+  		<!-- scripts concatenated and minified via build script -->
+  		<script defer src="js/plugins.js"></script>
+  		<script defer src="js/script.js"></script>
+		<!-- end scripts -->
+
+		<script type="text/javascript" src="/js/hashgrid.js" ></script> 
+		<script type="text/javascript" src="https://apis.google.com/js/plusone.js"></script>
+		<script type="text/javascript" src="http://platform.twitter.com/widgets.js"></script>
+		<script type="text/javascript">
+			$(document).ready(function(){
+			$('#main').fadeIn(2000);
+			});
+		</script>
+		<script type="text/javascript" src="/js/jquery.lightbox-0.5.min.js"></script>
+		<script type="text/javascript">
+		$(function() {
+			$('#gallery a').lightBox({fixedNavigation:true});
+			});
+		</script>
+
+  		<!-- Asynchronous Google Analytics snippet. Change UA-XXXXX-X to be your site's ID.
+       			mathiasbynens.be/notes/async-analytics-snippet -->
+		<script>
+			var _gaq=[['_setAccount','UA-6164762-7'],['_trackPageview'],['_trackPageLoadTime']];
+    			(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
+    			g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
+    			s.parentNode.insertBefore(g,s)}(document,'script'));
+  		</script>
+
+  		<!-- Prompt IE 6 users to install Chrome Frame. Remove this if you want to support IE 6.
+       			chromium.org/developers/how-tos/chrome-frame-getting-started -->
+  		<!--[if lt IE 7 ]>
+    			<script defer src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
+    			<script defer>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
+  		<![endif]-->
 	</body>
 </html>'''
