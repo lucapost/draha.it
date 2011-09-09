@@ -9,9 +9,7 @@ current_time = datetime.datetime.now()
 def header(node):
 	"""Builds the header and returns it to a string."""
 
-	return '''
-
-	<!doctype html>
+	return '''<!doctype html>
 	<!-- paulirish.com/2008/conditional-stylesheets-vs-css-hacks-answer-neither/ -->
 	<!--[if lt IE 7]> <html class="no-js ie6 oldie" lang="''' + language + '''"> <![endif]-->
 	<!--[if IE 7]>    <html class="no-js ie7 oldie" lang="''' + language + '''"> <![endif]-->
@@ -33,7 +31,7 @@ def header(node):
 
 	  	<!-- Place favicon.ico and apple-touch-icon.png in the root directory: mathiasbynens.be/notes/touch-icons -->
 
-	  	<link rel="stylesheet" href="css/style.css">
+	  	<link rel="stylesheet" href="/css/style.css">
   
 	  	<!-- More ideas for your <head> here: h5bp.com/d/head-Tips -->
 		<link rel="stylesheet" type="text/css" media="all" href="/css/custom.css" /> 
@@ -41,7 +39,7 @@ def header(node):
 	  	<!-- All JavaScript at the bottom, except this Modernizr build incl. Respond.js
 		      	Respond is a polyfill for min/max-width media queries. Modernizr enables HTML5 elements & feature detects; 
        			for optimal performance, create your own custom Modernizr build: www.modernizr.com/download/ -->
-  		<script src="js/libs/modernizr-2.0.6.min.js"></script>
+  		<script src="/js/libs/modernizr-2.0.6.min.js"></script>
 	</head>
 	<body>
 		<div id="top" class="container_12">
@@ -67,18 +65,17 @@ def footer(node):
 	"""Builds the footer and returns it to a string."""
 	return '''
 			</section>
-			<nav class="grid_4"> 
-				<a title="home" href="''' + prefix + '''"> 
-					<div id="logo" class="alpha grid_2 pull_1"> 
+			<nav class="grid_4 pull_1 clearfix"> 
+				<div id="logo">
+					<a title="home" href="''' + prefix + '''"> 
 						<h1> Draha <br/>Casa Vacanze</h1> 
 						<img src="/images/logo.png" alt="" />
 						<h1>Oasi di Pace <br/> B&amp;B</h1> 
-					</div>
-				</a> 
-				<menu class="omega grid_2 pull_1 clearfix"> 
+					</a> 
+				</div>
+				<menu> 
 					%%%MENU%%%
 				</menu>
-				<div class="clear"></div>
 			</nav>
 			<footer class="grid_8 prefix_2">
 				&copy; ''' + str(current_time.year) + ''' <a title="il blog di Luca Postregna" href="http://luca.postregna.name">Luca Postregna</a> ::
@@ -94,11 +91,11 @@ def footer(node):
 
   		<!-- Grab Google CDN's jQuery, with a protocol relative URL; fall back to local if offline -->
   		<script src="//ajax.googleapis.com/ajax/libs/jquery/1.6.3/jquery.min.js"></script>
-  		<script>window.jQuery || document.write('<script src="js/libs/jquery-1.6.3.min.js"><\/script>')</script>
+  		<script>window.jQuery || document.write('<script src="/js/libs/jquery-1.6.3.min.js"><\/script>')</script>
 
   		<!-- scripts concatenated and minified via build script -->
-  		<script defer src="js/plugins.js"></script>
-  		<script defer src="js/script.js"></script>
+  		<script defer src="/js/plugins.js"></script>
+  		<script defer src="/js/script.js"></script>
 		<!-- end scripts -->
 
 		<script type="text/javascript" src="/js/hashgrid.js" ></script> 
