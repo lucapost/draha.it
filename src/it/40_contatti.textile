@@ -11,7 +11,7 @@ Email: "teresa.postregna@gmail.com(email)":mailto:teresa.postregna@gmail.com
 
 h2. indirizzo
 
-Draha Casa Vacanze - Oasi di Pace B&copy;B
+Draha Casa Vacanze - Oasi di Pace B&amp;B
 di Teresa Postregna,
 Via Postregna, 17 
 33040 Stregna, Udine (IT)
