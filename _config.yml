@@ -1,0 +1,15 @@
+safe:           true
+auto:           true
+pygments:       true
+markdown:       rdiscount
+rdiscount
+  extensions:   [smart]
+
+source:         .
+exclude: 
+ - config.rb
+ - sass
+ - .sass-cache
+ - README.textile
+ - LICENSE.textile
+ - old

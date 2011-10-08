@@ -1,0 +1,52 @@
+---
+layout: default
+lang: it
+title: Home
+home: current
+description: dormire a Stregna nelle Valli del Natisone
+keywords: soggiornare, vacanze, cividale, udine, friuli, boschi, collina, relax
+---
+
+<div class="boximg"> !/images/benv.jpg(Casa Vacanze Draha - Oasi di pace BnB)! </div>
+
+h1. benvenuti
+
+*Draha Casa Vacanze - Oasi di Pace B&amp;B* mette a disposizione delle camere per il tuo soggiorno nelle Valli del Natisone, in "Comune di Stregna(sito internet del comune di stregna)":http://www.comune.stregna.ud.it, nelle vicinanze del paese di Postregna.
+
+Tra gli ospiti della struttura ci sono gli amanti della natura delle Valli del Natisone oltre a viaggiatori alla ricerca di tranquillità in un piccolo angolo di Friuli.
+
+Dall'accoglienza degli ospiti, la signora Teresa si prende cura di tutti gli aspetti dalle colazioni alla cura della casa e dello splendido giardino.
+
+h2. notizie
+
+notextile. <script src="http://widgets.twimg.com/j/2/widget.js"></script>
+<script>
+new TWTR.Widget({
+  version: 2,
+  type: 'profile',
+  rpp: 5,
+  interval: 6000,
+  width: 460,
+  height: 300,
+  theme: {
+    shell: {
+      background: '#402020',
+      color: '#ffffff'
+    },
+    tweets: {
+      background: '#202020',
+      color: '#a0a080',
+      links: '#fff'
+    }
+  },
+  features: {
+    scrollbar: false,
+    loop: false,
+    live: false,
+    hashtags: false,
+    timestamp: false,
+    avatars: false,
+    behavior: 'all'
+  }
+}).render().setUser('bb_draha_it').start();
+</script>
