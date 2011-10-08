@@ -59,58 +59,83 @@ input:invalid, textarea:invalid {
  * ==|== normalize ==========================================================
  */
 
+@mixin roundcorner {
+	border: 1px solid black;
+	-webkit-border-radius: 10px; 
+	-moz-border-radius: 10px; 
+	border-radius: 10px;
+}
+
+$backall: #402020; // rosso bordou
+$background: #a0a080; // seppia
+
 html,
 body {
 	font-size: 16px;
 	line-height:20px;
 	color: #400020;
-	background-color: #402020;
+	background-color: $backall;
 	font-family: 'Nobile', arial, serif;
 	padding: 0px; 
 	margin: 0px; 
 	width: 100%;
 	height: 100%;
+	min-height: 100%;
 }
 
-.containter_12 {
-
-}
-
-#top {
-	background-color: #a0a080;
+.container_12 {
+	background-color: $background;
 	border:0;
 	border-left: 1px solid #000000;
 	border-right: 1px solid #000000;
-	height: 60px;
 }
 
-#twitter,
-#googleplus,
-#flagit,
-#flagde {
-	margin-top: 20px;
+.top {
+	padding:  20px 0 20px 0;
 }
 
-#flagit a,
-#flagde a {
-	display: block;
-	height: 18px;
-	width: 58px;
-	border: 1px solid black;
-	border-radius: 10px;
+.googleplus, 
+.twitter {
+ 	height: 20px; 
 }
 
-#flagit a {
-	background:url(/images/it.png) no-repeat center;
+img {
+	display:block;
+	&.flag {
+		height:18px;
+	  	width:58px;
+		@include roundcorner;
+	}
+	&.bigger {
+		height:338px; 
+	  	width:458px;
+		@include roundcorner;
+	}
+	&.thin {
+		height: 40px; 
+	}
 }
 
-#flagde a {
-	background:url(/images/de.png) no-repeat center;
+header { 
+	padding-bottom: 20px;
 }
 
+.logo {
+	margin-top: 90px;            
+	height: 138px;  
+	text-align: center;
+	background-color: $backall; 
+	@include roundcorner;   
+}
+
+footer {
+	padding-bottom: 20px;
+	text-align: center;
+	font-size: 14px;
+}
 
 // ---------------------------------------------------------------------------
-
+/*
 h1 ,h2 {
         color: #202020;
 	text-transform: capitalize;
@@ -306,4 +331,4 @@ footer a {
 
 h2.lowercase {
 	text-transform: lowercase;
-}
+}*/
