@@ -15,7 +15,9 @@ notextile. <section>
 
 h2. contatti
 
-notextile. <div class="grid_5 alpha">
+Visualizza come raggiungerci su "google maps":http://maps.google.it/maps/place?hl=it&georestrict=input_srcid:3cd0848ddb0322a6. 
+
+notextile. </section><section class="grid_5 alpha">
 
 h3. indirizzo
 
@@ -24,7 +26,7 @@ di Teresa Postregna,
 Via Postregna, 17 
 33040 Stregna, Udine (IT)
 
-notextile. </div><div class="grid_5 alpha">
+notextile. </section><section class="grid_5 alpha">
 
 h3. telefono, email
 
@@ -32,9 +34,5 @@ Telefono:  +39 0432724192
 Cellulare: +39 3337600975
 
 Email: "teresa.postregna@gmail.com(email)":mailto:teresa.postregna@gmail.com
-
-notextile. </div>
-
-Visualizza come raggiungerci su "google maps":http://maps.google.it/maps/place?hl=it&georestrict=input_srcid:3cd0848ddb0322a6 .
 
 notextile. </section>

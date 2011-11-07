@@ -15,25 +15,25 @@ notextile. <section>
 
 h2. info
 
-*Draha Casa Vacanze - Oasi di Pace B&amp;B* consiglia ai suoi ospiti una visita delle eccellenze delle Valli del Natisone e delle zone limitrofe, in particolare:
+La struttura *Draha Casa Vacanze - Oasi di Pace B&amp;B* si trova nel cuore della Valli del Natisone. Nelle vicinanze della struttura è possibile raggiungere i seguenti luoghi/manifestazioni d'interesse:
 
 notextile. </section><section class="grid_5 alpha">
 
 h3. ristoranti
 
-* Ristorante Sale e Pepe, Stregna
-* Ristorante Alla Posta, fraz. Clodig, Grimacco
-* Agriturismo Nido delle Rondini, fraz. Dughe, Stregna
-* "Locanda al Trivio(locanda al trivio)":http://locandaaltrivio.com/, fraz. Jainich, San Leonardo 
+* Ristorante Sale e Pepe, Stregna (~1.5km)
+* Ristorante Alla Posta, fraz. Clodig, Grimacco (~12km)
+* Agriturismo Nido delle Rondini, fraz. Dughe, Stregna (~8km)
+* "Locanda al Trivio(locanda al trivio)":http://locandaaltrivio.com/, fraz. Jainich, San Leonardo (~8km)
 
 h3. luoghi da visitare
 
 * "Cividale del Friuli(cividale del friuli)":http://www.comune.cividale-del-friuli.ud.it, "cividale.com":http://cividale.com/ (~15km)
 * "Gemona del Friuli(gemona del friuli)":http://www.gemonaweb.it/ (~40km)
-* "Santuario della Beata Vergine di Castelmonte(santuario di castelmonte)":http://www.santuariocastelmonte.it/
-* "Catena montuosa del Kolovrat(catena del colovrat)":http://it.wikipedia.org/wiki/Monte_Colovrat
-* "Monte Matajur(monte matajur)":http://it.wikipedia.org/wiki/Matajur
-* "Regione del Collio(collio)":http://it.wikipedia.org/wiki/Collio_(regione_fisica)
+* "Santuario della Beata Vergine di Castelmonte(santuario di castelmonte)":http://www.santuariocastelmonte.it/ (~12km)
+* "Catena montuosa del Kolovrat(catena del colovrat)":http://it.wikipedia.org/wiki/Monte_Colovrat (~16km)
+* "Monte Matajur(monte matajur)":http://it.wikipedia.org/wiki/Matajur (~25km)
+* "Regione del Collio(collio)":http://it.wikipedia.org/wiki/Collio_(regione_fisica) (~20km)
 
 notextile. </section><section class="grid_5 omega">
 
