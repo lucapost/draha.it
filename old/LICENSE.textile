@@ -1,3 +1,0 @@
-h1. license
-
-"creative commons by-nc":http://creativecommons.org/licenses/by-nc/3.0/
