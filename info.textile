@@ -26,11 +26,15 @@ h3. ristoranti
 * Agriturismo Nido delle Rondini, fraz. Dughe, Stregna (~8km)
 * "Locanda al Trivio(locanda al trivio)":http://locandaaltrivio.com/, fraz. Jainich, San Leonardo (~8km)
 
-h3. luoghi da visitare
+h3. luoghi
 
 * "Cividale del Friuli(cividale del friuli)":http://www.comune.cividale-del-friuli.ud.it, "cividale.com":http://cividale.com/ (~15km)
 * "Gemona del Friuli(gemona del friuli)":http://www.gemonaweb.it/ (~40km)
 * "Santuario della Beata Vergine di Castelmonte(santuario di castelmonte)":http://www.santuariocastelmonte.it/ (~12km)
+
+h3. natura
+
+* "Natisone in Bici(itinerari in bicicletta per le Valli del Natisone)":http://www.natisoneinbici.it
 * "Catena montuosa del Kolovrat(catena del colovrat)":http://it.wikipedia.org/wiki/Monte_Colovrat (~16km)
 * "Monte Matajur(monte matajur)":http://it.wikipedia.org/wiki/Matajur (~25km)
 * "Regione del Collio(collio)":http://it.wikipedia.org/wiki/Collio_(regione_fisica) (~20km)
