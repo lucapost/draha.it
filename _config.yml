@@ -1,6 +1,6 @@
 safe:           true
 auto:           true
-server:         true
+server:         false
 pygments:       true
 markdown:       rdiscount
 rdiscount
