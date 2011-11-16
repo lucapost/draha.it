@@ -7,15 +7,15 @@
 	border-radius: 10px;
 }
 
-$backall: #402020; // rosso bordou
-$background: #a0a080; // seppia
-$logotext: #202020; // white
+$backall: #000; // nero
+$background: #fff; // bianco
+$orange: #FF5C00;
 
 html,
 body {
 	font-size: 16px;
 	line-height:20px;
-	color: #400020;
+	color: #000;
 	background-color: $backall;
 	font-family: 'Nobile', arial, serif;
 	padding: 0px; 
@@ -40,68 +40,56 @@ body {
 	margin-bottom: 10px;
 }
 
-#slider .caption {
-	color:red;
-}
-
 header {
 	background: rgba(0,0,0,0.7) ;
-/*	background:url('/images/transp.png') repeat scroll 0 0 transparent;*/
 	z-index:111;
 	position:absolute;
-	top: 340px;
-	padding: 40px 0 0 0;
+	top: 300px;
+	padding: 20px 0 0 0;
 	.logo {
 		h2,p {
-			font-family: 'Josefin Sans', arial, serif;
-			color: white;
+			font-family: 'Josefin Sans';
 		}
 		h2 {
-			color:#FF5C00;
+			color: $orange;
 			margin-bottom:0px;
 			padding-top: 0px;
 			padding-bottom:0px;
-			font-size:32px;
+			font-size:36px;
 			font-style:normal;
 			font-weight:700;
 			text-shadow:2px 2px 2px #000;
 			line-height:40px;
-			span {
-			        color:#FFF;
-				font-size:32px;
-				font-weight:bolder;
-			/*text-shadow: 0 1px 0 #ccc, 
-			        0 2px 0 #c9c9c9,
-		               	0 3px 0 #bbb,
-		               	0 4px 0 #b9b9b9,
-		               	0 5px 0 #aaa,
-		               	0 6px 1px rgba(0,0,0,.1),
-		               	0 0 5px rgba(0,0,0,.1),
-			 	0 1px 3px rgba(0,0,0,.3),
-		               	0 3px 5px rgba(0,0,0,.2),
-		               	0 5px 10px rgba(0,0,0,.25),
-		               	0 10px 10px rgba(0,0,0,.2),
-		               	0 20px 20px rgba(0,0,0,.15);*/
-			}
 		}
 		p {
 			text-transform:uppercase;
 			font-weight:700;
+			color: white;
 		}
 
 	}
+	.lang {
+		line-height: 25px;
+	}
 	ul {
-		color: white;
 		list-style: none;
-		li a.current {
-			text-decoration: underline;
+		padding:0;
+		margin:0;
+		li {
+			line-height: 25px;
+			padding:0;
+			margin:0;
 		}
 	}
 	a {
 		color:white;
 		text-decoration: none;
+		text-transform: uppercase;
 		&.visited {
 			color: white;
+		}
+		&.current {
+			text-decoration: underline;
 		}
 	}
 }
@@ -111,22 +99,23 @@ article {
 		margin-top: 20px;
 		font-size: 36px;
 		line-height: 40px;
-		text-transform: uppercase;
-	        color: #202020;
+	        color: $orange;
+		font-family: 'Josefin Sans';
+		text-shadow:1px 1px 1px #000;
 	}
 	
 	h3 {	
 		margin-top: 20px;
 		font-size: 24px;
 		line-height: 40px;
-		text-transform: uppercase;
-	        color: #202020;
+	        color: $orange;
+		font-family: 'Josefin Sans';
+		text-shadow:1px 1px 1px #000;
 	}
 	
 	a {
-		text-decoration: none;
-		color: #202020;
-		transition: #400020;
+		color: #000;
+		transition: $orange;
 		transition-duration: 4000ms;
 		-webkit-transition: color; 
 		-webkit-transition-duration: 4000ms;
@@ -135,7 +124,7 @@ article {
 		-o-transition: color; 
 		-o-transition-duration: 4000ms;
 		&:hover {
-			color: #400020;
+			color: $orange;
 			text-decoration: underline;
 			transition: color;
 			transition-duration: 400ms;
@@ -147,19 +136,18 @@ article {
 			-o-transition-duration: 400ms;
 		}
 		&:visited {
-			color: #400020;
+			color: #000;
 		}
 	}
 	ul {
 		margin-top: 20px;
-		list-style: none;
-		padding: 0;
-		margin:0;
+		list-style-type:square;
 		li {
-			display: inline;
-			padding: 0;
-			margin:0;
 			margin-right: 16px;	
+			ul {
+				margin-top: 0;
+				list-style-type:square;
+			}
 		}
 	}
 	p {
@@ -179,12 +167,12 @@ footer {
 	font-size: 12px;
 	a {
 		text-decoration: none;
-		color: #400020;
+		color: #000;
 		&:hover {
-			color: #400020;
+			color: $orange;
 		}
 		&:visited {
-			color: #400020;
+			color: #000;
 		}
 	}
 }

@@ -3,40 +3,64 @@ layout: default
 lang: it
 title: Info
 info: current
-image:
- path: /images/info.jpg
- title: luoghi d'interesse
- desc: muoversi nelle valli del natisone
 description: avvenimenti e luoghi d'interesse delle valli del natisone
 keywords: mangiare, ristoranti, trattorie, agriturismi, feste, sagre, appuntamenti
+path: '/images/info'
+slider:
+   - name: '01.jpg'
+     title: 
+       it: 'vista da casa vacanze a San Miniato'
+       en: 'panoramic view from a villa in San Miniato'
+     alt:
+       it: 'panorama San Miniato'
+       en: 'landscape of san miniato'
+   - name: '02.jpg'
+     title: 
+       it: 'vista da casa vacanze a San Miniato'
+       en: 'panoramic view from a villa in San Miniato'
+     alt:
+       it: 'panorama San Miniato'
+       en: 'landscape of san miniato'
+   - name: '03.jpg'
+     title: 
+       it: 'piscina in giardino agriturismo in Toscana'
+       en: 'garden with a swimming pool in a farmhouse in Tuscany'
+     alt:
+       it: 'piscina'
+       en: 'swimming pool'
 ---
 
+<article class="grid_12">
 
-h2. info
+h2. Informazioni
 
-notextile. <section>
+<section>
 
-h3. ristoranti
+h3. Ristoranti
 
 * Ristorante Sale e Pepe, Stregna (~1.5km)
 * Ristorante Alla Posta, fraz. Clodig, Grimacco (~12km)
 * Agriturismo Nido delle Rondini, fraz. Dughe, Stregna (~8km)
 * "Locanda al Trivio(locanda al trivio)":http://locandaaltrivio.com/, fraz. Jainich, San Leonardo (~8km)
 
-h3. luoghi
-
-* "Cividale del Friuli(cividale del friuli)":http://www.comune.cividale-del-friuli.ud.it, "cividale.com":http://cividale.com/ (~15km)
-* "Gemona del Friuli(gemona del friuli)":http://www.gemonaweb.it/ (~40km)
-* "Santuario della Beata Vergine di Castelmonte(santuario di castelmonte)":http://www.santuariocastelmonte.it/ (~12km)
-
-h3. natura
+h3. Natura
 
 * "Natisone in Bici(itinerari in bicicletta per le Valli del Natisone)":http://www.natisoneinbici.it
 * "Catena montuosa del Kolovrat(catena del colovrat)":http://it.wikipedia.org/wiki/Monte_Colovrat (~16km)
 * "Monte Matajur(monte matajur)":http://it.wikipedia.org/wiki/Matajur (~25km)
 * "Regione del Collio(collio)":http://it.wikipedia.org/wiki/Collio_(regione_fisica) (~20km)
 
-h3. manifestazioni
+h3. Luoghi
+
+* "Cividale del Friuli(cividale del friuli)":http://www.comune.cividale-del-friuli.ud.it, "cividale.com":http://cividale.com/ (~15km)
+* "Gemona del Friuli(gemona del friuli)":http://www.gemonaweb.it/ (~40km)
+* "Udine(Udine)":http://www.udine.com/ (~30km)
+* "Aquileia(Aquileia)":http://www.aquileia.net/ (~45km)
+* "Caporetto(Caporetto)":http://it.wikipedia.org/wiki/Caporetto (~30km)
+* "Tolmino(Tolmino)":http://it.wikipedia.org/wiki/Tolmino (~40km)
+* "Santuario della Beata Vergine di Castelmonte(santuario di castelmonte)":http://www.santuariocastelmonte.it/ (~12km)
+
+h3. Manifestazioni
 
 * giugno 2011
 ** 23/06 fuochi (kries) di San Giovanni, in numerose frazioni delle Valli del Natisone
@@ -51,4 +75,4 @@ h3. manifestazioni
 * ottobre 2011
 ** festa delle castagne (burnjak), a Tribil Superiore di Stregna
 
-notextile. </section>
+</section></article>
