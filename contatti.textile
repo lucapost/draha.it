@@ -11,28 +11,25 @@ description: come contattare la struttura
 keywords: telefono, cellulare, email, infiizzo
 ---
 
-notextile. <section>
-
 h2. contatti
 
-Visualizza come raggiungerci su "google maps":http://maps.google.it/maps/place?hl=it&georestrict=input_srcid:3cd0848ddb0322a6. 
+notextile. <section>
 
-notextile. </section><section class="grid_5 alpha">
+h3. telefono
+
+Telefono:  +39 0432724192 
+Cellulare: +39 3337600975
+
+h3. email 
+
+Email: "teresa.postregna@gmail.com(email)":mailto:teresa.postregna@gmail.com
 
 h3. indirizzo
 
 Draha Casa Vacanze - Oasi di Pace B&amp;B
 di Teresa Postregna,
 Via Postregna, 17 
-33040 Stregna, Udine (IT)
-
-notextile. </section><section class="grid_5 alpha">
-
-h3. telefono, email
-
-Telefono:  +39 0432724192 
-Cellulare: +39 3337600975
-
-Email: "teresa.postregna@gmail.com(email)":mailto:teresa.postregna@gmail.com
+33040 Stregna, Udine (IT) 
+"map":http://maps.google.it/maps/place?hl=it&georestrict=input_srcid:3cd0848ddb0322a6
 
 notextile. </section>

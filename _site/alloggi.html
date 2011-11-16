@@ -14,71 +14,42 @@
 	<meta name="keywords" content="camere, cucina, bagni, alloggi" /> 
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Nobile">
+	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Josefin+Sans">
 	<link rel="stylesheet" href="/css/style.css">
-	<link rel="stylesheet" href="/css/page.css">
+	<link rel="stylesheet" href="/css/screen.css">
   	<script defer src="/js/modernizr-2.0.6.min.js"></script>
 </head>
 <body>
-	<div class="container_12 clearfix">
-		<div class="grid_10 push_1 top">
-			<div class="grid_1 googleplus alpha">
-				<g:plusone size="medium"></g:plusone> 
-			</div>
-			<div class="grid_2 twitter">
-				<a title="share on twitter" href="http://twitter.com/share" data-url="http://bb.draha.it" data-text="#vallidelnatisone #stregna #bb" class="twitter-share-button">Tweet</a>
-			</div>
-			<figure class="grid_1 push_5"> 
-				<a href="/de" title="deutsch"> 
-					<img src="/images/de.png" title="deutsch" alt="deutsch flagge"/>
-				</a> 
-			</figure> 
-			<figure class="grid_1 push_5 omega"> 
-				<a href="/" title="italiano"> 
-					<img src="/images/it.png" title="italiano" alt="bandiera italiana"/>
-				</a>
-			</figure> 
+	<div class="container_12 clearfix top">
+		<div class="grid_12" id="slider">
+			<img src="/images/benv.jpg" title="la casa vista dal giardino" />
+			<img src="/images/allo.jpg" title="alloggi" />
 		</div>
 		<div class="clear"></div>
 	</div>
 	<div class="container_12 clearfix">
-		<header class="grid_10 push_1">
-			<div class="grid_2 alpha"> 
-				<div class="logo">
-					<a title="home" href="/"> 
-						<p class="up">Draha <br/>Casa Vacanze</p>
-						<p class="down">Oasi di Pace<br/>B&amp;B</p>
-					</a>
-				</div>
-			</div> 
-			<figure class="grid_6"> 
-				<img src="/images/allo.jpg" title="le stanze" alt="gli alloggi" class="bigger" /> 
-<!--				<img src="/images/test.jpg" title="le stanze" alt="gli alloggi" class="bigger" /> -->
-				<figcaption class="visuallyhidden"></figcaption>
-			</figure> 
-
-			<div class="grid_2 omega"> 
-				<nav> 
-					<ul> 
-						<li><a href="/" title="home" class="">benvenuti</a></li> 
-						<li><a href="alloggi.html" title="alloggi" class="current">alloggi</a></li> 
-						<li><a href="#" title="galleria">galleria</a></li> 
-						<li><a href="info.html" title="info" class="">info</a></li> 
-						<li><a href="contatti.html" title="contatti" class="">contatti</a></li> 
-					</ul> 
-				</nav> 
-			</div> 
+		<header class="grid_12">
+			<div class="prefix_6 grid_4 alpha logo">
+				<h2>Dra<span>h</span>a</h2>
+				<p>Casa Vacanze - B&amp;B</p>
+				<h2>Oasi di Pace</h2>
+			</div>
+			<ul class="grid_2 omega">
+				<li><a href="/" title="home" class="">la casa</a></li> 
+				<li><a href="/alloggi.html" title="alloggi" class="current">alloggi</a></li> 
+				<li><a href="/info.html" title="info" class="">info</a></li> 
+				<li><a href="/contatti.html" title="contatti" class="">contatti</a></li> 
+			</ul>
 		</header>
 		<div class="clear"></div>
 	</div>
 	<div class="container_12 clearfix">
-		<article class="grid_10 push_1">
-				<section>
-
-<h2>alloggi</h2>
+		<article class="grid_12">
+				<h2>alloggi</h2>
 <p><strong>Draha Casa Vacanze &#8211; Oasi di Pace B&amp;B</strong> viene incontro alle esigenze del cliente mettendo a disposizione posti letto a partire da 20-27€ al giorno.</p>
 <p>Tutte le stanze sono dotate di televisione a colori. Gli ospiti hanno a disposizione un ampio giardino all&#8217;aperto con giochi per bambini, dondolo, amaca e biciclette.</p>
-<p>E&#8217; inoltre possibile contare su un ampio parcheggio.</p>
-</section><section class="grid_5 alpha">
+<p>E&#8217; possibile contare su un ampio parcheggio.</p>
+<section>
 
 <h3>casa vacanze</h3>
 <p><strong>Draha Casa Vacanze</strong> mette a disposizione degli ospiti una cucina abitabile, ed un bagno con idromassaggio. Dispone fino a 4 posti letto:</p>
@@ -86,8 +57,6 @@
 	<li>una camera doppia (più un letto);</li>
 	<li>un posto in divano letto.</li>
 </ul>
-</section><section class="grid_5 omega">
-
 <h3>bed and breakfast</h3>
 <p><strong>Oasi di Pace B&amp;B</strong> mette a disposizione dei clienti un ampio soggiorno, bagno condiviso, fino a 4 posti letto:</p>
 <ul>
@@ -96,9 +65,10 @@
 </ul>
 </section>
 		</article>
+		<div class="clear"></div>
 	</div>
-	<div class="container_12 clearfix">
-		<footer class="grid_10 push_1">
+	<div class="container_12 clearfix bottom">
+		<footer class="grid_12">
 			<p>&copy; 2011 <a title="Luca Postregna" href="http://luca.postregna.name">Luca Postregna</a> - 
 			<a title="Creative Commons Licenses" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">license</a> -
 			<a title="Privacy" href="/privacy.html">privacy</a> 
@@ -112,6 +82,8 @@
 	<script src="https://apis.google.com/js/plusone.js"></script>
 	<script src="http://platform.twitter.com/widgets.js"></script>
 	<script defer src="/js/hashgrid.js"></script>
+	<script defer src="/js/flux.min.js"></script>  
+	<script defer src="/js/slider.js"></script>
 	<script>
 		var _gaq=[['_setAccount','UA-6164762-7'],['_trackPageview'],['_trackPageLoadTime']];
    			(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];

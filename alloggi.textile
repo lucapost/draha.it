@@ -11,7 +11,6 @@ description: dormire a stregna
 keywords: camere, cucina, bagni, alloggi
 ---
 
-notextile. <section>
 
 h2. alloggi
 
@@ -19,9 +18,9 @@ h2. alloggi
 
 Tutte le stanze sono dotate di televisione a colori. Gli ospiti hanno a disposizione un ampio giardino all'aperto con giochi per bambini, dondolo, amaca e biciclette.
 
-E' inoltre possibile contare su un ampio parcheggio.
+E' possibile contare su un ampio parcheggio.
 
-notextile. </section><section class="grid_5 alpha">
+notextile. <section>
 
 h3. casa vacanze
 
@@ -29,9 +28,6 @@ h3. casa vacanze
 
 * una camera doppia (più un letto);
 * un posto in divano letto.
-
-
-notextile. </section><section class="grid_5 omega">
 
 h3. bed and breakfast
 

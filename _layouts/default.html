@@ -14,69 +14,43 @@
 	<meta name="keywords" content="{{ page.keywords }}" /> 
 	<meta name="viewport" content="width=device-width,initial-scale=1">
 	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Nobile">
+	<link rel="stylesheet" href="http://fonts.googleapis.com/css?family=Josefin+Sans">
 	<link rel="stylesheet" href="/css/style.css">
-	<link rel="stylesheet" href="/css/page.css">
+	<link rel="stylesheet" href="/css/screen.css">
   	<script defer src="/js/modernizr-2.0.6.min.js"></script>
 </head>
 <body>
-	<div class="container_12 clearfix">
-		<div class="grid_10 push_1 top">
-			<div class="grid_1 googleplus alpha">
-				<g:plusone size="medium"></g:plusone> 
-			</div>
-			<div class="grid_2 twitter">
-				<a title="share on twitter" href="http://twitter.com/share" data-url="http://bb.draha.it" data-text="#vallidelnatisone #stregna #bb" class="twitter-share-button">Tweet</a>
-			</div>
-			<figure class="grid_1 push_5"> 
-				<a href="/de" title="deutsch"> 
-					<img src="/images/de.png" title="deutsch" alt="deutsch flagge"/>
-				</a> 
-			</figure> 
-			<figure class="grid_1 push_5 omega"> 
-				<a href="/" title="italiano"> 
-					<img src="/images/it.png" title="italiano" alt="bandiera italiana"/>
-				</a>
-			</figure> 
+	<div class="container_12 clearfix top">
+		<div class="grid_12" id="slider">
+			<img src="/images/benv.jpg" title="la casa vista dal giardino" />
+			<img src="/images/allo.jpg" title="alloggi" />
 		</div>
 		<div class="clear"></div>
 	</div>
 	<div class="container_12 clearfix">
-		<header class="grid_10 push_1">
-			<div class="grid_2 alpha"> 
-				<div class="logo">
-					<a title="home" href="/"> 
-						<p class="up">Draha <br/>Casa Vacanze</p>
-						<p class="down">Oasi di Pace<br/>B&amp;B</p>
-					</a>
-				</div>
-			</div> 
-			<figure class="grid_6"> 
-				<img src="{{ page.image.path }}" title="{{ page.image.title }}" alt="{{ page.image.desc }}" class="bigger" /> 
-<!--				<img src="/images/test.jpg" title="{{ page.image.title }}" alt="{{ page.image.desc }}" class="bigger" /> -->
-				<figcaption class="visuallyhidden">{{ page.imagetitle }}</figcaption>
-			</figure> 
-
-			<div class="grid_2 omega"> 
-				<nav> 
-					<ul> 
-						<li><a href="/" title="home" class="{{ page.index }}">benvenuti</a></li> 
-						<li><a href="alloggi.html" title="alloggi" class="{{ page.alloggi }}">alloggi</a></li> 
-						<li><a href="#" title="galleria">galleria</a></li> 
-						<li><a href="info.html" title="info" class="{{ page.info }}">info</a></li> 
-						<li><a href="contatti.html" title="contatti" class="{{ page.contatti }}">contatti</a></li> 
-					</ul> 
-				</nav> 
-			</div> 
+		<header class="grid_12">
+			<div class="prefix_6 grid_4 alpha logo">
+				<h2>Dra<span>h</span>a</h2>
+				<p>Casa Vacanze - B&amp;B</p>
+				<h2>Oasi di Pace</h2>
+			</div>
+			<ul class="grid_2 omega">
+				<li><a href="/" title="home" class="{{ page.index }}">la casa</a></li> 
+				<li><a href="/alloggi.html" title="alloggi" class="{{ page.alloggi }}">alloggi</a></li> 
+				<li><a href="/info.html" title="info" class="{{ page.info }}">info</a></li> 
+				<li><a href="/contatti.html" title="contatti" class="{{ page.contatti }}">contatti</a></li> 
+			</ul>
 		</header>
 		<div class="clear"></div>
 	</div>
 	<div class="container_12 clearfix">
-		<article class="grid_10 push_1">
+		<article class="grid_12">
 				{{ content }}
 		</article>
+		<div class="clear"></div>
 	</div>
-	<div class="container_12 clearfix">
-		<footer class="grid_10 push_1">
+	<div class="container_12 clearfix bottom">
+		<footer class="grid_12">
 			<p>&copy; 2011 <a title="Luca Postregna" href="http://luca.postregna.name">Luca Postregna</a> - 
 			<a title="Creative Commons Licenses" href="http://creativecommons.org/licenses/by-nc-sa/3.0/">license</a> -
 			<a title="Privacy" href="/privacy.html">privacy</a> 
@@ -89,9 +63,9 @@
 	<script src="/js/script.js"></script>
 	<script src="https://apis.google.com/js/plusone.js"></script>
 	<script src="http://platform.twitter.com/widgets.js"></script>
-	<script defer src="/js/hashgrid.js"></script>{% if page.gallerie == 'current' %}
+	<script defer src="/js/hashgrid.js"></script>
 	<script defer src="/js/flux.min.js"></script>  
-	<script defer src="/js/slider.js"></script>{% endif %}
+	<script defer src="/js/slider.js"></script>
 	<script>
 		var _gaq=[['_setAccount','UA-6164762-7'],['_trackPageview'],['_trackPageLoadTime']];
    			(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];

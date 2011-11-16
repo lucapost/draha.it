@@ -11,13 +11,10 @@ description: avvenimenti e luoghi d'interesse delle valli del natisone
 keywords: mangiare, ristoranti, trattorie, agriturismi, feste, sagre, appuntamenti
 ---
 
-notextile. <section>
 
 h2. info
 
-La struttura *Draha Casa Vacanze - Oasi di Pace B&amp;B* si trova nel cuore della Valli del Natisone. Nelle vicinanze della struttura è possibile raggiungere i seguenti luoghi/manifestazioni d'interesse:
-
-notextile. </section><section class="grid_5 alpha">
+notextile. <section>
 
 h3. ristoranti
 
@@ -38,8 +35,6 @@ h3. natura
 * "Catena montuosa del Kolovrat(catena del colovrat)":http://it.wikipedia.org/wiki/Monte_Colovrat (~16km)
 * "Monte Matajur(monte matajur)":http://it.wikipedia.org/wiki/Matajur (~25km)
 * "Regione del Collio(collio)":http://it.wikipedia.org/wiki/Collio_(regione_fisica) (~20km)
-
-notextile. </section><section class="grid_5 omega">
 
 h3. manifestazioni
 
