@@ -1,26 +1,10 @@
 ---
-layout: default
+layout: contatti
 lang: it
 title: Contatti
 contatti: current
 description: come contattare la struttura
 keywords: telefono, cellulare, email, infiizzo
-path: '/images/contatti'
-slider:
-   - name: '00.jpg'
-     title: 
-       it: 'vista da casa vacanze a San Miniato'
-       en: 'panoramic view from a villa in San Miniato'
-     alt:
-       it: 'panorama San Miniato'
-       en: 'landscape of san miniato'
-   - name: '01.jpg'
-     title: 
-       it: 'vista da casa vacanze a San Miniato'
-       en: 'panoramic view from a villa in San Miniato'
-     alt:
-       it: 'panorama San Miniato'
-       en: 'landscape of san miniato'
 ---
 
 <article class="grid_12">

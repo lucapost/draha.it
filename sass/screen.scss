@@ -40,6 +40,16 @@ body {
 	margin-bottom: 10px;
 }
 
+#slider {
+	min-height: 420px;
+}
+
+.error {
+	color: $orange;
+	padding-top: 60px;
+	font-size: 300px;
+}
+
 header {
 	background: rgba(0,0,0,0.7) ;
 	z-index:111;

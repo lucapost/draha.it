@@ -28,7 +28,7 @@
 				<p>Casa Vacanze - B&amp;B</p>
 			</div>
 			<ul class="grid_2">
-				<li><a href="/" title="home" class="{{ page.index }}">la casa</a></li> 
+				<li><a href="/" title="home" class="{{ page.index }}">casa</a></li> 
 				<li><a href="/alloggi.html" title="alloggi" class="{{ page.alloggi }}">alloggi</a></li> 
 				<li><a href="/info.html" title="info" class="{{ page.info }}">info</a></li> 
 				<li><a href="/contatti.html" title="contatti" class="{{ page.contatti }}">contatti</a></li> 
@@ -43,6 +43,7 @@
 	<div class="container_12 clearfix top">
 		<div class="grid_12" id="slider">{% for target in page.slider %}{% capture fullpath %}{{ page.path }}/{{ target.name }}{% endcapture %}
 			<img src="{{ fullpath }}" {% if page.lang == 'en' %} alt="{{ target.alt.en }}" title="{{ target.title.en }}" {% else %} alt="{{ target.alt.it }}" title="{{ target.title.it }}" {% endif %} />{% endfor %}
+			{% if page.error == 'current' %}<p class="error">404</p>{% endif %}
 		</div>
 		{{ content }}
 		<div class="clear"></div>
@@ -59,8 +60,6 @@
   	<script>window.jQuery || document.write('<script src="/js/jquery.min.js"><\/script>')</script>
   	<script src="/js/plugins.js"></script>
 	<script src="/js/script.js"></script>
-	<script src="https://apis.google.com/js/plusone.js"></script>
-	<script src="http://platform.twitter.com/widgets.js"></script>
 	<script defer src="/js/hashgrid.js"></script>
 	<script defer src="/js/flux.min.js"></script>  
 	<script defer src="/js/slider.js"></script>
@@ -69,7 +68,7 @@
    			(function(d,t){var g=d.createElement(t),s=d.getElementsByTagName(t)[0];
    			g.src=('https:'==location.protocol?'//ssl':'//www')+'.google-analytics.com/ga.js';
    			s.parentNode.insertBefore(g,s)}(document,'script'));
-		</script> 
+	</script> 
   	<!--[if lt IE 7 ]>
     		<script defer src="//ajax.googleapis.com/ajax/libs/chrome-frame/1.0.3/CFInstall.min.js"></script>
     		<script defer>window.attachEvent('onload',function(){CFInstall.check({mode:'overlay'})})</script>
