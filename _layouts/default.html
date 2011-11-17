@@ -25,24 +25,28 @@
 			<div class="prefix_6 grid_3 alpha logo">
 				<h2>Draha</h2>
 				<h2>Oasi di Pace</h2>
-				<p>Casa Vacanze - B&amp;B</p>
+				<p>{%if page.lang == 'de'%}Ferienhaus{%else%}Casa Vacanze{%endif%} - B&amp;B</p>
 			</div>
 			<ul class="grid_2">
-				<li><a href="/" title="home" class="{{ page.index }}">casa</a></li> 
+				{%if page.lang == 'de'%}<li><a href="/de" title="hause" class="{{ page.index }}">hause</a></li> 
+				<li><a href="/de/unterkuenfte.html" title="alloggi" class="{{ page.alloggi }}">unterkuenfte</a></li> 
+				<li><a href="/de/info.html" title="info" class="{{ page.info }}">info</a></li> 
+				<li><a href="/de/kontacte.html" title="kontacte" class="{{ page.contatti }}">kontacte</a></li>
+				{%else%}<li><a href="/" title="home" class="{{ page.index }}">casa</a></li> 
 				<li><a href="/alloggi.html" title="alloggi" class="{{ page.alloggi }}">alloggi</a></li> 
 				<li><a href="/info.html" title="info" class="{{ page.info }}">info</a></li> 
-				<li><a href="/contatti.html" title="contatti" class="{{ page.contatti }}">contatti</a></li> 
+				<li><a href="/contatti.html" title="contatti" class="{{ page.contatti }}">contatti</a></li>{%endif%}
 			</ul>
 			<div class="grid_1 lang omega">
-				<p><a href="/" title="lingua italiana">it</a></p>
-				<p><a href="/de/" title="lingua tedesca">de</a></p>
+				<p><a href="/" title="italiano"{%if page.lang == 'it'%} class="current"{%endif%}>it</a></p>
+				<p><a href="/de" title="deutsch"{%if page.lang == 'de'%} class="current"{%endif%}>de</a></p>
 			</div>
 		</header>
 		<div class="clear"></div>
 	</div>
 	<div class="container_12 clearfix top">
 		<div class="grid_12" id="slider">{% for target in page.slider %}{% capture fullpath %}{{ page.path }}/{{ target.name }}{% endcapture %}
-			<img src="{{ fullpath }}" {% if page.lang == 'en' %} alt="{{ target.alt.en }}" title="{{ target.title.en }}" {% else %} alt="{{ target.alt.it }}" title="{{ target.title.it }}" {% endif %} />{% endfor %}
+			<img src="{{ fullpath }}" {% if page.lang == 'de' %} alt="{{ target.alt.de }}" title="{{ target.title.de }}" {% else %} alt="{{ target.alt.it }}" title="{{ target.title.it }}" {% endif %} />{% endfor %}
 			{% if page.error == 'current' %}<p class="error">404</p>{% endif %}
 		</div>
 		{{ content }}
