@@ -36,6 +36,14 @@ body {
 	min-height: 420px;
 }
 
+.caption {
+	padding: 120px 0 0 5px !important;
+	font-family: 'Josefin Sans' !important;
+	text-transform: uppercase !important;
+	font-size: 16px !important;
+	background: rgba(0,0,0,0.7) !important;
+}
+
 .error {
 	color: $selected;
 	padding-top: 60px;
@@ -47,6 +55,10 @@ header {
 	position:absolute;
 	top: 300px;
 	padding: 20px 0 0 0;
+	&.opacity {
+		background: rgba(0,0,0,0.7);
+		padding-bottom: 20px;
+	}
 	.logo {
 		h2,p {
 			font-family: 'Josefin Sans';
