@@ -1,15 +1,11 @@
 ---
 layout: index
 lang: it
-title: Home
+title: Benvenuti
 index: current
 description: dormire a Stregna nelle Valli del Natisone
 keywords: soggiornare, vacanze, cividale, udine, friuli, boschi, collina, relax
 ---
-
-<article class="grid_12">
-
-h2. Benvenuti
 
 <section>
 
@@ -23,4 +19,4 @@ Gli ospiti hanno a disposizione un ampio giardino all'aperto con giochi per bamb
 
 Ad accogliervi la signora Teresa, che si prende cura di tutti gli aspetti: le colazioni, la cura della casa e dello splendido giardino.
 
-</section></article>
+</section>

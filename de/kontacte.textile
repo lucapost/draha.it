@@ -7,10 +7,6 @@ description: FIX
 keywords: FIX
 ---
 
-<article class="grid_12">
-
-h2. Kontakte
-
 <section>
 
 h3. Telefon
@@ -30,4 +26,4 @@ Via Postregna, 17
 33040 Stregna, Udine (IT) 
 "map":http://maps.google.it/maps/place?hl=it&georestrict=input_srcid:3cd0848ddb0322a6
 
-</section></article>
+</section>

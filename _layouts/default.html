@@ -21,8 +21,8 @@
 </head>
 <body>
 	<div class="container_12 clearfix">
-		<header class="grid_12">
-			<div class="prefix_6 grid_3 alpha logo">
+		<header class="grid_12{% if page.error == 'current' %} opacity{% endif %}">
+			<div class="grid_3 prefix_6 alpha logo">
 				<h2>Draha</h2>
 				<h2>Oasi di Pace</h2>
 				<p>{%if page.lang == 'de'%}Ferienhaus{%else%}Casa Vacanze{%endif%} - B&amp;B</p>
@@ -39,9 +39,16 @@
 			</ul>
 			<div class="grid_1 lang omega">
 				<p><a href="/" title="italiano"{%if page.lang == 'it'%} class="current"{%endif%}>it</a></p>
-				<p><a href="/de" title="deutsch"{%if page.lang == 'de'%} class="current"{%endif%}>de</a></p>
+				<p><a href="/de/" title="deutsch"{%if page.lang == 'de'%} class="current"{%endif%}>de</a></p>
 			</div>
 		</header>
+		<div class="grid_12" id="controls">
+			{% if page.error != 'current' %}
+			<a href="#" title="prev" class="grid_3 alpha" onclick="window.slider.prev();return false;" >Prev</a>
+			<a href="#" title="play" class="grid_3" onclick="window.slider.start();return false;" >Play</a>
+	                <a href="#" title="stop" class="grid_3" onclick="window.slider.stop();return false;" >Stop</a> 
+			<a href="#" title="next" class="grid_3 omega" onclick="window.slider.next();return false;" >Next</a>{%endif%}
+		</div>
 		<div class="clear"></div>
 	</div>
 	<div class="container_12 clearfix top">
@@ -49,7 +56,10 @@
 			<img src="{{ fullpath }}" {% if page.lang == 'de' %} alt="{{ target.alt.de }}" title="{{ target.title.de }}" {% else %} alt="{{ target.alt.it }}" title="{{ target.title.it }}" {% endif %} />{% endfor %}
 			{% if page.error == 'current' %}<p class="error">404</p>{% endif %}
 		</div>
-		{{ content }}
+		<article class="grid_12">
+			<h2>{{page.title}}</h2>	
+			{{content}}
+		</article>
 		<div class="clear"></div>
 	</div>
 	<div class="container_12 clearfix bottom">

@@ -7,10 +7,6 @@ description: dormire a stregna
 keywords: camere, cucina, bagni, alloggi
 ---
 
-<article class="grid_12">
-
-h2. Alloggi
-
 *Draha Casa Vacanze - Oasi di Pace B&amp;B* viene incontro alle esigenze del cliente mettendo a disposizione posti letto a partire da 20-27€ al giorno. 
 
 Tutte le stanze sono dotate di televisione a colori. 
@@ -31,4 +27,4 @@ h3. Bed and breakfast
 * una camera doppia (più un letto);
 * una camera singola. 
 
-</section></article>
+</section>

@@ -5,7 +5,12 @@ $(function(){
 		transitions: [ 'blocks2' ],
         	pagination: false,
 		captions: true,
-		delay: 5000,
+		delay: 6000,
                 autoplay: true
+	});
+	$('#controls').bind('click', function(event) {
+	        event.preventDefault();
+	        var command = 'window.mf.'+event.target.id+'();';
+        	eval(command);
 	});
 });

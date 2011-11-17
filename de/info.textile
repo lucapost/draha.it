@@ -1,15 +1,11 @@
 ---
 layout: info
 lang: de
-title: Info
+title: Informationen
 info: current
 description: FIX
 keywords: FIX
 ---
-
-<article class="grid_12">
-
-h2. Informationen
 
 <section>
 
@@ -55,4 +51,4 @@ sind wie folgt aufgefuehrt:
 * ottobre 2011
 ** Fest der Kastanien (burnjak) in Tribil Superiore, Stregna
 
-</section></article>
+</section>

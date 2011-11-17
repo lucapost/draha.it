@@ -1,7 +1,7 @@
 ---
 layout: default
 lang: it
-title: Error 404
+title: Page not found
 error: current
 imagepath: '/images/benv.jpg'
 imagetitle: la struttura
@@ -10,10 +10,4 @@ description: error 404
 keywords: error 404
 ---
 
-<article class="grid_12">
-
-h2. Page not found
-
-"back to home":/
-
-</article>
+"back to home(back to home)":/

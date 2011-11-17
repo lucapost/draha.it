@@ -7,10 +7,6 @@ description: FIX
 keywords: FIX
 ---
 
-<article class="grid_12">
-
-h2. Unterkuenfte
-
 Die Struktur erfuellt die unterschiedlichsten Beduerfnisse und bietet je nach Kundenwunsch das passende Angebot im Bed & Breakfast oder im Ferienhaus an.
 
 Die Preise sind von 20-27 € pro Tag pro Person, fuer laengere Aufenthalte koennen die Preise vereinbart werden.
@@ -45,4 +41,4 @@ Kueche mit gemuetlichen Esstisch, TV Badezimmer mit Jacuzzi Wanne.
 
 Fuer den Tag nach der Ankunft stellt das Haus alles notwendige fuer das Fruehstueck zur Verfuegung.
 
-</section></article>
+</section>

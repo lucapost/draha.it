@@ -1,15 +1,11 @@
 ---
 layout: index
 lang: de
-title: Home
+title: Willkommen
 index: current
 description: FIX
 keywords: FIX
 ---
-
-<article class="grid_12">
-
-h2. Herzlich willkomm
 
 <section>
 
@@ -22,4 +18,4 @@ Der ideale Aufenthalt fuer Menschen die Enspannung und frische gute Luft geniess
 Die Friedens Oase Draha ist ein Familienbetrieb der liebevoll von Frau Teresa gefuehrt wird.
 Sie kuemmert sich um den Empfang ihrer Gaeste, um die Pflege des wunderschoenen Gartens, um die gesamte Organisation des Hauses und um die Vorbereitung des reichen Fruehstuecks der Gaeste des B&B.
 
-</section></article>
+</section>

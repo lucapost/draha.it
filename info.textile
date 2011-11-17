@@ -1,15 +1,11 @@
 ---
 layout: info
 lang: it
-title: Info
+title: Informazioni
 info: current
 description: avvenimenti e luoghi d'interesse delle valli del natisone
 keywords: mangiare, ristoranti, trattorie, agriturismi, feste, sagre, appuntamenti
 ---
-
-<article class="grid_12">
-
-h2. Informazioni
 
 <section>
 
@@ -52,4 +48,4 @@ h3. Manifestazioni
 * ottobre 2011
 ** festa delle castagne (burnjak), a Tribil Superiore di Stregna
 
-</section></article>
+</section>
