@@ -91,10 +91,11 @@ header {
 	a {
 		color: #ffffff;
 		text-decoration:none;
-		&.visited {
+		&:visited {
 			color: #ffffff;
 		}
 		&.current {
+			color: #ffffff;
 			text-decoration: underline;
 		}
 	}
@@ -131,22 +132,18 @@ header {
 	position:absolute;
 	top: 20px;
 	z-index: 112;
-	color: red;
 	a { 
 		height: 280px;
 		font-size: 60px;
 		line-height: 80px;
 		text-decoration: none;
 		text-align: center;
+		color: #000;
 		opacity: 0;
-		transition: opacity .85s ease-in-out;
-		-moz-transition: opacity .85s ease-in-out;
-		-webkit-transition: opacity .85s ease-in-out;
+		transition: opacity .4s ease-in-out;
+		-moz-transition: opacity .4s ease-in-out;
+		-webkit-transition: opacity .4s ease-in-out;
 		&:hover {
-			opacity: 0.7;
-			color: #000;
-		}
-		&:visited {
 			opacity: 0.7;
 			color: #000;
 		}
