@@ -1,14 +1,14 @@
 @import "compass/css3";
 
-//$selected: #FF5C00;
-$selected: brown;
+$selected: #FF5C00;
+//$selected: brown;
 
 html,
 body {
 	font-size: 16px;
 	line-height:20px;
 	color: #000;
-	background-color: #000000;
+	background-color: grey;
 	font-family: 'Nobile', arial, serif;
 	padding: 0px; 
 	margin: 0px; 
@@ -41,28 +41,6 @@ h1, h2, h3 {
 
 #slider {
 	min-height: 420px;
-/*  	.pagination {
-		display:none;
-    		list-style: none outside none;
-		text-align: center;
-//		position: absolute !important;
-//		top: 30px !important;
-		z-index: 113;
-		margin-top: 3px;
-    		overflow: hidden;
-    		li {
-      			cursor: pointer;
-	      		display: inline-block;
-      			background-color: red;
-      			border-radius: 5px;
-	      		text-indent: 10000px;
-	      		width: 8px;
-	      		height: 8px;
-      			&.current {
-	        		background-color: yellow;
-			}
-		}
-	}*/
 }
 
 .caption {
@@ -117,12 +95,12 @@ header {
 
 	}
 	.lang {
-		line-height: 25px;
+		line-height: 20px;
 	}
 	ul {
 		list-style: none;
 		li {
-			line-height: 25px;
+			line-height: 20px;
 		}
 	}
 }
