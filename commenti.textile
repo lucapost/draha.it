@@ -7,6 +7,8 @@ description: Commenti rilasciati dai nostri ospiti
 keywords: soggiornare, vacanze, cividale, udine, friuli, boschi, collina, relax
 ---
 
+fix
+
 Se sei stato nostro ospite, hai qualche domanda da porre sui servizi della nostra struttura, oppure vuoi lasciare una semplice riflessione.
 
 notextile. <!-- START: Livefyre Embed -->
