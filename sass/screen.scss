@@ -2,6 +2,7 @@
 
 $selected: #FF5C00;
 //$selected: brown;
+$headertextsize: 14px;
 
 html,
 body {
@@ -47,7 +48,7 @@ h1, h2, h3 {
 	padding: 120px 0 0 5px !important;
 	font-family: 'Josefin Sans' !important;
 	text-transform: uppercase !important;
-	font-size: 16px !important;
+	font-size: $headertextsize !important;
 	background: rgba(0,0,0,0.7) !important;
 	font-weight: bold !important;
 }
@@ -65,7 +66,7 @@ header {
 	top: 300px;
 	padding: 20px 0 0 0;
 	text-transform: uppercase;
-//	background: rgba(0,0,0,0.7);
+	font-size: $headertextsize;
 	a {
 		color: #ffffff;
 		text-decoration:none;
