@@ -1,0 +1,13 @@
+---
+layout: default
+lang: it
+title: Page not found
+error: current
+imagepath: '/images/benv.jpg'
+imagetitle: la struttura
+imagedesc: la casa
+description: error 404
+keywords: error 404
+---
+
+"back to home(back to home)":/
