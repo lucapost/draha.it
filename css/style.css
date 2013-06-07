@@ -26,9 +26,30 @@ body {
     padding: 10px 0 10px 0;
 }
 
-header {
-    position: fixed;
-    top: 50px;
+menu {
+    position: absolute;
+    top: 280px;
     color: red;
-    z-index: -100;
+    z-index: 112;
+}
+
+h1 {
+    line-height: 40px;
+    font-size: 36px;
+    color: red;
+    margin: 60px 0 0 0;
+    padding: 0px;
+}
+
+h1 a {
+    color: red;
+    text-decoration: none;
+}
+
+h2 {
+    line-height: 20px;
+    font-size: 18px;
+    color: red;
+    margin: 0px;
+    padding: 0px;
 }

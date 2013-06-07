@@ -6,7 +6,7 @@ SITEMAP = "sitemap.xml.backup"
 URL = "http://draha.it"
 SRC = "/home/lucapost/repo/bb.draha.it/src/"
 TITLE = "Draha"
-SUBTITLE = "Casa Vacanze e B&B nelle Valli del Natisone"
+SUBTITLE = "vacanze e b&b nelle Valli del Natisone"
 DST = "./"
 PREFIX = "/"
 HOME = "/"
@@ -59,19 +59,25 @@ def header(node):
 	</head>
 	<body>
 		<div id="top" class="container_12 clearfix">
+            <menu>
+                <header class="grid_3 prefix_6">
+					<h1><a href="/" title="home page">casa draha</a></h1>
+					<h2>vacanze e b&b nelle valli del natisone</h2>
+                </header>
+                <nav class="grid_3">
+                    <ul>
+                        <li><a href="#home" title="home"></a></li>
+                    </ul>
+                </nav>
+            </menu>
             <div class="grid_12">
 				<div id="slider">
 					<img src="/images/slider/01.jpg" title="entrata0" alt="entrata"/>
 					<img src="/images/slider/02.jpg" title="entrata1" alt="entrata"/>
-                    <header>
-                        CIAO
-                    </header>
 				</div>
             </div>
 			<div class="clear"></div>
 		</div>
-					<h1><a href="/" title="home page">Draha</a></h1>
-					<h2>Casa vacanze e B&B nelle Valli del Natisone</h2>
 		<section>
 			<div class="container_24 clearfix content">
 			'''
