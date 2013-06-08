@@ -7,7 +7,7 @@
 @font-face {
   	font-family: 'nobile';
    	font-style: normal;
-    src: local('nobile'), url('/fonts/Nobile.ttf') format('truetype');
+    src: local('nobile'), url('/fonts/nobile.ttf') format('truetype');
 }
 
 @-webkit-keyframes fadeIn {
