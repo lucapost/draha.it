@@ -192,6 +192,11 @@ strong {
     font-weight: 400;
 }
 
+iframe {
+    margin-top: 20px;
+    border: 1px solid black;
+}
+
 footer {
     font-family: 'nobile';
     line-height: 20px;
@@ -213,10 +218,6 @@ footer a {
 
 footer a:visited {
     color: orange;
-}
-
-a.twitter-timeline {
-    margin-top: 20px;
 }
 
 #google_translate_element {
