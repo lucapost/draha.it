@@ -10,12 +10,6 @@
     src: local('nobile'), url('/fonts/Nobile.ttf') format('truetype');
 }
 
-@font-face {
-  	font-family: 'tulper';
-   	font-style: normal;
-    src: local('tulper'), url('/fonts/TulperOne-Regular.ttf') format('truetype');
-}
-
 @-webkit-keyframes fadeIn {
     from { opacity: 0; }
     to { opacity: 1; }
