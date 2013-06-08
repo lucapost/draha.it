@@ -87,7 +87,7 @@ h1 a {
 h2 {
     font-size: 16px;
     line-height: 20px;
-    font-family: 'josefine';
+    font-family: 'nobile';
     font-weight: lighter;
     color: white;
     margin: 0px;
@@ -97,7 +97,7 @@ h2 {
 h3 {
     line-height: 40px;
     font-size: 28px;
-    font-family: 'josefine';
+    font-family: 'nobile';
     font-weight: 300;
     color: orange;
     margin: 0;
@@ -195,7 +195,7 @@ strong {
 footer {
     font-family: 'nobile';
     line-height: 20px;
-    font-size: 14px;
+    font-size: 12px;
     text-align: center;
     border-top: 1px solid black;
     padding: 9px 0 10px 0;
