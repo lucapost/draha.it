@@ -1,15 +1,29 @@
 @font-face {
   	font-family: 'josefine';
    	font-style: normal;
-   	font-weight: normal;
     src: local('josefine'), url('/fonts/JosefineSans-Light.ttf') format('truetype');
 }
 
 @font-face {
   	font-family: 'nobile';
    	font-style: normal;
-   	font-weight: normal;
     src: local('nobile'), url('/fonts/Nobile.ttf') format('truetype');
+}
+
+@font-face {
+  	font-family: 'tulper';
+   	font-style: normal;
+    src: local('tulper'), url('/fonts/TulperOne-Regular.ttf') format('truetype');
+}
+
+@-webkit-keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
+}
+
+@keyframes fadeIn {
+    from { opacity: 0; }
+    to { opacity: 1; }
 }
 
 * {
@@ -18,7 +32,7 @@
 }
 
 body {
-    background-color: grey;
+    background-color: lightgrey;
 }
 
 #top {
@@ -26,20 +40,49 @@ body {
     padding: 10px 0 10px 0;
 }
 
+ul {
+    margin: 0;
+    padding: 0;
+}
+
 menu {
     position: absolute;
-    top: 280px;
+    top: 340px;
     color: red;
     z-index: 112;
+}
+
+menu ul {
+}
+
+menu ul li {
+    line-height: 20px;
+    font-size: 16px;
+    height: 20px;
+    margin: 0;
+    padding: 0;
+    list-style: none;
+}
+
+menu ul li a {
+    color: white;
+    text-decoration: none;
+    font-family: 'nobile';
+}
+
+menu ul li a:visited {
+    color: white;
 }
 
 h1 {
     line-height: 40px;
     font-size: 36px;
     color: orange;
-    margin: 60px 0 0 0;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
     font-family: 'josefine';
+    font-weight: lighter;
+    text-shadow:#000000 2px 2px 2px;
 }
 
 h1 a {
@@ -48,10 +91,136 @@ h1 a {
 }
 
 h2 {
+    font-size: 16px;
     line-height: 20px;
     font-family: 'josefine';
-    font-size: 18px;
+    font-weight: lighter;
     color: white;
     margin: 0px;
     padding: 0px;
+}
+
+h3 {
+    line-height: 40px;
+    font-size: 28px;
+    font-family: 'josefine';
+    font-weight: 300;
+    color: orange;
+    margin: 0;
+}
+
+h4 {
+    line-height: 40px;
+    font-size: 24px;
+    font-family: 'josefine';
+    font-weight: 300;
+    color: orange;
+    margin: 20px 0 0 0;
+}
+
+
+nav {
+    line-height: 20px;
+}
+
+nav p {
+    padding: 0;
+    margin: 0;
+    font-size: 16px;
+    text-color: white;
+    font-family: 'josefine';
+}
+
+nav ul li a {
+    color: white;
+    text-decoration: none;
+    font-size: 16px;
+}
+
+nav ul li a:active {color: orange;}
+nav ul li a:visited {color: white;}
+nav ul li a:hover {color: orange;}
+
+section {
+    background-color: white;
+}
+
+section.items article:not(:target) {
+    display: none;
+}
+
+section.items article:target {
+    display: block;
+   -webkit-animation: fadeIn 1s;
+   animation: fadeIn 1s;
+}
+
+article {
+    margin: 0 0 10px 0;
+    column-count: 2;
+    column-gap: 20px;
+    -moz-column-count: 2;
+    -moz-column-gap: 20px;
+    -webkit-column-count: 2;
+    -webkit-column-gap: 20px;
+}
+
+article a {
+    color: black;
+}
+
+article a:visited {
+    color: black;
+}
+
+article p {
+    line-height: 20px;
+    font-size: 16px;
+    font-family: 'nobile';
+    margin: 0;
+    padding: 0;
+}
+
+article ul {
+    margin: 0;
+    padding: 0;
+}
+
+article ul li {
+    line-height: 20px;
+    font-size: 16px;
+    font-family: 'nobile';
+    list-style-type: lower-roman;
+}
+
+strong {
+    color: orange;
+    font-weight: 400;
+}
+
+footer {
+    font-family: 'nobile';
+    line-height: 20px;
+    font-size: 14px;
+    text-align: center;
+    border-top: 1px solid black;
+    padding: 9px 0 10px 0;
+    background-color: white;
+}
+
+footer p {
+    margin: 0;
+    padding: 0;
+}
+
+footer a {
+    color: orange;
+}
+
+footer a:visited {
+    color: orange;
+}
+
+a.twitter-timeline {
+    margin-top: 20px;
 }

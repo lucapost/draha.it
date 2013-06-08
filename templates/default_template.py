@@ -1,12 +1,12 @@
 import time
 import datetime
 
-SITE_NAME = "Draha"
+SITE_NAME = "Casa Draha"
 SITEMAP = "sitemap.xml.backup"
 URL = "http://draha.it"
 SRC = "/home/lucapost/repo/bb.draha.it/src/"
 TITLE = "Draha"
-SUBTITLE = "vacanze e b&b nelle Valli del Natisone"
+SUBTITLE = "Vacanze e b&b nelle Valli del Natisone"
 DST = "./"
 PREFIX = "/"
 HOME = "/"
@@ -28,7 +28,8 @@ def header(node):
 	<!--[if gt IE 8]><!--> <html class="no-js" lang="it"> <!--<![endif]-->
 	<head>
        	<meta charset="utf-8" />
-       	<meta name="author" content="lucapost" />
+        <meta name="google-translate-customization" content="b2d0413882278e06-5fc6a66e79b45ee8-g76640882c5a8ea73-8"></meta>
+       	<meta name="author" content="Luca Postregna" />
 	    <meta name="description" content="''' + SUBTITLE + '''" />
        	<title>''' + SITE_NAME + ''' | ''' + SUBTITLE + '''</title>
   		<meta name="viewport" content="width=device-width">
@@ -61,41 +62,50 @@ def header(node):
 		<div id="top" class="container_12 clearfix">
             <menu>
                 <header class="grid_3 prefix_6">
-					<h1><a href="/" title="home page">casa draha</a></h1>
-					<h2>vacanze e b&b nelle valli del natisone</h2>
+					<h1><a href="/" title="home page">Casa Draha</a></h1>
+					<h2>Vacanze e b&b <br/>nelle Valli del Natisone</h2>
                 </header>
                 <nav class="grid_3">
-                    <ul>
-                        <li><a href="#home" title="home"></a></li>
+                    <ul class="menu">
+                        <li><a href="#alloggi" title="descrizione degli alloggi">Alloggi</a></li>
+                        <li><a href="#giardino" title="descrizione del giardino">Giardino</a></li>
+                        <li><a href="#info" title="informazioni generiche">Info</a></li>
+                        <li><a href="#contatti" title="come contattarci">Contatti</a></li>
                     </ul>
                 </nav>
             </menu>
             <div class="grid_12">
 				<div id="slider">
-					<img src="/images/slider/01.jpg" title="entrata0" alt="entrata"/>
-					<img src="/images/slider/02.jpg" title="entrata1" alt="entrata"/>
+					<img src="/images/slider/01.jpg" title="entrata" alt="entrata"/>
+					<img src="/images/slider/02.jpg" title="entrata" alt="entrata"/>
 				</div>
             </div>
 			<div class="clear"></div>
 		</div>
-		<section>
-			<div class="container_24 clearfix content">
+		<section class="container_12 clearfix items">
 			'''
 def footer(node):
     """Build the footer and return it to a string."""
 
     return '''
-				<div class="clear"></div>
-			</div>
+			<div class="clear"></div>
 		</section>
-		<footer>
-			<div class="container_24 clearfix">
-				<div class="grid_24">
+		<footer class="container_12 clearfix">
+			<div class="grid_6 prefix_3">
+                    <p><strong>Casa Draha</strong>, vacanze e b&b nelle Valli del Natisone, di Teresa Postregna</p>
+                    <p>Via Postregna 17, 33040 Stregna, Udine, Italy</p>
+                    <p><a href="mailto:info@draha.it">info@draha.it</a>, +393337600975 +390432724192</p>
 					<p>&copy <a href="http://luca.postregna.name">lucapost</a> ''' + str(current_time.year) + '''; <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/">license CC by-nc</a>; edit: ''' + time.strftime("%Y%m%d %I:%M:%S %p", node.page.last_edit) + '''</p>
+                    <div id="google_translate_element"></div>
 				</div>
-			</div>
 			<div class="clear"></div>
 		</footer>	
 <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+            <script type="text/javascript">
+               function googleTranslateElementInit() {
+                new google.translate.TranslateElement({pageLanguage: 'it', includedLanguages: 'en,de,fr', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false, multilanguagePage: true}, 'google_translate_element');
+                }
+            </script>
+            <script type="text/javascript" src="//translate.google.com/translate_a/element.js?cb=googleTranslateElementInit"></script>
 </body>
 </html>'''	
