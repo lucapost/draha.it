@@ -2,7 +2,7 @@ import time
 import datetime
 
 SITE_NAME = "Casa Draha"
-SITEMAP = "sitemap.xml.backup"
+SITEMAP = "sitemap.xml"
 URL = "http://draha.it"
 SRC = "/home/lucapost/repo/bb.draha.it/src/"
 TITLE = "Draha"
@@ -93,7 +93,7 @@ def footer(node):
 		<footer class="container_12 clearfix">
             <div class="grid_3">tripadvisor</div>
 			<div class="grid_6">
-                    <p><strong>Casa Draha</strong>, vacanze e b&b nelle Valli del Natisone, di Teresa Postregna</p>
+                    <p><strong>Casa Draha</strong>, Vacanze e B&B nelle Valli del Natisone, di Teresa Postregna</p>
                     <p>Via Postregna 17, 33040 Stregna, Udine, Italy</p>
                     <p><a href="mailto:info@draha.it">info@draha.it</a>, +393337600975 +390432724192</p>
 					<p>&copy <a href="http://luca.postregna.name">lucapost</a> ''' + str(current_time.year) + '''; <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/">license CC by-nc</a>; edit: ''' + time.strftime("%Y%m%d %I:%M:%S %p", node.page.last_edit) + '''</p>
