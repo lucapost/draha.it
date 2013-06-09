@@ -216,8 +216,13 @@ footer a:visited {
     color: orange;
 }
 
+img.social {
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+}
+
 #google_translate_element {
     text-align: left;
-    top: 0;
-    left: 0;
+    margin: 10px 10px 0 0;
 }

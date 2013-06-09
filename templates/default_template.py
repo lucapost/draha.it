@@ -117,14 +117,19 @@ def footer(node):
 			<div class="clear"></div>
 		</section>
 		<footer class="container_12 clearfix">
-            <div class="grid_3">tripadvisor</div>
+            <a href="http://www.tripadvisor.it/" title="scrivi una recensione su Casa Draha"><img src="/images/tripadvisor.png" alt="tripadvisor logo" title="scrivi una recensione su Casa Draha" class="grid_3 tripadvisor"/></a>
 			<div class="grid_6">
                     <p><strong>Casa Draha</strong>, Vacanze e B&B nelle Valli del Natisone, di Teresa Postregna</p>
                     <p>Via Postregna 17, 33040 Stregna, Udine, Italy</p>
                     <p><a href="mailto:info@draha.it">info@draha.it</a>, +393337600975 +390432724192</p>
 					<p>&copy <a href="http://luca.postregna.name">lucapost</a> ''' + str(current_time.year) + '''; <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/">license CC by-nc</a>; edit: ''' + time.strftime("%Y%m%d %I:%M:%S %p", node.page.last_edit) + '''</p>
 			</div>
-            <div id="google_translate_element" class="grid_3"></div>
+            <div class="grid_3 social">
+                <a href="http://twitter.com/casadraha" title="pagina twitter di @CasaDraha"><img src="/images/twitter.png" alt="twitter logo" title="profilo twitter di @casadraha" class="grid_1 alpha social"/></a>
+                <a href="https://plus.google.com/101321731330801126248/posts" title="pagina google plus di Casa Draha"><img src="/images/gplus.png" alt="google plus logo" title="profilo google plus" class="grid_1 social"/></a>
+                <a href="https://www.facebook.com/pages/Casa-Draha/130267147110320" title="pagina facebook di Casa Draha"><img src="/images/facebook.png" alt="facebook logo" title="pagina fecbook di Casa Draha" class="grid_1 omega social"/></a>
+                <div id="google_translate_element" class="grid_3"></div>
+            </div>
 			<div class="clear"></div>
 		</footer>	
 <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
