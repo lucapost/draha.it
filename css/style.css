@@ -150,7 +150,9 @@ section.items article:target {
 }
 
 article {
-    margin: 0 0 10px 0;
+    border-top: 1px solid black;
+    margin: 0;
+    padding: 20px 0 20px 0;
     column-count: 2;
     column-gap: 20px;
     -moz-column-count: 2;
@@ -194,12 +196,13 @@ iframe {
 }
 
 footer {
+    height: 100px;
     font-family: 'nobile';
     line-height: 20px;
     font-size: 12px;
     text-align: center;
     border-top: 1px solid black;
-    padding: 9px 0 10px 0;
+    padding: 19px 0 20px 0;
     background-color: white;
 }
 
@@ -207,6 +210,11 @@ footer p {
     margin: 0;
     padding: 0;
 }
+
+footer p.last {
+    margin-top: 20px;
+}
+
 
 footer a {
     color: orange;
@@ -224,5 +232,5 @@ img.social {
 
 #google_translate_element {
     text-align: left;
-    margin: 10px 10px 0 0;
+    margin: 10px 0 0 0;
 }
