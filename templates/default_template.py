@@ -4,7 +4,7 @@ import datetime
 SITE_NAME = "Casa Draha"
 SITEMAP = "sitemap.xml"
 URL = "http://draha.it"
-SRC = "/home/lucapost/repo/bb.draha.it/src/"
+SRC = "/home/lucapost/repo/draha.it/src/"
 TITLE = "Draha"
 SUBTITLE = "Vacanze e B&B nelle Valli del Natisone"
 DST = "./"
