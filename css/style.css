@@ -43,13 +43,13 @@ a:visited {
     height: 420px;
 }
 
-menu {
+.menu {
     position: absolute;
     top: 340px;
     z-index: 112;
 }
 
-menu ul li {
+.menu ul li {
     margin: 0;
     padding: 0;
     list-style: none;
@@ -58,13 +58,13 @@ menu ul li {
     height: 20px;
 }
 
-menu ul li a {
+.menu ul li a {
     color: white;
     text-decoration: none;
     font-family: 'nobile';
 }
 
-menu ul li a:visited {
+.menu ul li a:visited {
     color: white;
 }
 
