@@ -43,28 +43,19 @@ a:visited {
     height: 420px;
 }
 
-ul {
-    margin: 0;
-    padding: 0;
-}
-
 menu {
     position: absolute;
     top: 340px;
-    color: red;
     z-index: 112;
 }
 
-menu ul {
-}
-
 menu ul li {
-    line-height: 20px;
-    font-size: 16px;
-    height: 20px;
     margin: 0;
     padding: 0;
     list-style: none;
+    line-height: 20px;
+    font-size: 16px;
+    height: 20px;
 }
 
 menu ul li a {
