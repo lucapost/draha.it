@@ -6,7 +6,7 @@ SITEMAP = "sitemap.xml"
 URL = "http://draha.it"
 SRC = "/home/lucapost/repo/draha.it/src/"
 TITLE = "Draha"
-SUBTITLE = "Vacanze e B&B nelle Valli del Natisone"
+SUBTITLE = "Vacanze e B&amp;B nelle Valli del Natisone"
 DST = "./"
 PREFIX = "/"
 HOME = "/"
@@ -28,7 +28,7 @@ def header(node):
 	<!--[if gt IE 8]><!--> <html class="no-js" lang="it"> <!--<![endif]-->
 	<head>
        	<meta charset="utf-8" />
-        <meta name="google-translate-customization" content="b2d0413882278e06-5fc6a66e79b45ee8-g76640882c5a8ea73-8"></meta>
+        <meta name="google-translate-customization" content="b2d0413882278e06-5fc6a66e79b45ee8-g76640882c5a8ea73-8" />
        	<meta name="author" content="Luca Postregna" />
 	    <meta name="description" content="''' + SUBTITLE + '''" />
        	<title>''' + SITE_NAME + ''' | ''' + SUBTITLE + '''</title>
@@ -43,7 +43,7 @@ def header(node):
 		<script src="/js/jquery.min.js"></script>
   		<script src="/js/hashgrid.js"></script> 
 		<script src="/js/flux.min.js" type="text/javascript" charset="utf-8"></script>
-		<script type="text/javascript" charset="utf-8">
+		<script type="text/javascript">
 			$(function(){
 				if(!flux.browser.supportsTransitions)
 					alert("Flux Slider requires a browser that supports CSS3 transitions");
@@ -62,7 +62,7 @@ def header(node):
             <menu>
                 <header class="grid_3 prefix_6">
 					<h1><a href="/" title="home page">Casa Draha</a></h1>
-					<h2>Vacanze e B&B <br/>nelle Valli del Natisone</h2>
+					<h2>Vacanze e B&amp;B <br/>nelle Valli del Natisone</h2>
                 </header>
                 <nav class="grid_3">
                     <ul class="menu">
@@ -75,23 +75,23 @@ def header(node):
             </menu>
             <div class="grid_12">
 				<div id="slider">
-                    <img src="/images/slider/00.jpg" title="1/28 la sala d'ingresso del b&b" alt="ingresso"/>
-                    <img src="/images/slider/01.jpg" title="2/28 il soggiorno del b&b" alt="soggiorno"/>
-					<img src="/images/slider/02.jpg" title="3/28 il soggiorno del b&b verso il caminetto" alt="soggiorno verso caminetto"/>
+                    <img src="/images/slider/00.jpg" title="1/28 la sala d'ingresso del b&amp;b" alt="ingresso"/>
+                    <img src="/images/slider/01.jpg" title="2/28 il soggiorno del b&amp;b" alt="soggiorno"/>
+					<img src="/images/slider/02.jpg" title="3/28 il soggiorno del b&amp;b verso il caminetto" alt="soggiorno verso caminetto"/>
 					<img src="/images/slider/03.jpg" title="4/28 il tavolo massiccio del soggiorno" alt="tavolo"/>
 					<img src="/images/slider/04.jpg" title="5/28 il tavolo della cucina per le colazioni" alt="tavolo cucina"/>
-					<img src="/images/slider/05.jpg" title="6/28 l'anticamera del b&b" alt="anticamera"/>
-					<img src="/images/slider/06.jpg" title="7/28 la camera singola del b&b" alt="cameretta singola"/>
-					<img src="/images/slider/07.jpg" title="8/28 la camera matrimoniale del b&b" alt="camera matrimoniale"/>
-					<img src="/images/slider/08.jpg" title="9/28 il bagno del b&b" alt="bagno"/>
+					<img src="/images/slider/05.jpg" title="6/28 l'anticamera del b&amp;b" alt="anticamera"/>
+					<img src="/images/slider/06.jpg" title="7/28 la camera singola del b&amp;b" alt="cameretta singola"/>
+					<img src="/images/slider/07.jpg" title="8/28 la camera matrimoniale del b&amp;b" alt="camera matrimoniale"/>
+					<img src="/images/slider/08.jpg" title="9/28 il bagno del b&amp;b" alt="bagno"/>
 					<img src="/images/slider/09.jpg" title="10/28 la camera matrimoniale della casa vacanze" alt="camera matrimoniale casa vacanze"/>
 					<img src="/images/slider/10.jpg" title="11/28 la camera matrimoniale nella casa vacanze" alt="camera matrimoniale"/>
 					<img src="/images/slider/11.jpg" title="12/28 il bagno della casa vacanze" alt="bagno casa vacanze"/>
 					<img src="/images/slider/12.jpg" title="13/28 la cucina della casa vacanze" alt="cucina casa vacanze"/>
 					<img src="/images/slider/13.jpg" title="14/28 la finestra della cucina della casa vacanze" alt="la finestra"/>
-					<img src="/images/slider/14.jpg" title="15/28 l'ingresso del b&b dall'esterno" alt="ingresso esterno"/>
+					<img src="/images/slider/14.jpg" title="15/28 l'ingresso del b&amp;b dall'esterno" alt="ingresso esterno"/>
 					<img src="/images/slider/15.jpg" title="16/28 la casa dall'esterno" alt="casa"/>
-					<img src="/images/slider/16.jpg" title="17/28 l'ingresso del b&b dal giardino" alt="ingresso dal giardino"/>
+					<img src="/images/slider/16.jpg" title="17/28 l'ingresso del b&amp;b dal giardino" alt="ingresso dal giardino"/>
 					<img src="/images/slider/17.jpg" title="18/28 il balcone fiorito" alt="balcone"/>
 					<img src="/images/slider/18.jpg" title="19/28 vista del giardino nei pressi dell'ingresso" alt="giardino"/>
 					<img src="/images/slider/19.jpg" title="20/28 il giardino all'ingresso" alt="giardino all'ingresso"/>
@@ -120,7 +120,7 @@ def footer(node):
 		<footer class="container_12 clearfix">
             <a href="http://www.tripadvisor.it/" title="scrivi una recensione su Casa Draha"><img src="/images/tripadvisor.png" alt="tripadvisor logo" title="scrivi una recensione su Casa Draha" class="grid_3 tripadvisor"/></a>
 			<div class="grid_6">
-                    <p><strong>Casa Draha</strong>, Vacanze e B&B nelle Valli del Natisone, di Teresa Postregna</p>
+                    <p><strong>Casa Draha</strong>, Vacanze e B&amp;B nelle Valli del Natisone, di Teresa Postregna</p>
                     <p>Via Postregna 17, 33040 Stregna, Udine, Italy</p>
                     <p>email: <a href="mailto:info@draha.it">info@draha.it</a>, phone: +393337600975 (+390432724192)</p>
 					<p class="last">&copy <a href="http://luca.postregna.name">lucapost</a> ''' + str(current_time.year) + ''', <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/">license</a>, <a href="/privacy.html" title="normativa sulla privacy">privacy</a>, edit: ''' + time.strftime("%Y%m%d %I:%M:%S %p", node.page.last_edit) + '''</p>
