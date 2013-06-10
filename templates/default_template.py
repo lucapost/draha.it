@@ -75,34 +75,34 @@ def header(node):
             </menu>
             <div class="grid_12">
 				<div id="slider">
-                    <img src="/images/slider/00.jpg" title="la sala d'ingresso del b&b" alt="ingresso"/>
-                    <img src="/images/slider/01.jpg" title="il soggiorno del b&b" alt="soggiorno"/>
-					<img src="/images/slider/02.jpg" title="il soggiorno del b&b verso il caminetto" alt="soggiorno verso caminetto"/>
-					<img src="/images/slider/03.jpg" title="il tavolo massiccio del soggiorno" alt="tavolo"/>
-					<img src="/images/slider/04.jpg" title="il tavolo della cucina per le colazioni" alt="tavolo cucina"/>
-					<img src="/images/slider/05.jpg" title="l'anticamera del b&b" alt="anticamera"/>
-					<img src="/images/slider/06.jpg" title="la camera singola del b&b" alt="cameretta singola"/>
-					<img src="/images/slider/07.jpg" title="la camera matrimoniale del b&b" alt="camera matrimoniale"/>
-					<img src="/images/slider/08.jpg" title="il bagno del b&b" alt="bagno"/>
-					<img src="/images/slider/09.jpg" title="la camera matrimoniale della casa vacanze" alt="camera matrimoniale casa vacanze"/>
-					<img src="/images/slider/10.jpg" title="la camera matrimoniale nella casa vacanze" alt="camera matrimoniale"/>
-					<img src="/images/slider/11.jpg" title="il bagno della casa vacanze" alt="bagno casa vacanze"/>
-					<img src="/images/slider/12.jpg" title="la cucina della casa vacanze" alt="cucina casa vacanze"/>
-					<img src="/images/slider/13.jpg" title="la finestra della cucina della casa vacanze" alt="la finestra"/>
-					<img src="/images/slider/14.jpg" title="l'ingresso del b&b dall'esterno" alt="ingresso esterno"/>
-					<img src="/images/slider/15.jpg" title="la casa dall'esterno" alt="casa"/>
-					<img src="/images/slider/16.jpg" title="l'ingresso del b&b dal giardino" alt="ingresso dal giardino"/>
-					<img src="/images/slider/17.jpg" title="il balcone fiorito" alt="balcone"/>
-					<img src="/images/slider/18.jpg" title="vista del giardino nei pressi dell'ingresso" alt="giardino"/>
-					<img src="/images/slider/19.jpg" title="il giardino all'ingresso" alt="giardino all'ingresso"/>
-					<img src="/images/slider/20.jpg" title="il dondolo e la fontana nel giardino" alt="dondolo e fontana"/>
-					<img src="/images/slider/21.jpg" title="il dondolo e la fontana del giardino" alt="dondolo e fontana"/>
-					<img src="/images/slider/22.jpg" title="le sdraio in giardino" alt="le sdraio in giardino"/>
-					<img src="/images/slider/23.jpg" title="particolare di pietra in giardino" alt="pietra"/>
-					<img src="/images/slider/24.jpg" title="la panca di legno in giardino" alt="panca"/>
-					<img src="/images/slider/25.jpg" title="gli scalini di pietra del giardino" alt="scalini"/>
-					<img src="/images/slider/26.jpg" title="vista panoramica di giorno verso valle" alt="vista di giorno"/>
-					<img src="/images/slider/27.jpg" title="vista panoramica al tramonto verso valle" alt="vista al tramonto"/>
+                    <img src="/images/slider/00.jpg" title="1/28 la sala d'ingresso del b&b" alt="ingresso"/>
+                    <img src="/images/slider/01.jpg" title="2/28 il soggiorno del b&b" alt="soggiorno"/>
+					<img src="/images/slider/02.jpg" title="3/28 il soggiorno del b&b verso il caminetto" alt="soggiorno verso caminetto"/>
+					<img src="/images/slider/03.jpg" title="4/28 il tavolo massiccio del soggiorno" alt="tavolo"/>
+					<img src="/images/slider/04.jpg" title="5/28 il tavolo della cucina per le colazioni" alt="tavolo cucina"/>
+					<img src="/images/slider/05.jpg" title="6/28 l'anticamera del b&b" alt="anticamera"/>
+					<img src="/images/slider/06.jpg" title="7/28 la camera singola del b&b" alt="cameretta singola"/>
+					<img src="/images/slider/07.jpg" title="8/28 la camera matrimoniale del b&b" alt="camera matrimoniale"/>
+					<img src="/images/slider/08.jpg" title="9/28 il bagno del b&b" alt="bagno"/>
+					<img src="/images/slider/09.jpg" title="10/28 la camera matrimoniale della casa vacanze" alt="camera matrimoniale casa vacanze"/>
+					<img src="/images/slider/10.jpg" title="11/28 la camera matrimoniale nella casa vacanze" alt="camera matrimoniale"/>
+					<img src="/images/slider/11.jpg" title="12/28 il bagno della casa vacanze" alt="bagno casa vacanze"/>
+					<img src="/images/slider/12.jpg" title="13/28 la cucina della casa vacanze" alt="cucina casa vacanze"/>
+					<img src="/images/slider/13.jpg" title="14/28 la finestra della cucina della casa vacanze" alt="la finestra"/>
+					<img src="/images/slider/14.jpg" title="15/28 l'ingresso del b&b dall'esterno" alt="ingresso esterno"/>
+					<img src="/images/slider/15.jpg" title="16/28 la casa dall'esterno" alt="casa"/>
+					<img src="/images/slider/16.jpg" title="17/28 l'ingresso del b&b dal giardino" alt="ingresso dal giardino"/>
+					<img src="/images/slider/17.jpg" title="18/28 il balcone fiorito" alt="balcone"/>
+					<img src="/images/slider/18.jpg" title="19/28 vista del giardino nei pressi dell'ingresso" alt="giardino"/>
+					<img src="/images/slider/19.jpg" title="20/28 il giardino all'ingresso" alt="giardino all'ingresso"/>
+					<img src="/images/slider/20.jpg" title="21/28 il dondolo e la fontana nel giardino" alt="dondolo e fontana"/>
+					<img src="/images/slider/21.jpg" title="22/28 il dondolo e la fontana del giardino" alt="dondolo e fontana"/>
+					<img src="/images/slider/22.jpg" title="23/28 le sdraio in giardino" alt="le sdraio in giardino"/>
+					<img src="/images/slider/23.jpg" title="24/28 particolare di pietra in giardino" alt="pietra"/>
+					<img src="/images/slider/24.jpg" title="25/28 la panca di legno in giardino" alt="panca"/>
+					<img src="/images/slider/25.jpg" title="26/28 gli scalini di pietra del giardino" alt="scalini"/>
+					<img src="/images/slider/26.jpg" title="27/28 vista panoramica di giorno verso valle" alt="vista di giorno"/>
+					<img src="/images/slider/27.jpg" title="28/28 vista panoramica al tramonto verso valle" alt="vista al tramonto"/>
 				</div>
             </div>
 			<div class="clear"></div>
