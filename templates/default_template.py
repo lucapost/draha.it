@@ -123,7 +123,7 @@ def footer(node):
                     <p><strong>Casa Draha</strong>, Vacanze e B&amp;B nelle Valli del Natisone, di Teresa Postregna</p>
                     <p>Via Postregna 17, 33040 Stregna, Udine, Italy</p>
                     <p>email: <a href="mailto:info@draha.it">info@draha.it</a>, phone: +393337600975 (+390432724192)</p>
-					<p class="last">&copy <a href="http://luca.postregna.name">lucapost</a> ''' + str(current_time.year) + ''', <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/">license</a>, <a href="/privacy.html" title="normativa sulla privacy">privacy</a>, edit: ''' + time.strftime("%Y%m%d %I:%M:%S %p", node.page.last_edit) + '''</p>
+					<p class="last">&copy; <a href="http://luca.postregna.name">lucapost</a> ''' + str(current_time.year) + ''', <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/">license</a>, <a href="/privacy.html" title="normativa sulla privacy">privacy</a>, edit: ''' + time.strftime("%Y%m%d %I:%M:%S %p", node.page.last_edit) + '''</p>
 			</div>
             <div class="grid_3 social">
                 <a href="http://twitter.com/casadraha" title="pagina twitter di @CasaDraha"><img src="/images/twitter.png" alt="twitter logo" title="profilo twitter di @casadraha" class="grid_1 alpha social"/></a>
