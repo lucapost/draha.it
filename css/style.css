@@ -21,20 +21,12 @@
 }
 
 * {
-    margin: 0px;
-    padding: 0px;
+    margin: 0;
+    padding: 0;
 }
 
 body {
     background-color: black;
-}
-
-a {
-    color: orange;
-}
-
-a:visited {
-    color: orange;
 }
 
 #top {
@@ -44,28 +36,9 @@ a:visited {
 }
 
 .menu {
-    position: absolute;
     top: 340px;
     z-index: 112;
-}
-
-.menu ul li {
-    margin: 0;
-    padding: 0;
-    list-style: none;
-    line-height: 20px;
-    font-size: 16px;
-    height: 20px;
-}
-
-.menu ul li a {
-    color: white;
-    text-decoration: none;
-    font-family: 'nobile';
-}
-
-.menu ul li a:visited {
-    color: white;
+    position: absolute;
 }
 
 h1 {
@@ -73,15 +46,9 @@ h1 {
     font-size: 36px;
     color: orange;
     margin: 0;
-    padding: 0;
     font-family: 'josefine';
     font-weight: lighter;
     text-shadow:#000000 2px 2px 2px;
-}
-
-h1 a {
-    color: orange;
-    text-decoration: none;
 }
 
 h2 {
@@ -90,8 +57,6 @@ h2 {
     font-family: 'nobile';
     font-weight: lighter;
     color: white;
-    margin: 0px;
-    padding: 0px;
 }
 
 h3 {
@@ -100,38 +65,47 @@ h3 {
     font-family: 'nobile';
     font-weight: 300;
     color: orange;
-    margin: 0 0 20px 0;
+    margin-bottom: 20px;
 }
 
 h4 {
     line-height: 40px;
     font-size: 24px;
-    font-family: 'josefine';
+    font-family: 'nobile';
     font-weight: 300;
     color: orange;
     margin: 20px 0 0 0;
 }
 
-
-nav {
+p {
     line-height: 20px;
-}
-
-nav p {
-    padding: 0;
-    margin: 0;
     font-size: 16px;
-    color: white;
-    font-family: 'josefine';
+    font-family: 'nobile';
 }
 
-nav ul li a {
-    color: white;
+a {
+    color: orange;
     text-decoration: none;
-    font-size: 16px;
 }
 
-nav ul li a:visited {color: white;}
+a:visited {
+    color: orange;
+}
+
+nav ul li {
+    list-style: none;
+}
+
+nav a {
+    color: white;
+    font-size: 16px;
+    line-height: 20px;
+    font-family: 'nobile';
+}
+
+nav a:visited {
+    color: white;
+}
 
 section {
     background-color: white;
@@ -161,16 +135,15 @@ article {
 
 article a {
     color: black;
+    text-decoration: underline;
+}
+
+article a:hover {
+    color: orange;
 }
 
 article a:visited {
     color: black;
-}
-
-article p {
-    line-height: 20px;
-    font-size: 16px;
-    font-family: 'nobile';
 }
 
 article ul {
@@ -206,20 +179,11 @@ footer {
 
 footer p {
     margin: 0;
-    padding: 0;
+    font-size: 12px;
 }
 
 footer p.last {
     margin-top: 20px;
-}
-
-
-footer a {
-    color: orange;
-}
-
-footer a:visited {
-    color: orange;
 }
 
 img.social {

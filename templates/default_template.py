@@ -58,7 +58,7 @@ def header(node):
 		</script> 
 	</head>
 	<body>
-		<div id="top" class="container_12 clearfix">
+	    <div id="top" class="container_12 clearfix">
             <div class="menu">
                 <header class="grid_3 prefix_6">
 					<h1><a href="/" title="home page">Casa Draha</a></h1>
