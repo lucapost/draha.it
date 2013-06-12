@@ -1,7 +1,7 @@
 @font-face {
-  	font-family: 'josefine';
+  	font-family: 'average';
    	font-style: normal;
-    src: local('josefine'), url('/fonts/JosefineSans-Light.ttf') format('truetype');
+    src: local('average'), url('/fonts/AverageSans-Regular.ttf') format('truetype');
 }
 
 @font-face {
@@ -46,9 +46,13 @@ h1 {
     font-size: 36px;
     color: orange;
     margin: 0;
-    font-family: 'josefine';
+    font-family: 'average';
     font-weight: lighter;
-    text-shadow:#000000 2px 2px 2px;
+    text-shadow: #000000 2px 2px 2px;
+}
+
+h1 span {
+    color: white;
 }
 
 h2 {

@@ -47,7 +47,7 @@ def header(node):
 	    <div id="top" class="container_12 clearfix">
             <div class="menu">
                 <header class="grid_3 prefix_6">
-					<h1><a href="/" title="home page">Casa Draha</a></h1>
+					<h1><a href="/" title="home page">Casa Dra<span>h</span>a</a></h1>
 					<h2>Vacanze e B&amp;B <br/>nelle Valli del Natisone</h2>
                 </header>
                 <nav class="grid_3">
