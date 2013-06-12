@@ -16,23 +16,9 @@
 		<link rel="stylesheet" type="text/css" media="all" href="/css/hashgrid.css" />
 		<link rel="stylesheet" type="text/css" media="all" href="/css/style.css" />
 		<link href='http://fonts.googleapis.com/css?family=Fanwood+Text' rel='stylesheet' type='text/css'>
-  		<script src="/js/modernizr.js"></script> 
 		<script src="/js/jquery.min.js"></script>
+  		<script src="/js/modernizr.js"></script> 
   		<script src="/js/hashgrid.js"></script> 
-		<script src="/js/flux.min.js" type="text/javascript" charset="utf-8"></script>
-		<script type="text/javascript">
-			$(function(){
-				if(!flux.browser.supportsTransitions)
-					alert("Flux Slider requires a browser that supports CSS3 transitions");
-				window.f = new flux.slider('#slider', {
-					pagination: false,
-                    controls: true,
-                    captions: true,
-					transitions: [ 'dissolve' ],
-					delay: 5500
-				});
-			});
-		</script> 
 	</head>
 	<body>
 	    <div id="top" class="container_12 clearfix">
@@ -232,6 +218,20 @@
 			<div class="clear"></div>
 		</footer>	
 <!--[if lt IE 7]><p class=chromeframe>Your browser is <em>ancient!</em> <a href="http://browsehappy.com/">Upgrade to a different browser</a> or <a href="http://www.google.com/chromeframe/?redirect=true">install Google Chrome Frame</a> to experience this site.</p><![endif]-->
+    		<script src="/js/flux.min.js" type="text/javascript" charset="utf-8"></script>
+	    	<script type="text/javascript">
+		    	$(function(){
+			    	if(!flux.browser.supportsTransitions)
+				    	alert("Flux Slider requires a browser that supports CSS3 transitions");
+    				window.f = new flux.slider('#slider', {
+    					pagination: false,
+                        controls: true,
+                        captions: true,
+    					transitions: [ 'dissolve' ],
+    					delay: 5500
+    				});
+    			});
+    		</script> 
             <script type="text/javascript">
                function googleTranslateElementInit() {
                 new google.translate.TranslateElement({pageLanguage: 'it', includedLanguages: 'en,de,fr', layout: google.translate.TranslateElement.InlineLayout.SIMPLE, autoDisplay: false, multilanguagePage: true}, 'google_translate_element');
