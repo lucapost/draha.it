@@ -108,6 +108,10 @@ nav a {
     font-family: 'nobile';
 }
 
+nav a:hover {
+    color: orange;
+}
+
 nav a:visited {
     color: white;
 }
