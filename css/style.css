@@ -35,6 +35,12 @@ body {
     height: 420px;
 }
 
+.socialbutton {
+	position:fixed;
+	left: 10px;
+    margin-top:10px;
+}
+
 .menu {
     top: 340px;
     z-index: 112;
