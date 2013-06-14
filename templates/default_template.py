@@ -178,4 +178,4 @@ def footer(node):
                 }(document, 'script', 'facebook-jssdk'));
             </script>
 </body>
-</html>'''	
+</html>'''
