@@ -31,6 +31,7 @@ def header(node):
         <meta name="google-translate-customization" content="b2d0413882278e06-5fc6a66e79b45ee8-g76640882c5a8ea73-8" />
        	<meta name="author" content="Luca Postregna" />
 	    <meta name="description" content="''' + SUBTITLE + '''" />
+        <meta name="keywords" content="casa vacanze, B&amp;B, Bed and Breakfast, valli del natisone, stregna, giardino">
        	<title>''' + SITE_NAME + ''' | ''' + SUBTITLE + '''</title>
   		<meta name="viewport" content="width=device-width">
 		<link rel="stylesheet" type="text/css" media="all" href="/css/reset.css" />
@@ -46,7 +47,7 @@ def header(node):
 	<body>
 		<div class="socialbutton">	
 			<div class="tt-share">
-				<a href="https://twitter.com/share" class="twitter-share-button" data-url="http://draha.it" data-text="Vacanze e B&amp;B nelle #vallidelnatisone #stregna data-count="vertical">Tweet</a>
+                <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://draha.it" data-counturl="http://groups.google.com/group/twitter-api-announce" data-lang="it" data-count="vertical">Tweet</a>
 			</div>
             <div class="g-plusone" data-size="tall" data-href="http://draha.it"></div><br/>
             <div class="fb-like" data-href="https://www.facebook.com/pages/Casa-Draha/130267147110320?fref=ts" data-send="false" data-layout="box_count" data-width="60" data-show-faces="false"></div>
@@ -157,9 +158,6 @@ def footer(node):
                   var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
             })();
             </script>
-		    <script>
-			!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");
-		    </script>
             <script type="text/javascript">
                 window.___gcfg = {lang: 'it'};
                 (function() {
@@ -177,5 +175,6 @@ def footer(node):
                 fjs.parentNode.insertBefore(js, fjs);
                 }(document, 'script', 'facebook-jssdk'));
             </script>
+            <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </body>
 </html>'''
