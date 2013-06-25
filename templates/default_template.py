@@ -30,7 +30,7 @@ def header(node):
        	<meta charset="utf-8" />
         <meta name="google-translate-customization" content="b2d0413882278e06-5fc6a66e79b45ee8-g76640882c5a8ea73-8" />
        	<meta name="author" content="Luca Postregna" />
-	    <meta name="description" content="''' + SUBTITLE + '''" />
+	    <meta name="description" content="''' + SUBTITLE + ''' - ''' + node.page.name + '''" />
         <meta name="keywords" content="casa vacanze, B&amp;B, Bed and Breakfast, valli del natisone, stregna, giardino">
        	<title>''' + SITE_NAME + ''' | ''' + SUBTITLE + ''' | ''' + node.page.name + '''</title>
   		<meta name="viewport" content="width=device-width">
