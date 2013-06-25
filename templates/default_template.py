@@ -32,7 +32,7 @@ def header(node):
        	<meta name="author" content="Luca Postregna" />
 	    <meta name="description" content="''' + SUBTITLE + '''" />
         <meta name="keywords" content="casa vacanze, B&amp;B, Bed and Breakfast, valli del natisone, stregna, giardino">
-       	<title>''' + SITE_NAME + ''' | ''' + SUBTITLE + '''</title>
+       	<title>''' + SITE_NAME + ''' | ''' + SUBTITLE + ''' | ''' + node.page.name + '''</title>
   		<meta name="viewport" content="width=device-width">
 		<link rel="stylesheet" type="text/css" media="all" href="/css/reset.css" />
 		<link rel="stylesheet" type="text/css" media="all" href="/css/text.css" />
