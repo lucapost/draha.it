@@ -36,13 +36,13 @@ body {
 }
 
 .socialbutton {
-	position:fixed;
-	left: 10px;
+    position:fixed;
+    left: 10px;
     margin-top:10px;
 }
 
 .menu {
-    top: 340px;
+    top: 320px;
     z-index: 112;
     position: absolute;
 }
