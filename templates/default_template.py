@@ -115,9 +115,8 @@ def footer(node):
 		<footer class="container_12 clearfix">
             <a href="http://www.tripadvisor.it/Hotel_Review-g3374478-d4544610-Reviews-Casa_Draha-Stregna_Province_of_Udine_Friuli_Venezia_Giulia.html" title="scrivi una recensione su Casa Draha"><img src="/images/tripadvisor.png" alt="tripadvisor logo" title="scrivi una recensione su Casa Draha" class="grid_3 tripadvisor"/></a>
 			<div class="grid_6">
-                    <p>Casa Draha, Vacanze e B&amp;B nelle Valli del Natisone</p>
+		    <p class="footercontacts">telefono: <a class="phone" href="tel:+393337600975" title="numero di telefono casa draha">(+39)3337600975</a> - email: <a href="mailto:info@draha.it" title="indirizzo email casa draha">info@draha.it</a></p>
                     <p>Via Postregna 17, 33040 Stregna, Udine, Italy</p>
-                    <p>email: info@draha.it, phone: (+39)3337600975</p>
 					<p class="last">&copy; <a href="http://luca.postregna.name">lucapost</a> ''' + str(current_time.year) + ''', <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/">license</a>, <a href="/privacy.html" title="normativa sulla privacy">privacy</a>, edit: ''' + time.strftime("%Y%m%d %I:%M", node.page.last_edit) + '''</p>
 			</div>
             <div class="grid_3 social">

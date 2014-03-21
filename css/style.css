@@ -196,6 +196,11 @@ footer {
 footer p {
     margin: 0;
     font-size: 16px;
+    color: black;
+}
+
+footer p.footercontacts {
+    margin-top: 20px;
 }
 
 footer p.last {
@@ -209,6 +214,10 @@ footer p.last a {
 footer p a {
     color: black;
     text-decoration: underline;
+}
+
+footer p a.phone {
+    text-decoration: none;
 }
 
 img.social {
