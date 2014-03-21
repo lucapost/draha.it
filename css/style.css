@@ -190,6 +190,7 @@ footer {
     border-top: 1px solid black;
     padding: 19px 0 20px 0;
     background-color: white;
+    color: black;
 }
 
 footer p {
@@ -199,6 +200,15 @@ footer p {
 
 footer p.last {
     margin-top: 20px;
+}
+
+footer p.last a {
+    color: black;
+}
+
+footer p a {
+    color: black;
+    text-decoration: underline;
 }
 
 img.social {
