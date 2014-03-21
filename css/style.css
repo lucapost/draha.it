@@ -186,7 +186,6 @@ footer {
     height: 100px;
     font-family: 'nobile';
     line-height: 20px;
-    font-size: 12px;
     text-align: center;
     border-top: 1px solid black;
     padding: 19px 0 20px 0;
@@ -195,7 +194,7 @@ footer {
 
 footer p {
     margin: 0;
-    font-size: 12px;
+    font-size: 16px;
 }
 
 footer p.last {
