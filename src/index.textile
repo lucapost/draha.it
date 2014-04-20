@@ -120,4 +120,58 @@ Via Postregna, 17
 
 !/images/casadraha-qrcode.png(codice qr)!
 
-notextile. </article>
+notextile. </article><article id="newsletter">
+
+h3. Newsletter
+
+L'invio di email è il principale strumento di comunicazione con i nostri clienti. Se vuoi rimanere aggiornato sulle nostre attività, sulle manifestazioni che si susseguono nelle vicinanze o sulle nostre offerte iscriviti anche tu alla nostra newsletter.
+
+Al monento attuale spediamo circa 7-8 email all'anno. Comunque, se lo vorrei,  potrai decidere di disiscriverti da questo servizio nel momento che riterrai più opportuno, comunicandocelo direttamente oppure dal link presente nel corpo delle email che riceverai.
+
+notextile. <!-- Begin MailChimp Signup Form -->
+<link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
+<style type="text/css">
+	#mc_embed_signup{background:#fff; clear:left; font:16px Helvetica,Arial,sans-serif;}
+	#mc_embed_signup form {display:block; position:relative; text-align:left; padding:0px;}
+</style>
+<div id="mc_embed_signup" class="grid_6 alpha">
+<form action="http://draha.us3.list-manage.com/subscribe/post?u=9a891f3ce811f3a5542c15596&amp;id=c319375be9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+	
+<div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
+<div class="mc-field-group">
+	<label for="mce-EMAIL">Email  <span class="asterisk">*</span>
+</label>
+	<input type="email" value="" name="EMAIL" class="required email" id="mce-EMAIL">
+</div>
+<div class="mc-field-group">
+	<label for="mce-FNAME">Nome (opzionale) </label>
+	<input type="text" value="" name="FNAME" class="" id="mce-FNAME">
+</div>
+<div class="mc-field-group">
+	<label for="mce-LNAME">Cognome (opzionale) </label>
+	<input type="text" value="" name="LNAME" class="" id="mce-LNAME">
+</div>
+	<div id="mce-responses" class="clear">
+		<div class="response" id="mce-error-response" style="display:none"></div>
+		<div class="response" id="mce-success-response" style="display:none"></div>
+	</div>    <!-- real people should not fill this in and expect good things - do not remove this or risk form bot signups-->
+    <div style="position: absolute; left: -5000px;"><input type="text" name="b_9a891f3ce811f3a5542c15596_c319375be9" value=""></div>
+	<div><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
+</form>
+</div>
+
+h4. Archivio
+
+notextile. 
+<div class="grid_6 omega">
+<div id="divRss"></div>
+</div>
+<script>
+$('#divRss').FeedEk({
+    FeedUrl : 'http://us3.campaign-archive1.com/feed?u=9a891f3ce811f3a5542c15596&id=c319375be9',
+    MaxCount : 1,
+    ShowPubDate:true,
+    ShowDesc : false,
+  });
+</script>
+</article>

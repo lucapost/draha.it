@@ -12,7 +12,7 @@ PREFIX = "/"
 HOME = "/"
 PATH_SEPARATOR = "/"
 
-SRC_EXT = {"markdown": "md", "textile": "tt", "plain": "txt"}
+SRC_EXT = {"markdown": "md", "textile": "textile", "plain": "txt"}
 DST_EXT = "html"
 HIDDEN = set(["404.md"])
 
@@ -43,6 +43,7 @@ def header(node):
 		<script src="/js/jquery.min.js"></script>
   		<script src="/js/modernizr.js"></script> 
   		<script src="/js/hashgrid.js"></script> 
+		<script src="/js/FeedEk.js"></script>
 	</head>
 	<body>
 		<div class="socialbutton">	
@@ -64,7 +65,7 @@ def header(node):
                         <li><a href="/#giardino" title="descrizione del giardino">Giardino</a></li>
                         <li><a href="/#info" title="informazioni generiche">Info</a></li>
                         <li><a href="/#contatti" title="come contattarci">Contatti</a></li>
-                        <li><a href="http://draha.us3.list-manage1.com/subscribe?u=9a891f3ce811f3a5542c15596&id=c319375be9" title="Iscriviti alla Newsletter">Newsletter</a></li>
+                        <li><a href="/#newsletter" title="Iscriviti alla Newsletter" class="newsletter">Newsletter!</a></li>
                     </ul>
                 </nav>
             </div>
