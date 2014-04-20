@@ -134,7 +134,12 @@ notextile. <!-- Begin MailChimp Signup Form -->
 	#mc_embed_signup{background:#fff; clear:left; font:16px Helvetica,Arial,sans-serif;}
 	#mc_embed_signup form {display:block; position:relative; text-align:left; padding:0px;}
 </style>
-<div id="mc_embed_signup" class="grid_6 alpha">
+
+notextile. <div class="grid_6 alpha">
+
+h4. Modulo d'iscrizione
+
+notextile. <div id="mc_embed_signup">
 <form action="http://draha.us3.list-manage.com/subscribe/post?u=9a891f3ce811f3a5542c15596&amp;id=c319375be9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 	
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
@@ -159,12 +164,14 @@ notextile. <!-- Begin MailChimp Signup Form -->
 	<div><input type="submit" value="Subscribe" name="subscribe" id="mc-embedded-subscribe" class="button"></div>
 </form>
 </div>
-
-h4. Archivio
+</div>
 
 notextile. 
 <div class="grid_6 omega">
-<div id="divRss"></div>
+
+h4. Archivio email
+
+notextile. <div id="divRss"></div>
 </div>
 <script>
 $('#divRss').FeedEk({
