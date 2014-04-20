@@ -5,10 +5,9 @@ update:
 	make
 	git add .
 	git commit -am fix
+	git push
 
 upload: 
-	make update
-	git push
 	rsync -avr -e ssh ./dst/* flarevm:www/draha.it/
 
 clean:
