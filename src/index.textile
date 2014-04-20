@@ -126,7 +126,7 @@ h3. Newsletter
 
 L'invio di email è il principale strumento di comunicazione con i nostri clienti. Se vuoi rimanere aggiornato sulle nostre attività, sulle manifestazioni che si susseguono nelle vicinanze o sulle nostre offerte iscriviti anche tu alla nostra newsletter.
 
-Al monento attuale spediamo circa 7-8 email all'anno. Potrai decidere di disiscriverti da questo servizio nel momento che riterrai più opportuno, comunicandocelo direttamente oppure dal link presente nel corpo delle email che riceverai.
+Al momento attuale spediamo circa 7-8 email all'anno. Potrai comunque decidere di disiscriverti da questo servizio nel momento che riterrai più opportuno, comunicandocelo direttamente oppure dal link presente nel corpo delle email che riceverai.
 
 notextile. <!-- Begin MailChimp Signup Form -->
 <link href="//cdn-images.mailchimp.com/embedcode/classic-081711.css" rel="stylesheet" type="text/css">
