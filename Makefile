@@ -6,6 +6,7 @@ update:
 	git add .
 	git commit -am fix
 	git push
+	rsync -avr -e ssh ./dst/* flarevm:www/draha.it/
 
 clean:
 	find . -type f -name "*.html" -exec rm -f {} \;
