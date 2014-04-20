@@ -207,6 +207,11 @@ footer {
     color: black;
 }
 
+footer a img.tripadvisor {
+    width: 220px;
+    height: 80px;
+}
+
 footer p {
     margin: 0;
     font-size: 16px;
