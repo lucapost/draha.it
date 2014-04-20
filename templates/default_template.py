@@ -2,7 +2,7 @@ import time
 import datetime
 
 SITE_NAME = "Casa Draha"
-SITEMAP = "sitemap.xml"
+SITEMAP = "./dst/sitemap.xml"
 URL = "http://draha.it"
 SRC = "/home/lucapost/repo/draha.it/src/"
 TITLE = "Draha"
