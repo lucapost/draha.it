@@ -148,8 +148,9 @@ section.items article:target {
 
 article {
     border-top: 1px solid black;
+    border-bottom: 1px solid black;
     margin: 0;
-    padding: 20px 0 20px 0;
+    padding: 20px 0 19px 0;
     column-count: 2;
     column-gap: 20px;
     -moz-column-count: 2;
@@ -198,11 +199,10 @@ iframe {
 }
 
 footer {
-    height: 100px;
+    height: 120px;
     font-family: 'nobile';
     line-height: 20px;
     text-align: center;
-    border-top: 1px solid black;
     padding: 19px 0 20px 0;
     background-color: white;
     color: black;
@@ -219,29 +219,40 @@ footer p {
     color: black;
 }
 
+footer p.calltoaction {
+    background: orange;
+    border-radius: 5px;
+    -moz-border-radius: 5px;
+    -webkit-border-radius: 5px;
+    line-height: 36px;
+    font-weight: bold;
+    border: 2px solid blue;
+}
+
+footer p.calltoaction a {
+    color: white;
+}
+
+footer p.calltoaction a:hover {
+    color: white;	
+    text-decoration: underline;
+}
+
 footer p.footercontacts {
-    margin-top: 0px;
+    margin-top: 20px;
 }
 
 footer p.address {
-    margin-top: 20px;
-}
-
-footer p.last {
-    margin-top: 20px;
-}
-
-footer p.last a {
-    color: black;
-}
-
-footer p a {
-    color: black;
-    text-decoration: underline;
+    margin-bottom: 20px;
 }
 
 footer p a.phone {
     text-decoration: none;
+}
+
+footer p.last {
+    border-top: 1px solid black;
+    font-size: 12px;
 }
 
 img.social {
