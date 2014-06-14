@@ -10,7 +10,7 @@ Perchè questo nome? *Draha* è il toponimo originario del luogo dove sorge la c
 
 Ti accoglierà la signora Teresa, per prendersi cura di tutte le tue necessità: dalle preparazione delle colazioni alla pulizia della casa.
 
-h3. Prezzi
+h4. Prezzi
 
 *Casa Draha* ti offre ospitalità:
 
@@ -101,6 +101,10 @@ h4. Promozione turistica
 
 * "ProLoco Nediske Doline(sito internet della proloco delle valli del natisone)":http://www.nediskedoline.it/
 * "Alpe Adria Trial(itinerario escursionistico dall'Austria a Trieste)":http://www.alpe-adria-trail.com/
+
+h4. Partners
+
+* "Gushi&Raffunk (sito internet del duo musicale di Stregna)":http://www.gushiraffunk.com/
 
 notextile. </article><article id="contatti">
 
