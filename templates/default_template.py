@@ -126,7 +126,7 @@ def footer(node):
             <div class="grid_3 social">
                 <a href="http://twitter.com/casadraha" title="pagina twitter di @CasaDraha"><img src="/images/twitter.png" alt="twitter logo" title="profilo twitter di @casadraha" class="grid_1 alpha social"/></a>
                 <a href="https://plus.google.com/108792283838853337639/about" title="pagina google plus di Casa Draha"><img src="/images/gplus.png" alt="google plus logo" title="profilo google plus" class="grid_1 social"/></a>
-                <a href="https://www.facebook.com/pages/Casa-Draha/130267147110320" title="pagina facebook di Casa Draha"><img src="/images/facebook.png" alt="facebook logo" title="pagina fecbook di Casa Draha" class="grid_1 omega social"/></a>
+                <a href="https://www.facebook.com/casadraha" title="pagina facebook di Casa Draha"><img src="/images/facebook.png" alt="facebook logo" title="pagina fecbook di Casa Draha" class="grid_1 omega social"/></a>
                 <div id="google_translate_element" class="grid_3"></div>
             </div>
 	    <div class="grid_12">
