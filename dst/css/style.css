@@ -159,7 +159,8 @@ article {
     -webkit-column-gap: 20px;
 }
 
-article#newsletter {
+article#newsletter,
+article#tripadvisor {
     column-count: 1;
     -moz-column-count: 1;
     -webkit-column-count: 1;

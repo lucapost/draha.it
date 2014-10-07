@@ -138,14 +138,12 @@ notextile. <!-- Begin MailChimp Signup Form -->
 	#mc_embed_signup{background:#fff; clear:left; font:16px Helvetica,Arial,sans-serif;}
 	#mc_embed_signup form {display:block; position:relative; text-align:left; padding:0px;}
 </style>
-
-notextile. <div class="grid_6 alpha">
+<div class="grid_6 alpha">
 
 h4. Modulo d'iscrizione
 
 notextile. <div id="mc_embed_signup">
 <form action="http://draha.us3.list-manage.com/subscribe/post?u=9a891f3ce811f3a5542c15596&amp;id=c319375be9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
-	
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email  <span class="asterisk">*</span>
@@ -169,8 +167,6 @@ notextile. <div id="mc_embed_signup">
 </form>
 </div>
 </div>
-
-notextile. 
 <div class="grid_6 omega">
 
 h4. Archivio email
@@ -186,3 +182,12 @@ $('#divRss').FeedEk({
   });
 </script>
 </article>
+
+notextile. <article id="tripadvisor">
+<div id="TA_sswidecollectreview313" class="TA_sswidecollectreview">
+<ul id="R3LmvXv2W56V" class="TA_links FBSFPT">
+<li id="ONVLkH" class="kvyA72KZV">
+<a target="_blank" href="http://www.tripadvisor.com/"><img src="https://www.tripadvisor.com/img/cdsi/img2/branding/150_logo-16124-2.png" alt="TripAdvisor"/></a>
+</li>
+</div>
+<script src="http://www.jscache.com/wejs?wtype=sswidecollectreview&amp;uniq=313&amp;locationId=4544610&amp;lang=en_US&amp;border=true&amp;display_version=2"></script>
