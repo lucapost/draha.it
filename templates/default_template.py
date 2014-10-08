@@ -48,10 +48,10 @@ def header(node):
 	<body>
 		<div class="socialbutton">	
 			<div class="tt-share">
-                <a href="https://twitter.com/share" class="twitter-share-button" data-url="https://draha.it" data-lang="it" data-count="vertical">Tweet</a>
+                		<a href="https://twitter.com/share" class="twitter-share-button" data-url="https://draha.it" data-lang="it" data-count="vertical">Tweet</a>
 			</div>
-            <div class="g-plusone" data-size="tall" data-href="https://plus.google.com/108792283838853337639/about"></div><br/>
-            <div class="fb-like" data-href="https://www.facebook.com/pages/Casa-Draha/130267147110320?fref=ts" data-send="false" data-layout="box_count" data-width="60" data-show-faces="false"></div>
+            		<div class="g-plusone" data-size="tall" data-href="https://plus.google.com/108792283838853337639/about"></div><br/>
+			<iframe src="//www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.facebook.com%2Fcasadraha&amp;width&amp;layout=box_count&amp;action=like&amp;show_faces=true&amp;share=false&amp;height=65&amp;appId=706061039456171" scrolling="no" frameborder="0" style="border:none; overflow:hidden; height:65px;" allowTransparency="true"></iframe>
 		</div>
 	    <div id="top" class="container_12 clearfix">
             <div class="menu">
@@ -172,15 +172,6 @@ def footer(node):
                 po.src = 'https://apis.google.com/js/plusone.js';
                 var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
                 })();
-            </script>
-            <div id="fb-root"></div>
-            <script>(function(d, s, id) {
-                var js, fjs = d.getElementsByTagName(s)[0];
-                if (d.getElementById(id)) return;
-                js = d.createElement(s); js.id = id;
-                js.src = "//connect.facebook.net/en_US/all.js#xfbml=1";
-                fjs.parentNode.insertBefore(js, fjs);
-                }(document, 'script', 'facebook-jssdk'));
             </script>
             <script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="https://platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script>
 </body>
