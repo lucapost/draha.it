@@ -190,4 +190,4 @@ notextile. <article id="tripadvisor">
 <a target="_blank" href="http://www.tripadvisor.com/"><img src="https://www.tripadvisor.com/img/cdsi/img2/branding/150_logo-16124-2.png" alt="TripAdvisor"/></a>
 </li>
 </div>
-<script src="https://www.jscache.com/wejs?wtype=sswidecollectreview&amp;uniq=313&amp;locationId=4544610&amp;lang=en_US&amp;border=true&amp;display_version=2"></script>
+<script src="http://www.jscache.com/wejs?wtype=sswidecollectreview&amp;uniq=313&amp;locationId=4544610&amp;lang=en_US&amp;border=true&amp;display_version=2"></script>
