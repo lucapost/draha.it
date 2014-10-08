@@ -1,15 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   <url>
-    <loc>http://draha.it/privacy.html</loc>
+    <loc>https://draha.it/privacy.html</loc>
     <lastmod>2014-04-20</lastmod>
   </url>
   <url>
-    <loc>http://draha.it/404.html</loc>
+    <loc>https://draha.it/404.html</loc>
     <lastmod>2014-04-20</lastmod>
   </url>
   <url>
-    <loc>http://draha.it/index.html</loc>
+    <loc>https://draha.it/index.html</loc>
     <lastmod>2014-10-07</lastmod>
   </url>
 </urlset>

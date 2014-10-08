@@ -3,7 +3,7 @@ import datetime
 
 SITE_NAME = "Casa Draha"
 SITEMAP = "./dst/sitemap.xml"
-URL = "http://draha.it"
+URL = "https://draha.it"
 SRC = "/home/lucapost/repo/draha.it/src/"
 TITLE = "Draha"
 SUBTITLE = "Vacanze e B&amp;B a Stregna nelle Valli del Natisone "
@@ -39,7 +39,7 @@ def header(node):
 		<link rel="stylesheet" type="text/css" media="all" href="/css/960.css" />
 		<link rel="stylesheet" type="text/css" media="all" href="/css/hashgrid.css" />
 		<link rel="stylesheet" type="text/css" media="all" href="/css/style.css" />
-		<link href='http://fonts.googleapis.com/css?family=Fanwood+Text' rel='stylesheet' type='text/css'>
+		<link href='https://fonts.googleapis.com/css?family=Fanwood+Text' rel='stylesheet' type='text/css'>
 		<script src="/js/jquery.min.js"></script>
   		<script src="/js/modernizr.js"></script> 
   		<script src="/js/hashgrid.js"></script> 
@@ -48,7 +48,7 @@ def header(node):
 	<body>
 		<div class="socialbutton">	
 			<div class="tt-share">
-                <a href="https://twitter.com/share" class="twitter-share-button" data-url="http://draha.it" data-lang="it" data-count="vertical">Tweet</a>
+                <a href="https://twitter.com/share" class="twitter-share-button" data-url="https://draha.it" data-lang="it" data-count="vertical">Tweet</a>
 			</div>
             <div class="g-plusone" data-size="tall" data-href="https://plus.google.com/108792283838853337639/about"></div><br/>
             <div class="fb-like" data-href="https://www.facebook.com/pages/Casa-Draha/130267147110320?fref=ts" data-send="false" data-layout="box_count" data-width="60" data-show-faces="false"></div>
@@ -124,13 +124,13 @@ def footer(node):
                 		<p class="address">Via Postregna 17, 33040 Stregna, Udine, Italy</p>
 			</div>
             <div class="grid_3 social">
-                <a href="http://twitter.com/casadraha" title="pagina twitter di @CasaDraha"><img src="/images/twitter.png" alt="twitter logo" title="profilo twitter di @casadraha" class="grid_1 alpha social"/></a>
+                <a href="https://twitter.com/casadraha" title="pagina twitter di @CasaDraha"><img src="/images/twitter.png" alt="twitter logo" title="profilo twitter di @casadraha" class="grid_1 alpha social"/></a>
                 <a href="https://plus.google.com/108792283838853337639/about" title="pagina google plus di Casa Draha"><img src="/images/gplus.png" alt="google plus logo" title="profilo google plus" class="grid_1 social"/></a>
                 <a href="https://www.facebook.com/casadraha" title="pagina facebook di Casa Draha"><img src="/images/facebook.png" alt="facebook logo" title="pagina fecbook di Casa Draha" class="grid_1 omega social"/></a>
                 <div id="google_translate_element" class="grid_3"></div>
             </div>
 	    <div class="grid_12">
-		<p class="last">&copy; <a href="http://luca.postregna.name">lucapost</a> ''' + str(current_time.year) + ''', <a rel="license" href="http://creativecommons.org/licenses/by-nc/3.0/">license</a>, <a href="/privacy.html" title="normativa sulla privacy">privacy</a>, edit: ''' + time.strftime("%Y%m%d %I:%M", node.page.last_edit) + '''</p>
+		<p class="last">&copy; <a href="https://luca.postregna.name">lucapost</a> ''' + str(current_time.year) + ''', <a rel="license" href="https://creativecommons.org/licenses/by-nc/3.0/">license</a>, <a href="/privacy.html" title="normativa sulla privacy">privacy</a>, edit: ''' + time.strftime("%Y%m%d %I:%M", node.page.last_edit) + '''</p>
 	    </div> 
 			<div class="clear"></div>
 		</footer>	
