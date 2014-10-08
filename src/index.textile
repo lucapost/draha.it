@@ -175,7 +175,7 @@ notextile. <div id="divRss"></div>
 </div>
 <script>
 $('#divRss').FeedEk({
-    FeedUrl : 'https://us3.campaign-archive1.com/feed?u=9a891f3ce811f3a5542c15596&id=c319375be9',
+    FeedUrl : 'http://us3.campaign-archive1.com/feed?u=9a891f3ce811f3a5542c15596&id=c319375be9',
     MaxCount : 1,
     ShowPubDate:true,
     ShowDesc : false,
