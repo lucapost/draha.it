@@ -175,7 +175,7 @@ notextile. <div id="divRss"></div>
 </div>
 <script>
 $('#divRss').FeedEk({
-    FeedUrl : 'http://us3.campaign-archive1.com/feed?u=9a891f3ce811f3a5542c15596&id=c319375be9',
+    FeedUrl : 'https://us3.campaign-archive1.com/feed?u=9a891f3ce811f3a5542c15596&id=c319375be9',
     MaxCount : 1,
     ShowPubDate:true,
     ShowDesc : false,
@@ -190,4 +190,4 @@ notextile. <article id="tripadvisor">
 <a target="_blank" href="http://www.tripadvisor.com/"><img src="https://www.tripadvisor.com/img/cdsi/img2/branding/150_logo-16124-2.png" alt="TripAdvisor"/></a>
 </li>
 </div>
-<script src="http://www.jscache.com/wejs?wtype=sswidecollectreview&amp;uniq=313&amp;locationId=4544610&amp;lang=en_US&amp;border=true&amp;display_version=2"></script>
+<script src="https://www.jscache.com/wejs?wtype=sswidecollectreview&amp;uniq=313&amp;locationId=4544610&amp;lang=en_US&amp;border=true&amp;display_version=2"></script>
