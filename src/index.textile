@@ -143,7 +143,7 @@ notextile. <!-- Begin MailChimp Signup Form -->
 h4. Modulo d'iscrizione
 
 notextile. <div id="mc_embed_signup">
-<form action="http://draha.us3.list-manage.com/subscribe/post?u=9a891f3ce811f3a5542c15596&amp;id=c319375be9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
+<form action="https://draha.us3.list-manage.com/subscribe/post?u=9a891f3ce811f3a5542c15596&amp;id=c319375be9" method="post" id="mc-embedded-subscribe-form" name="mc-embedded-subscribe-form" class="validate" target="_blank" novalidate>
 <div class="indicates-required"><span class="asterisk">*</span> indicates required</div>
 <div class="mc-field-group">
 	<label for="mce-EMAIL">Email  <span class="asterisk">*</span>
