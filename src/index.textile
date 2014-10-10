@@ -113,6 +113,8 @@ h3. Contatti
 Telefono:  "+39 333 760 0975":tel:+393337600975
 Email: "info@draha.it":mailto:info@draha.it
 
+notextile. <br/>
+
 h3. Indirizzo
 
 Draha Casa Vacanze e B&amp;B
@@ -120,11 +122,10 @@ di Teresa Postregna,
 Via Postregna, 17 
 33040 Stregna, Udine (IT)
 
-"Google Maps":http://goo.gl/maps/oBfpl
-
 !/images/casadraha-qrcode.png(codice qr)!
 
-notextile. </article><article id="newsletter">
+notextile. <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3903.032023164602!2d13.570978999999998!3d46.125893999999924!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x477a512cb377eadf%3A0x18cec6ae626df0a6!2sCasa+Draha!5e1!3m2!1sit!2sit!4v1412961665210" width="460px" height="580px" frameborder="0" style="border:0"></iframe>
+</article><article id="newsletter">
 
 h3. Newsletter
 
