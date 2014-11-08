@@ -1,13 +1,13 @@
 generate: 
 	./minimalsite.py -t templates/default_template.py
 
-update:
+github:
 	make
 	git add .
 	git commit -am fix
 	git push
 
-upload: 
+flarevm: 
 	rsync -avr -e ssh ./dst/* flarevm:www/draha.it/
 
 clean:
