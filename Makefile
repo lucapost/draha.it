@@ -7,8 +7,8 @@ github:
 	git commit -am fix
 	git push
 
-flarevm: 
-	rsync -avr -e ssh ./dst/* flarevm:www/draha.it/
+vultr: 
+	rsync -avr -e ssh ./dst/* vultr2:www/draha.it/
 
 clean:
 	find . -type f -name "*.html" -exec rm -f {} \;
